@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
   // ✅ NÚMERO DE WHATSAPP
-  const numeroWpp = "5491136721854";
+  const numeroWpp = "5491138438009";
 
   // ✅ ELEMENTOS DEL DOM
   const contenedor = document.getElementById("productos");
