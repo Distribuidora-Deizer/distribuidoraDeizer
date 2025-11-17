@@ -68,6 +68,42 @@
       border-color: #ff0000 !important;
       box-shadow: 0 0 5px rgba(255, 0, 0, 0.6) !important;
     } */
+
+    /* Botón subir arriba */
+    #btn-arriba {
+      position: fixed;
+      bottom: 90px;
+      /* arriba del carrito */
+      right: 20px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      border: none;
+      background: #ffffff;
+      /* rojo */
+      color: rgb(113, 113, 113);
+      font-size: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+      cursor: pointer;
+      z-index: 999;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity .3s ease, visibility .3s ease, transform .3s ease;
+    }
+
+    #btn-arriba.show {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+
+    #btn-arriba:hover {
+      background: #fa2222;
+      color: rgb(255, 255, 255);
+    }
   </style>
 </head>
 
@@ -153,6 +189,11 @@
       </div>
     </div>
   </div>
+
+  <button id="btn-arriba">
+    <i class="bi bi-arrow-up"></i>
+  </button>
+
   <!-- Footer -->
   <footer class="pt-5 pb-3" id="contacto">
     <div class="container">
@@ -201,6 +242,25 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
   <script src="../auth.js"></script>
+  <script>
+    const btnArriba = document.getElementById("btn-arriba");
+
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 300) {
+        btnArriba.classList.add("show");
+      } else {
+        btnArriba.classList.remove("show");
+      }
+    });
+
+    btnArriba.addEventListener("click", () => {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    });
+  </script>
+
 </body>
 
 </html>
