@@ -1,6 +1,6 @@
 // Hash de la contraseña (SHA-256)
 //const PASSWORD_HASH = "a994696540befd55c96017a162c7ae2685f2010a7fd3224c0ada25241913933b";
-const PASSWORD_HASH = "a994696540befd55c96017a162c7ae2685f2010a7fd3224c0ada2524191393";
+const PASSWORD_HASH = "a994696540befd55c96017a162c7ae2685f2010a7fd3224c0ada25241913933b";
 // Duración del login en milisegundos (3 horas)
 const LOGIN_DURATION = 3 * 60 * 60 * 1000;
 
