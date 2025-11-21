@@ -1,2542 +1,2541 @@
 [
-    {
-        "Id": 1,
-        "Producto": "Cinta Aisladora Tacsa 10m",
-        "Precio": 599,
-        "Categoría": "Cintas",
-        "Img": "cinta.jpeg"
-    },
-    {
-        "Id": 2,
-        "Producto": "Cinta Aisladora Tacsa 20m",
-        "Precio": 1099,
-        "Categoría": "Cintas",
-        "Img": "cinta.jpeg"
-    },
-    {
-        "Id": 3,
-        "Producto": "CINTA DE\nEMBALAR SIGMA 48X40",
-        "Precio": 792,
-        "Categoría": "Cintas",
-        "Img": "cintaSigma.jpeg"
-    },
-    {
-        "Id": 4,
-        "Producto": "CINTA DE TEFLON LUXON 1\/2x10mts",
-        "Precio": 276,
-        "Categoría": "Cintas",
-        "Img": "cintaTeflonLuxon.png"
-    },
-    {
-        "Id": 5,
-        "Producto": "CINTA DE TEFLON LUXON 3\/4x10mts",
-        "Precio": 398,
-        "Categoría": "Cintas",
-        "Img": "cintaTeflonLuxon.png"
-    },
-    {
-        "Id": 6,
-        "Producto": "MANGUERAS DE CARGA PARA LAVARROPAS 1,5MTS",
-        "Precio": 2199,
-        "PrecioConDescuento": 2099,
-        "Categoría": "Mangueras",
-        "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "mangueraCarga.jpg"
-    },
-    {
-        "Id": 7,
-        "Producto": "MANGUERAS DE CARGA PARA\nLAVARROPAS 2MTS",
-        "Precio": 2740,
-        "PrecioConDescuento": 2603,
-        "Categoría": "Mangueras",
-        "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "mangueraCarga.jpg"
-    },
-    {
-        "Id": 8,
-        "Producto": "MANGUERAS DE CARGA PARA\nLAVARROPAS 3MTS",
-        "Precio": 3094,
-        "PrecioConDescuento": 2849,
-        "Categoría": "Mangueras",
-        "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "mangueraCarga.jpg"
-    },
-    {
-        "Id": 9,
-        "Producto": "MANGUERAS DESCARGA PARA\nLAVARROPAS 1,80MTS",
-        "Precio": 3059,
-        "PrecioConDescuento": 2906,
-        "Categoría": "Mangueras",
-        "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "mangueraDescarga.jpg"
-    },
-    {
-        "Id": 10,
-        "Producto": "MANGUERAS PARA GAS APROBADA X 25MTS",
-        "Precio": 17771,
-        "PrecioConDescuento": 16882.45,
-        "Categoría": "Mangueras",
-        "Notas": "5% de\ndescuento por\npago contado",
-        "Img": "mangueraGas.jpg"
-    },
-    {
-        "Id": 11,
-        "Producto": "CINTA DOBLE FAZ 5MTS",
-        "Precio": 1100,
-        "Categoría": "Cintas",
-        "Img": "cintaDobleFaz.jpeg"
-    },
-    {
-        "Id": 12,
-        "Producto": "SELLA ROSCAS AGUA 25cc",
-        "Precio": 1062,
-        "PrecioConDescuento": 2906,
-        "Categoría": "Revista",
-        "Img": "sellaRoscasAgua.jpeg"
-    },
-    {
-        "Id": 13,
-        "Producto": "SELLA ROSCAS GAS 25cc",
-        "Categoría": "Revista",
-        "Img": "sellaRoscasGas.jpeg"
-    },
-    {
-        "Id": 14,
-        "Producto": "HIDROFUGO 1lts",
-        "Precio": 1471,
-        "Categoría": "Revista",
-        "Img": "HIDROFUGO.png"
-    },
-    {
-        "Id": 15,
-        "Producto": "SOPAPA DEIZER 40mm",
-        "Precio": 1349,
-        "Categoría": "Revista",
-        "Img": "sopapa.jpg"
-    },
-    {
-        "Id": 16,
-        "Producto": "SOPAPA DEIZER 50mm",
-        "Precio": 1540,
-        "Categoría": "Revista",
-        "Img": "sopapa.jpg"
-    },
-    {
-        "Id": 17,
-        "Producto": "FILTRO PARA BACHA 65mm",
-        "Precio": 693,
-        "Categoría": "Revista",
-        "Img": "filtroBacha.jpg"
-    },
-    {
-        "Id": 18,
-        "Producto": "CANILLA ESFERICA  1\/2",
-        "Precio": 1200,
-        "Categoría": "Revista",
-        "Img": "canillaEsfericaMedio.jpeg"
-    },
-    {
-        "Id": 19,
-        "Producto": "CANILLA ESFERICA 3\/4",
-        "Precio": 1113,
-        "Categoría": "Revista",
-        "Img": "canillaEsfericaTrescuartos.jpg"
-    },
-    {
-        "Id": 20,
-        "Producto": "LLAVE ESFERICA 1\/2",
-        "Precio": 1137,
-        "Categoría": "Revista",
-        "Img": "LlaveEsfericaMedio.jpg"
-    },
-    {
-        "Id": 21,
-        "Producto": "LLAVE ESFERICA 3\/4",
-        "Precio": 2584,
-        "Categoría": "Revista",
-        "Img": "llaveEsfericaTrescuartos.jpeg"
-    },
-    {
-        "Id": 22,
-        "Producto": "CANILLA PARA LAVARROPAS",
-        "Precio": 2046,
-        "Categoría": "Revista",
-        "Img": "canillaLavarropas.jpeg"
-    },
-    {
-        "Id": 23,
-        "Producto": "juego llaves allen mediano",
-        "Precio": 2446,
-        "Categoría": "FERRETERIA",
-        "Img": "juegoLlavesAllen.jpeg",
-        "Descripción": "9 PIEZAS MILIMETRICAS"
-    },
-    {
-        "Id": 24,
-        "Producto": "juego llaves torx mediano",
-        "Precio": 2620,
-        "Categoría": "FERRETERIA",
-        "Img": "juegoLlavesTorx.jpeg",
-        "Descripción": "9 PIEZAS MILIMETRICAS"
-    },
-    {
-        "Id": 25,
-        "Producto": "fieltro goma espuma 20cm",
-        "Precio": 576,
-        "PrecioConDescuento": 600,
-        "Categoría": "FERRETERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "fieltro.jpg"
-    },
-    {
-        "Id": 26,
-        "Producto": "fieltro goma espuma 25cm",
-        "Precio": 655,
-        "PrecioConDescuento": 682,
-        "Categoría": "FERRETERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "fieltro.jpg"
-    },
-    {
-        "Id": 27,
-        "Producto": "espatula de pvc 9cm",
-        "Precio": 117,
-        "Categoría": "PINTURERIA",
-        "Img": "EspatulaPvc.jpg"
-    },
-    {
-        "Id": 28,
-        "Producto": "espatula de pvc 12cm",
-        "Precio": 137,
-        "Categoría": "PINTURERIA",
-        "Img": "EspatulaPvc.jpg"
-    },
-    {
-        "Id": 29,
-        "Producto": "espatula de pvc 15cm",
-        "Precio": 154,
-        "Categoría": "PINTURERIA",
-        "Img": "EspatulaPvc.jpg"
-    },
-    {
-        "Id": 30,
-        "Producto": "espatula yesero",
-        "Precio": 607,
-        "Categoría": "PINTURERIA",
-        "Img": "espatulaYesero.png"
-    },
-    {
-        "Id": 31,
-        "Producto": "llana lisa de pvc",
-        "Precio": 1333,
-        "Categoría": "PINTURERIA",
-        "Img": "llanaLisa.jpg"
-    },
-    {
-        "Id": 32,
-        "Producto": "venda sintetica 10x 25cm",
-        "Precio": 867,
-        "Categoría": "PINTURERIA",
-        "Img": "vendaSintetica.png"
-    },
-    {
-        "Id": 33,
-        "Producto": "venda sintetica 20x25cm",
-        "Precio": 1525,
-        "Categoría": "PINTURERIA",
-        "Img": "vendaSintetica.png"
-    },
-    {
-        "Id": 34,
-        "Producto": "par de guantes moteados livianos gris",
-        "Precio": 573,
-        "PrecioConDescuento": 544.35,
-        "Categoría": "REVISTA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA \/ Descuento del 5% a partir de 100 unidades",
-        "Img": "guantesAzul.jpg"
-    },
-    {
-        "Id": 35,
-        "Producto": "par de guantes moteados pesado azul linea prem",
-        "Precio": 739.99,
-        "Categoría": "REVISTA",
-        "Notas": "100% algodon excelente calidad",
-        "Img": "guantesAzulPrime.jpg"
-    },
-    {
-        "Id": 36,
-        "Producto": "sifon simple",
-        "Precio": 2748,
-        "Categoría": "SANITARIO",
-        "Notas": "100% original",
-        "Img": "sifonSimple.jpg"
-    },
-    {
-        "Id": 37,
-        "Producto": "sifon doble",
-        "Precio": 6037,
-        "Categoría": "SANITARIO",
-        "Notas": "100% original",
-        "Img": "sifonDoble.jpg"
-    },
-    {
-        "Id": 38,
-        "Producto": "caño corrugado de 3\/4 naranja",
-        "Precio": 3035,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "rolloNaranja.jpg"
-    },
-    {
-        "Id": 39,
-        "Producto": "caño corrugado de 7\/8 naranja",
-        "Precio": 4442,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "rolloNaranja.jpg"
-    },
-    {
-        "Id": 40,
-        "Producto": "caño corrugado de 3\/4 blanco",
-        "Precio": 3705,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "rolloBlanco.jpg"
-    },
-    {
-        "Id": 41,
-        "Producto": "caño corrugado de 7\/8 blanco",
-        "Precio": 5391,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "rolloBlanco.jpg"
-    },
-    {
-        "Id": 42,
-        "Producto": "portalampara con chicote",
-        "Precio": 288,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "portaLamparaChicote.jpg",
-        "Descripción": "conexión antillama y protector plástico antiquiebre"
-    },
-    {
-        "Id": 43,
-        "Producto": "portalampara 3 piezas negro",
-        "Precio": 499,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "portaTresPiezas.jpg",
-        "Descripción": "conexión antillama y protector plástico antiquiebre"
-    },
-    {
-        "Id": 44,
-        "Producto": "porta bastidor exterior",
-        "Precio": 499,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "portaBastidor.jpg"
-    },
-    {
-        "Id": 45,
-        "Producto": "acople rapido 1\/2",
-        "Precio": 999,
-        "Categoría": "SANITARIO",
-        "Img": "acopleRapido.jpg"
-    },
-    {
-        "Id": 46,
-        "Producto": "acople rapido 3\/4",
-        "Precio": 1217,
-        "Categoría": "SANITARIO",
-        "Img": "acopleRapido.jpg"
-    },
-    {
-        "Id": 47,
-        "Producto": "manguera de riego 1\/2",
-        "Precio": 0,
-        "Categoría": "JARDIN",
-        "Img": "manguera.jpg"
-    },
-    {
-        "Id": 48,
-        "Producto": "manguera de riego 3\/4",
-        "Precio": 0,
-        "Categoría": "JARDIN",
-        "Img": "manguera.jpg"
-    },
-    {
-        "Id": 49,
-        "Producto": "acople rapido para manguera 1\/2",
-        "Precio": 830,
-        "Categoría": "JARDIN",
-        "Img": "acopleManguera.jpg"
-    },
-    {
-        "Id": 50,
-        "Producto": "pico encastre 1\/2",
-        "Precio": 445,
-        "Categoría": "JARDIN",
-        "Img": "picoEncastre.jpg"
-    },
-    {
-        "Id": 51,
-        "Producto": "carretel para bordeadora + tanza UNIVERSAL",
-        "Precio": 629,
-        "Categoría": "JARDIN",
-        "Notas": "consultar precio por bulto de 150 unidades",
-        "Img": "portaTanza.jpg"
-    },
-    {
-        "Id": 52,
-        "Producto": "enduido 1lt x 6 unid",
-        "Precio": 3004,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "enduido1lt.png"
-    },
-    {
-        "Id": 53,
-        "Producto": "enduido 1lt x 12unid",
-        "Precio": 2900,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "enduido1lt.png"
-    },
-    {
-        "Id": 54,
-        "Producto": "enduido 1lt x 24unid",
-        "Precio": 2693,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "enduido1lt.png"
-    },
-    {
-        "Id": 55,
-        "Producto": "enduido 4lt",
-        "Precio": 7567,
-        "Categoría": "PINTURERIA",
-        "Img": "enduido.jpg"
-    },
-    {
-        "Id": 56,
-        "Producto": "latex interior 1lts",
-        "Precio": 2825,
-        "Categoría": "PINTURERIA",
-        "Img": "LATEX4LTS.jpg"
-    },
-    {
-        "Id": 57,
-        "Producto": "latex interior 4lts",
-        "Precio": 8982,
-        "Categoría": "PINTURERIA",
-        "Img": "LATEX4LTS.jpg"
-    },
-    {
-        "Id": 58,
-        "Producto": "latex interior 10lts",
-        "Precio": 19961,
-        "Categoría": "PINTURERIA",
-        "Img": "LATEX10LTS.jpg"
-    },
-    {
-        "Id": 59,
-        "Producto": "latex interior 20lts",
-        "Precio": 30503,
-        "Categoría": "PINTURERIA",
-        "Img": "LATEX20LTS.jpg"
-    },
-    {
-        "Id": 60,
-        "Producto": "fijador 1lt",
-        "Precio": 2952,
-        "Categoría": "PINTURERIA",
-        "Img": "fijador.jpg"
-    },
-    {
-        "Id": 61,
-        "Producto": "pincel 7",
-        "Precio": 583.42,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "pincel.jpg"
-    },
-    {
-        "Id": 62,
-        "Producto": "pincel 10",
-        "Precio": 617.76,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "pincel.jpg"
-    },
-    {
-        "Id": 63,
-        "Producto": "pincel 15",
-        "Precio": 780.3,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "pincel.jpg"
-    },
-    {
-        "Id": 64,
-        "Producto": "pincel 20",
-        "Precio": 928.26,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "pincel.jpg"
-    },
-    {
-        "Id": 65,
-        "Producto": "pincel 25",
-        "Precio": 1150,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "pincel.jpg"
-    },
-    {
-        "Id": 66,
-        "Producto": "pincel 30",
-        "Precio": 1405,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "pincel.jpg"
-    },
-    {
-        "Id": 67,
-        "Producto": "rodillo con funda 5",
-        "Precio": 455,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "RODILLOCONFUNDA5CM.jpg",
-        "Descripción": "5% de descuento por 6 docenas surtidas"
-    },
-    {
-        "Id": 68,
-        "Producto": "rodillo con funda 8",
-        "Precio": 487,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "RODILLODE8CM.jpg",
-        "Descripción": "5% de descuento por 6 docenas surtidas"
-    },
-    {
-        "Id": 69,
-        "Producto": "rodillo con funda 11",
-        "Precio": 533,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "RODILLODE11CM.jpg",
-        "Descripción": "5% de descuento por 6 docenas surtidas"
-    },
-    {
-        "Id": 70,
-        "Producto": "rodillo epoxi 5",
-        "Precio": 468,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "EPOXIDE5CM.jpg"
-    },
-    {
-        "Id": 71,
-        "Producto": "rodillo epoxi 8",
-        "Precio": 520,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "EPOXIDE8CM.jpg"
-    },
-    {
-        "Id": 72,
-        "Producto": "rodillo epoxi 11",
-        "Precio": 572,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "EPOXIDE11CM.jpg"
-    },
-    {
-        "Id": 73,
-        "Producto": "rodillo simil lana 22",
-        "Precio": 2250,
-        "Categoría": "PINTURERIA",
-        "Img": "rodilloSimilLana.jpg"
-    },
-    {
-        "Id": 74,
-        "Producto": "rodillo lana larga 22",
-        "Precio": 4320,
-        "Categoría": "PINTURERIA",
-        "Img": "rodilloLana.jpg"
-    },
-    {
-        "Id": 75,
-        "Producto": "rodillo antigota 22",
-        "Precio": 3500,
-        "Categoría": "PINTURERIA",
-        "Img": "rodilloAntigota.jpg"
-    },
-    {
-        "Id": 76,
-        "Producto": "bandeja jr plana",
-        "Precio": 368,
-        "Categoría": "PINTURERIA",
-        "Img": "BANDEJAPLANAJUNIORS.jpg"
-    },
-    {
-        "Id": 77,
-        "Producto": "bandeja plana",
-        "Precio": 931,
-        "Categoría": "PINTURERIA",
-        "Img": "bandejaPlana.jpg"
-    },
-    {
-        "Id": 78,
-        "Producto": "bandeja de colgar",
-        "Precio": 870,
-        "Categoría": "PINTURERIA",
-        "Img": "bandejaColgar.jpg"
-    },
-    {
-        "Id": 79,
-        "Producto": "cubeta 12lt",
-        "Precio": 1988,
-        "Categoría": "PINTURERIA",
-        "Img": "cubeta12lts.jpg"
-    },
-    {
-        "Id": 80,
-        "Producto": "carton 90cmx20mts unidad",
-        "Precio": 4689,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "carton.jpg",
-        "Descripción": "consultar descuento a partir de 100 unidades"
-    },
-    {
-        "Id": 81,
-        "Producto": "carton 90cmx20mts x 4 unidades",
-        "Precio": 4575,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "carton.jpg"
-    },
-    {
-        "Id": 82,
-        "Producto": "carton 90cmx20mts x 6 unidades",
-        "Precio": 4428,
-        "Categoría": "PINTURERIA",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "carton.jpg"
-    },
-    {
-        "Id": 83,
-        "Producto": "tornillo punta mecha 1\/2",
-        "PrecioUnidadxBulto": 12.44,
-        "PrecioTotalBulto": 2488,
-        "UnidadesPorBulto": 200,
-        "Categoría": "BULONERA",
-        "Img": "puntaMecha.jpg"
-    },
-    {
-        "Id": 84,
-        "Producto": "tornillo punta mecha 3\/4",
-        "PrecioUnidadxBulto": 15.15,
-        "PrecioTotalBulto": 3030,
-        "UnidadesPorBulto": 200,
-        "Categoría": "BULONERA",
-        "Img": "puntaMecha.jpg"
-    },
-    {
-        "Id": 85,
-        "Producto": "tornillo punta mecha 1",
-        "PrecioUnidadxBulto": 17.72,
-        "PrecioTotalBulto": 3544,
-        "UnidadesPorBulto": 200,
-        "Categoría": "BULONERA",
-        "Img": "puntaMecha.jpg"
-    },
-    {
-        "Id": 86,
-        "Producto": "tornillo driwal 5\/8",
-        "PrecioUnidadxBulto": 7.53,
-        "PrecioTotalBulto": 2259,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "driwal.jpg"
-    },
-    {
-        "Id": 87,
-        "Producto": "tornillo driwal 3\/4",
-        "PrecioUnidadxBulto": 7.73,
-        "PrecioTotalBulto": 2319,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "driwal.jpg"
-    },
-    {
-        "Id": 88,
-        "Producto": "tornillo driwal 1",
-        "PrecioUnidadxBulto": 9.25,
-        "PrecioTotalBulto": 2775,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "driwal.jpg"
-    },
-    {
-        "Id": 89,
-        "Producto": "tornillo driwal 1.1\/4",
-        "PrecioUnidadxBulto": 11.1,
-        "PrecioTotalBulto": 3330,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "driwal.jpg"
-    },
-    {
-        "Id": 90,
-        "Producto": "tornillo driwal 1.1\/2",
-        "PrecioUnidadxBulto": 13.02,
-        "PrecioTotalBulto": 3906,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "driwal.jpg"
-    },
-    {
-        "Id": 91,
-        "Producto": "tornillo driwal 2",
-        "PrecioUnidadxBulto": 16.53,
-        "PrecioTotalBulto": 4959,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "driwal.jpg"
-    },
-    {
-        "Id": 92,
-        "Producto": "tornillo fix 4x35",
-        "PrecioUnidadxBulto": 14.24,
-        "PrecioTotalBulto": 2848,
-        "UnidadesPorBulto": 200,
-        "Categoría": "BULONERA",
-        "Img": "fix.jpg"
-    },
-    {
-        "Id": 93,
-        "Producto": "tornillo fix 5x50",
-        "PrecioUnidadxBulto": 30.1,
-        "PrecioTotalBulto": 6020,
-        "UnidadesPorBulto": 200,
-        "Categoría": "BULONERA",
-        "Img": "fix.jpg"
-    },
-    {
-        "Id": 94,
-        "Producto": "tornillo fix 6x60",
-        "PrecioTotalBulto": 0,
-        "UnidadesPorBulto": 200,
-        "Categoría": "BULONERA",
-        "Img": "fix.jpg"
-    },
-    {
-        "Id": 95,
-        "Producto": "tarugo estandar 6mm",
-        "PrecioUnidadxBulto": 5.73,
-        "PrecioTotalBulto": 1719.0000000000002,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoEstandar.jpg"
-    },
-    {
-        "Id": 96,
-        "Producto": "tarugo estandar 8mm",
-        "PrecioUnidadxBulto": 10.32,
-        "PrecioTotalBulto": 3096,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoEstandar.jpg"
-    },
-    {
-        "Id": 97,
-        "Producto": "tarugo estandar 10mm",
-        "PrecioUnidadxBulto": 21.82,
-        "PrecioTotalBulto": 6546,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoEstandar.jpg"
-    },
-    {
-        "Id": 98,
-        "Producto": "tarugo con tope 6mm",
-        "PrecioUnidadxBulto": 6.82,
-        "PrecioTotalBulto": 2046,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoTope.jpg"
-    },
-    {
-        "Id": 99,
-        "Producto": "tarugo con tope 8mm",
-        "PrecioUnidadxBulto": 11.63,
-        "PrecioTotalBulto": 3489.0000000000005,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoTope.jpg"
-    },
-    {
-        "Id": 100,
-        "Producto": "tarugo con tope 10mm",
-        "PrecioUnidadxBulto": 22.97,
-        "PrecioTotalBulto": 6891,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoTope.jpg"
-    },
-    {
-        "Id": 101,
-        "Producto": "tarugo espiga 6mm",
-        "PrecioUnidadxBulto": 10.57,
-        "PrecioTotalBulto": 3171,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoEspiga.jpg"
-    },
-    {
-        "Id": 102,
-        "Producto": "tarugo espiga 8mm",
-        "PrecioUnidadxBulto": 20.44,
-        "PrecioTotalBulto": 6132,
-        "UnidadesPorBulto": 300,
-        "Categoría": "BULONERA",
-        "Img": "tarugoEspiga.jpg"
-    },
-    {
-        "Id": 103,
-        "Producto": "tarugo espiga 10mm",
-        "PrecioUnidadxBulto": 42.88,
-        "PrecioTotalBulto": 10720,
-        "UnidadesPorBulto": 250,
-        "Categoría": "BULONERA",
-        "Img": "tarugoEspiga.jpg"
-    },
-    {
-        "Id": 104,
-        "Producto": "tarugo estandar 12mm",
-        "PrecioUnidadxBulto": 39.82,
-        "PrecioTotalBulto": 9955,
-        "UnidadesPorBulto": 250,
-        "Categoría": "BULONERA",
-        "Img": "tarugoEstandar.jpg"
-    },
-    {
-        "Id": 105,
-        "Producto": "disco de corte dogo lat x50 unid. 115x1mm",
-        "Precio": 431,
-        "Categoría": "FERRETERIA",
-        "Img": "discos.jpg"
-    },
-    {
-        "Id": 106,
-        "Producto": "disco de corte dogo lat x50 unid. 115x1,6mm",
-        "Precio": 431,
-        "Categoría": "FERRETERIA",
-        "Img": "discos.jpg"
-    },
-    {
-        "Id": 107,
-        "Producto": "caja de herramientas 13''",
-        "Precio": 6246,
-        "Categoría": "FERRETERIA",
-        "Img": "cajaHerramientas13.jpg",
-        "Descripción": "33cmx16cm"
-    },
-    {
-        "Id": 108,
-        "Producto": "caja de herramientas 16''",
-        "Precio": 9731,
-        "Categoría": "FERRETERIA",
-        "Img": "cajaHerramientas16.jpg",
-        "Descripción": "40cmx23cm"
-    },
-    {
-        "Id": 109,
-        "Producto": "caja de herramientas 19''",
-        "Precio": 9128,
-        "Categoría": "FERRETERIA",
-        "Img": "cajaHerramientas19.jpg",
-        "Descripción": "18cmx20cm"
-    },
-    {
-        "Id": 110,
-        "Producto": "rueda para carretilla plastica",
-        "Precio": 5625,
-        "Categoría": "FERRETERIA",
-        "Img": "ruedas.jpg",
-        "Descripción": "soportan 150kg"
-    },
-    {
-        "Id": 111,
-        "Producto": "rueda para hormigonera plastica",
-        "Precio": 4160,
-        "Categoría": "FERRETERIA",
-        "Img": "ruedas.jpg",
-        "Descripción": "soportan 150kg"
-    },
-    {
-        "Id": 112,
-        "Producto": "zaranda 50x35cm",
-        "Precio": 4250,
-        "Categoría": "FERRETERIA",
-        "Img": "zaranda.jpg"
-    },
-    {
-        "Id": 113,
-        "Producto": "fratacho pino 30cm",
-        "Precio": 965,
-        "Categoría": "FERRETERIA",
-        "Img": "fratacho.jpg"
-    },
-    {
-        "Id": 114,
-        "Producto": "fratacho algarrobo 30cm",
-        "Precio": 2729,
-        "Categoría": "FERRETERIA",
-        "Img": "FRATACHOALGARROBO.jpg"
-    },
-    {
-        "Id": 115,
-        "Producto": "fratacho de piedra fino",
-        "Precio": 1625,
-        "Categoría": "HERRAMIENTAS",
-        "Img": "fratachoPlastico.jpg",
-        "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
-    },
-    {
-        "Id": 116,
-        "Producto": "fratacho de piedra mediano",
-        "Precio": 1625,
-        "Categoría": "HERRAMIENTAS",
-        "Img": "fratachoPlastico.jpg",
-        "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
-    },
-    {
-        "Id": 117,
-        "Producto": "fratacho de piedra grueso",
-        "Precio": 1625,
-        "Categoría": "HERRAMIENTAS",
-        "Img": "fratachoPlastico.jpg",
-        "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
-    },
-    {
-        "Id": 118,
-        "Producto": "balde de albañil 12 unidades",
-        "Precio": 1340,
-        "Categoría": "HERRAMIENTAS",
-        "Notas": "consultar precio partir de 60 docenas",
-        "Img": "baldeAlbañil.jpg"
-    },
-    {
-        "Id": 119,
-        "Producto": "balde de albañil 36 unidades",
-        "Precio": 1299,
-        "Categoría": "HERRAMIENTAS",
-        "Notas": "consultar precio partir de 60 docenas",
-        "Img": "baldeAlbañil.jpg"
-    },
-    {
-        "Id": 120,
-        "Producto": "llana dentada 6mm",
-        "Precio": 3107,
-        "Categoría": "HERRAMIENTAS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "llanaDentada.jpg",
-        "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
-    },
-    {
-        "Id": 121,
-        "Producto": "llana dentada 8mm",
-        "Precio": 3107,
-        "Categoría": "HERRAMIENTAS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "llanaDentada.jpg",
-        "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
-    },
-    {
-        "Id": 122,
-        "Producto": "llana dentada 10mm",
-        "Precio": 3107,
-        "Categoría": "HERRAMIENTAS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "llanaDentada.jpg",
-        "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
-    },
-    {
-        "Id": 123,
-        "Producto": "cola vinilica 110g",
-        "Precio": 717.19,
-        "Categoría": "PEGAMENTOS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "COLA110G.jpg"
-    },
-    {
-        "Id": 124,
-        "Producto": "cola vinilica 220g",
-        "Precio": 1213.71,
-        "Categoría": "PEGAMENTOS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "COLA220G.jpg"
-    },
-    {
-        "Id": 125,
-        "Producto": "cola vinilica 500g",
-        "Precio": 2317.09,
-        "Categoría": "PEGAMENTOS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "COLA500G.jpg"
-    },
-    {
-        "Id": 126,
-        "Producto": "cemento de contacto 250g",
-        "Precio": 2758,
-        "Categoría": "PEGAMENTOS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "CEMENTODECONTACTO250G.jpg"
-    },
-    {
-        "Id": 127,
-        "Producto": "cemento de contacto 450g",
-        "Precio": 4965,
-        "Categoría": "PEGAMENTOS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "CEMENTODECONTACTO450G.jpg"
-    },
-    {
-        "Id": 128,
-        "Producto": "cemento de contacto 1lt",
-        "Precio": 8275,
-        "Categoría": "PEGAMENTOS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "CEMENTODECONTACTO1KG.jpg"
-    },
-    {
-        "Id": 129,
-        "Producto": "cemento de contacto 40g",
-        "Precio": 1765,
-        "Categoría": "PEGAMENTOS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "CEMENTODECONTACTO40G.jpg"
-    },
-    {
-        "Id": 130,
-        "Producto": "GRASA DE LITIO 100G",
-        "Precio": 1315,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASA100GLITIO.jpg"
-    },
-    {
-        "Id": 131,
-        "Producto": "GRASA DE LITIO 250G",
-        "Precio": 2946,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASADELITIO250G.jpg"
-    },
-    {
-        "Id": 132,
-        "Producto": "GRASA DE LITIO 500G",
-        "Precio": 5565,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASADELITIO500.jpg"
-    },
-    {
-        "Id": 133,
-        "Producto": "GRASA DE LITIO 1K",
-        "Precio": 10422,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASALITIO1KG.jpg"
-    },
-    {
-        "Id": 134,
-        "Producto": "GRASA GRAFITADA 100G",
-        "Precio": 1253,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASAGRAFITADA100.jpg"
-    },
-    {
-        "Id": 135,
-        "Producto": "GRASA GRAFITADA 250G",
-        "Precio": 2794,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASAGRAFITADA250.jpg"
-    },
-    {
-        "Id": 136,
-        "Producto": "GRASA AMARILLA 100G",
-        "Precio": 1094,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASAAMARILLA100G.jpg"
-    },
-    {
-        "Id": 137,
-        "Producto": "ACEITERA 100CM",
-        "Precio": 374,
-        "Categoría": "FERRETERIA",
-        "Img": "ACEITEDE100cm.jpg"
-    },
-    {
-        "Id": 138,
-        "Producto": "GRASA LITIO AEROSOL 250CC",
-        "Precio": 3201,
-        "Categoría": "FERRETERIA",
-        "Img": "GRASADELITIOENAEROSOL.jpg"
-    },
-    {
-        "Id": 139,
-        "Producto": "LUBRICANTE 250CC",
-        "Precio": 2462,
-        "Categoría": "FERRETERIA",
-        "Img": "LUBRICANTE250.jpg"
-    },
-    {
-        "Id": 140,
-        "Producto": "LUBRICANTE 440CC",
-        "Precio": 2861,
-        "Categoría": "FERRETERIA",
-        "Img": "LUBRICANTE440.jpg"
-    },
-    {
-        "Id": 141,
-        "Producto": "PULVERIZADOR 500G",
-        "Precio": 1134,
-        "Categoría": "FERRETERIA",
-        "Img": "PULVERIZADOR500GY1LTS.jpg"
-    },
-    {
-        "Id": 142,
-        "Producto": "PULVERIZADOR 1000G",
-        "Precio": 1391,
-        "Categoría": "FERRETERIA",
-        "Img": "PULVERIZADOR500GY1LTS.jpg"
-    },
-    {
-        "Id": 143,
-        "Producto": "CONEXIÓN BONOMINI 50-40 BLANCO",
-        "Precio": 812,
-        "Categoría": "SANITARIO",
-        "Img": "conexionBlanco.jpg"
-    },
-    {
-        "Id": 144,
-        "Producto": "CONEXION BONOMINI 50-40 PLATA",
-        "Precio": 1043,
-        "Categoría": "SANITARIO",
-        "Img": "conexionNegro.jpg"
-    },
-    {
-        "Id": 145,
-        "Producto": "DEPOSITO DE COLGAR BAHCO",
-        "Precio": 21875,
-        "Categoría": "SANITARIO",
-        "Img": "depositoColgar.jpg"
-    },
-    {
-        "Id": 146,
-        "Producto": "ASIENTO DE INODORO PLASTICO BAHCO",
-        "Precio": 5108,
-        "Categoría": "SANITARIO",
-        "Img": "tapaInodoro.jpg"
-    },
-    {
-        "Id": 147,
-        "Producto": "bacha lavatorio",
-        "Precio": 6875,
-        "Categoría": "SANITARIO",
-        "Img": "bachaLavatorio.jpg",
-        "Descripción": "lavatorio ancho 43,5 largo 37,5 profundidad 14cm"
-    },
-    {
-        "Id": 148,
-        "Producto": "bacha lavadero",
-        "Precio": 11999,
-        "Categoría": "SANITARIO",
-        "Img": "bachaLavadero.jpg",
-        "Descripción": "lavadero ancho 46cm largo 42,5cm profundidad 21cm"
-    },
-    {
-        "Id": 149,
-        "Producto": "CALEFON PLASTICO 20LTS",
-        "Precio": 6854,
-        "Categoría": "SANITARIO",
-        "Img": "calefonPlastico.png"
-    },
-    {
-        "Id": 150,
-        "Producto": "CALEFON LOZA 20LTS",
-        "Precio": 19057,
-        "Categoría": "SANITARIO",
-        "Img": "calefonLoza.jpg"
-    },
-    {
-        "Id": 151,
-        "Producto": "CALEFON ACERO 20LTS",
-        "Precio": 24615,
-        "Categoría": "SANITARIO",
-        "Img": "calefonAcero.jpg"
-    },
-    {
-        "Id": 152,
-        "Producto": "GRAMPA MEDIA OMEGA 5\/8",
-        "Precio": 51.57,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "mediaOmega.jpg"
-    },
-    {
-        "Id": 153,
-        "Producto": "GRAMPA MEDIA OMEGA 3\/4",
-        "Precio": 56.12,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "mediaOmega.jpg"
-    },
-    {
-        "Id": 154,
-        "Producto": "GRAMPA MEDIA OMEGA 7\/8",
-        "Precio": 85.79,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "mediaOmega.jpg"
-    },
-    {
-        "Id": 155,
-        "Producto": "GRAMPA MEDIA OMEGA 1''",
-        "Precio": 101.93,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "mediaOmega.jpg"
-    },
-    {
-        "Id": 156,
-        "Producto": "GRAMPA OMEGA 5\/8",
-        "Precio": 46.16,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "omega.jpg"
-    },
-    {
-        "Id": 157,
-        "Producto": "GRAMPA OMEGA 3\/4",
-        "Precio": 49.11,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "omega.jpg"
-    },
-    {
-        "Id": 158,
-        "Producto": "GRAMPA OMEGA 7\/8",
-        "Precio": 71.46,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "omega.jpg"
-    },
-    {
-        "Id": 159,
-        "Producto": "GRAMPA OMEGA 1''",
-        "Precio": 85.03,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "omega.jpg"
-    },
-    {
-        "Id": 160,
-        "Producto": "CAJA DE HIERRO 10X5",
-        "Precio": 258.59,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "cajaHierro.jpg"
-    },
-    {
-        "Id": 161,
-        "Producto": "CAJA DE HIERRO OCTOGONAL 10X5",
-        "Precio": 258.59,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "cajaOctogonal.jpg"
-    },
-    {
-        "Id": 162,
-        "Producto": "REGULADOR 1MTS",
-        "Precio": 6160,
-        "Categoría": "GAS",
-        "Img": "regulador.jpg"
-    },
-    {
-        "Id": 163,
-        "Producto": "REGULADOR 2MTS",
-        "Precio": 6847,
-        "Categoría": "GAS",
-        "Img": "regulador.jpg"
-    },
-    {
-        "Id": 164,
-        "Producto": "CABEZA DE REGULADOR",
-        "Categoría": "GAS",
-        "Img": "cabezaRegulador.jpg"
-    },
-    {
-        "Id": 165,
-        "Producto": "cartucho DE GAS butano 12 unidades",
-        "Precio": 2490,
-        "Categoría": "GAS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "cartuchoButano.jpg"
-    },
-    {
-        "Id": 166,
-        "Producto": "cartucho DE GAS butano 28 unidades",
-        "Precio": 2430,
-        "Categoría": "GAS",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "cartuchoButano.jpg"
-    },
-    {
-        "Id": 167,
-        "Producto": "MANIJA MINISTERIO CEPILLADO 24 UNID",
-        "Precio": 2778,
-        "Categoría": "HERRAJES",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "manijaMinisterio.jpg"
-    },
-    {
-        "Id": 168,
-        "Producto": "MANIJA MINISTERIO CEPILLADO 12 UNID",
-        "Precio": 2894,
-        "Categoría": "HERRAJES",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "manijaMinisterio.jpg"
-    },
-    {
-        "Id": 169,
-        "Producto": "PERCHA DE ALUMINIO COLOR 1 GANCHO",
-        "Precio": 1291,
-        "Categoría": "HERRAJES",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "percha.jpg"
-    },
-    {
-        "Id": 170,
-        "Producto": "PERCHA DE ALUMINIO COLOR 2 GANCHOS",
-        "Precio": 1907,
-        "Categoría": "HERRAJES",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "perchaDosGanchos.jpg"
-    },
-    {
-        "Id": 171,
-        "Producto": "CAJA PARA TERMICA 1-2",
-        "Precio": 707,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "cajaTermica1-2.jpg"
-    },
-    {
-        "Id": 172,
-        "Producto": "CAJA PARA TERMICA 2-4",
-        "Categoría": "ELECTRICIDAD",
-        "Img": "cajaTermica2-4.jpg"
-    },
-    {
-        "Id": 173,
-        "Producto": "CAJA PARA TERMICA 4-8",
-        "Precio": 2129,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "cajaTermica4-8.jpg"
-    },
-    {
-        "Id": 174,
-        "Producto": "FILTRO PARA PURIFICADOR DE COCINA 57X38CM",
-        "Precio": 990,
-        "Categoría": "GAS",
-        "Img": "filtroCocina.jpg"
-    },
-    {
-        "Id": 175,
-        "Producto": "YESO TIPO PARIS 1K",
-        "Precio": 821.1091200000002,
-        "PrecioUnidadxBulto": 789.5280000000001,
-        "PrecioTotalBulto": 4737.168000000001,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/yesoParis.jpg"
-    },
-    {
-        "Id": 176,
-        "Producto": "YESO TIPO PARIS 2K",
-        "Precio": 1609.05056,
-        "PrecioUnidadxBulto": 1547.164,
-        "PrecioTotalBulto": 9282.984,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/yesoParis.jpg"
-    },
-    {
-        "Id": 177,
-        "Producto": "YESO TIPO PARIS 5K",
-        "Precio": 3907.976670000001,
-        "PrecioUnidadxBulto": 3757.669875000001,
-        "PrecioTotalBulto": 15030.679500000004,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/yesoParis.jpg"
-    },
-    {
-        "Id": 178,
-        "Producto": "YESO TIPO PARIS 10K",
-        "Precio": 7691.30453,
-        "PrecioUnidadxBulto": 7395.485125,
-        "PrecioTotalBulto": 29581.9405,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/yesoParis.jpg"
-    },
-    {
-        "Id": 179,
-        "Producto": "CEMENTO PORLAND 1K",
-        "Precio": 745.6282600000001,
-        "PrecioUnidadxBulto": 716.95025,
-        "PrecioTotalBulto": 4301.7015,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoPortland.jpg"
-    },
-    {
-        "Id": 180,
-        "Producto": "CEMENTO PORLAND 2K",
-        "Precio": 1432.0372300000004,
-        "PrecioUnidadxBulto": 1376.9588750000003,
-        "PrecioTotalBulto": 8261.753250000002,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoPortland.jpg"
-    },
-    {
-        "Id": 181,
-        "Producto": "CEMENTO PORLAND 5K",
-        "Precio": 3520.094240000001,
-        "PrecioUnidadxBulto": 3384.7060000000006,
-        "PrecioTotalBulto": 13538.824000000002,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoPortland.jpg"
-    },
-    {
-        "Id": 182,
-        "Producto": "CEMENTO PORLAND 10K",
-        "Precio": 6235.55868,
-        "PrecioUnidadxBulto": 5995.7294999999995,
-        "PrecioTotalBulto": 23982.917999999998,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoPortland.jpg"
-    },
-    {
-        "Id": 183,
-        "Producto": "REVOQUE REF 2,5K",
-        "Precio": 753.4759700000002,
-        "PrecioUnidadxBulto": 724.4961250000001,
-        "PrecioTotalBulto": 4346.976750000001,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/revoqueReforzado.jpg"
-    },
-    {
-        "Id": 184,
-        "Producto": "REVOQUE REF 5K",
-        "Precio": 1342.1326100000003,
-        "PrecioUnidadxBulto": 1290.5121250000002,
-        "PrecioTotalBulto": 7743.072750000001,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/revoqueReforzado.jpg"
-    },
-    {
-        "Id": 185,
-        "Producto": "REVOQUE REF 10K",
-        "Precio": 2535.42003,
-        "PrecioUnidadxBulto": 2437.903875,
-        "PrecioTotalBulto": 9751.6155,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/revoqueReforzado.jpg"
-    },
-    {
-        "Id": 186,
-        "Producto": "REVOQUE REF 30K",
-        "Precio": 7170.760090000001,
-        "PrecioUnidadxBulto": 6894.961625000001,
-        "PrecioTotalBulto": 27579.846500000003,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/revoqueReforzado.jpg"
-    },
-    {
-        "Id": 187,
-        "Producto": "MEZCLA ADHESIVA 2,5K",
-        "Precio": 1400.4983200000004,
-        "PrecioUnidadxBulto": 1346.6330000000003,
-        "PrecioTotalBulto": 8079.798000000002,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mezclaAdhesiva.jpg"
-    },
-    {
-        "Id": 188,
-        "Producto": "MEZCLA ADHESIVA 5K",
-        "Precio": 2650.67075,
-        "PrecioUnidadxBulto": 2548.721875,
-        "PrecioTotalBulto": 15292.331250000001,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mezclaAdhesiva.jpg"
-    },
-    {
-        "Id": 189,
-        "Producto": "MEZCLA ADHESIVA 10K",
-        "Precio": 5100.288570000001,
-        "PrecioUnidadxBulto": 4904.123625,
-        "PrecioTotalBulto": 19616.4945,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mezclaAdhesiva.jpg"
-    },
-    {
-        "Id": 190,
-        "Producto": "MEZCLA ADHESIVA 30K",
-        "Precio": 10408.380320000002,
-        "PrecioUnidadxBulto": 10008.058,
-        "PrecioTotalBulto": 40032.232,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mezclaAdhesiva.jpg"
-    },
-    {
-        "Id": 191,
-        "Producto": "CEMENTO BLANCO 1K",
-        "Precio": 1376.98132,
-        "PrecioUnidadxBulto": 1324.0205,
-        "PrecioTotalBulto": 7944.1230000000005,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoBlanco.jpg"
-    },
-    {
-        "Id": 192,
-        "Producto": "CEMENTO BLANCO 2K",
-        "Precio": 2694.73464,
-        "PrecioUnidadxBulto": 2591.0910000000003,
-        "PrecioTotalBulto": 15546.546000000002,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoBlanco.jpg"
-    },
-    {
-        "Id": 193,
-        "Producto": "CEMENTO BLANCO 5K",
-        "Precio": 6463.64745,
-        "PrecioUnidadxBulto": 6215.045625000001,
-        "PrecioTotalBulto": 24860.182500000003,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoBlanco.jpg"
-    },
-    {
-        "Id": 194,
-        "Producto": "CEMENTO BLANCO 10K",
-        "Precio": 12769.58293,
-        "PrecioUnidadxBulto": 12278.445125,
-        "PrecioTotalBulto": 49113.7805,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoBlanco.jpg"
-    },
-    {
-        "Id": 195,
-        "Producto": "CEMENTO RAPIDO GRIS 1K",
-        "Precio": 788.8647000000001,
-        "PrecioUnidadxBulto": 758.5237500000001,
-        "PrecioTotalBulto": 4551.1425,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoGris.jpg"
-    },
-    {
-        "Id": 196,
-        "Producto": "CEMENTO RAPIDO GRIS 2K",
-        "Precio": 1467.5740300000004,
-        "PrecioUnidadxBulto": 1411.1288750000003,
-        "PrecioTotalBulto": 8466.773250000002,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoGris.jpg"
-    },
-    {
-        "Id": 197,
-        "Producto": "CEMENTO RAPIDO GRIS 5K",
-        "Precio": 3408.0662200000006,
-        "PrecioUnidadxBulto": 3276.9867500000005,
-        "PrecioTotalBulto": 13107.947000000002,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoGris.jpg"
-    },
-    {
-        "Id": 198,
-        "Producto": "CEMENTO RAPIDO GRIS 10K",
-        "Precio": 6756.059570000001,
-        "PrecioUnidadxBulto": 6496.211125000001,
-        "PrecioTotalBulto": 25984.844500000003,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoGris.jpg"
-    },
-    {
-        "Id": 199,
-        "Producto": "CEMENTO RAPIDO BLANCO 1K",
-        "Precio": 1576.2138600000003,
-        "PrecioUnidadxBulto": 1515.5902500000002,
-        "PrecioTotalBulto": 9093.541500000001,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoBlanco.jpg"
-    },
-    {
-        "Id": 200,
-        "Producto": "CEMENTO RAPIDO BLANCO 2K",
-        "Precio": 2939.34628,
-        "PrecioUnidadxBulto": 2826.2945,
-        "PrecioTotalBulto": 16957.767,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoBlanco.jpg"
-    },
-    {
-        "Id": 201,
-        "Producto": "CEMENTO RAPIDO BLANCO 5K",
-        "Precio": 6917.85653,
-        "PrecioUnidadxBulto": 6651.785125,
-        "PrecioTotalBulto": 26607.1405,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoBlanco.jpg"
-    },
-    {
-        "Id": 202,
-        "Producto": "CEMENTO RAPIDO BLANCO 10K",
-        "Precio": 13751.774790000001,
-        "PrecioUnidadxBulto": 13222.860375,
-        "PrecioTotalBulto": 52891.4415,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/cementoRapidoBlanco.jpg"
-    },
-    {
-        "Id": 203,
-        "Producto": "FINO A LA CAL 5K",
-        "Precio": 1402.8326000000002,
-        "PrecioUnidadxBulto": 1348.8775,
-        "PrecioTotalBulto": 8093.265,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/finoALaCal.jpg"
-    },
-    {
-        "Id": 204,
-        "Producto": "FINO A LA CAL 10K",
-        "Precio": 2535.0019500000003,
-        "PrecioUnidadxBulto": 2437.501875,
-        "PrecioTotalBulto": 14625.01125,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/finoALaCal.jpg"
-    },
-    {
-        "Id": 205,
-        "Producto": "FINO A LA CAL 30K",
-        "Precio": 7157.102810000002,
-        "PrecioUnidadxBulto": 6881.829625000001,
-        "PrecioTotalBulto": 27527.318500000005,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/finoALaCal.jpg"
-    },
-    {
-        "Id": 206,
-        "Producto": "MIX INTERIOR 0,75K",
-        "Precio": 2870.9466500000003,
-        "PrecioUnidadxBulto": 2760.525625,
-        "PrecioTotalBulto": 16563.15375,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mixInterior.jpg"
-    },
-    {
-        "Id": 207,
-        "Producto": "MIX INTERIOR 2K",
-        "Precio": 5679.77358,
-        "PrecioUnidadxBulto": 5461.32075,
-        "PrecioTotalBulto": 32767.9245,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mixInterior.jpg"
-    },
-    {
-        "Id": 208,
-        "Producto": "MIX INTERIOR 5K",
-        "Precio": 11995.59491,
-        "PrecioUnidadxBulto": 11534.225875,
-        "PrecioTotalBulto": 46136.9035,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mixInterior.jpg"
-    },
-    {
-        "Id": 209,
-        "Producto": "MIX EXTERIOR 0,75K",
-        "Precio": 2870.9466500000003,
-        "PrecioUnidadxBulto": 2760.525625,
-        "PrecioTotalBulto": 16563.15375,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mixExterior.jpg"
-    },
-    {
-        "Id": 210,
-        "Producto": "MIX EXTERIOR 2K",
-        "Precio": 5679.77358,
-        "PrecioUnidadxBulto": 5461.32075,
-        "PrecioTotalBulto": 32767.9245,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mixExterior.jpg"
-    },
-    {
-        "Id": 211,
-        "Producto": "MIX EXTERIOR 5K",
-        "Precio": 11995.59491,
-        "PrecioUnidadxBulto": 11534.225875,
-        "PrecioTotalBulto": 46136.9035,
-        "UnidadesPorBulto": 4,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/mixExterior.jpg"
-    },
-    {
-        "Id": 212,
-        "Producto": "CONCRETO",
-        "Precio": 1491.03877,
-        "PrecioUnidadxBulto": 1433.691125,
-        "UnidadesPorBulto": "x",
-        "Categoría": "POLVOS",
-        "Img": "polvos\/concreto.jpg"
-    },
-    {
-        "Id": 213,
-        "Producto": "CONCRETO",
-        "Precio": 2789.0639400000005,
-        "PrecioUnidadxBulto": 2681.7922500000004,
-        "UnidadesPorBulto": "x",
-        "Categoría": "POLVOS",
-        "Img": "polvos\/concreto.jpg"
-    },
-    {
-        "Id": 214,
-        "Producto": "FERRITE NEGRO 0,5K",
-        "Precio": 2408.6459800000002,
-        "PrecioUnidadxBulto": 2316.0057500000003,
-        "PrecioTotalBulto": 13896.034500000002,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 215,
-        "Producto": "FERRITE NEGRO 1K",
-        "Precio": 4372.06289,
-        "PrecioUnidadxBulto": 4203.9066250000005,
-        "PrecioTotalBulto": 25223.439750000005,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 216,
-        "Producto": "FERRITE ROJO 0,5K",
-        "Precio": 1302.9289000000003,
-        "PrecioUnidadxBulto": 1252.8162500000003,
-        "PrecioTotalBulto": 7516.897500000002,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 217,
-        "Producto": "FERRITE ROJO 1K",
-        "Precio": 2382.6205,
-        "PrecioUnidadxBulto": 2290.9812500000003,
-        "PrecioTotalBulto": 13745.8875,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 218,
-        "Producto": "FERRITE AMARILLO 0,5K",
-        "Precio": 1532.30675,
-        "PrecioUnidadxBulto": 1473.371875,
-        "PrecioTotalBulto": 8840.23125,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 219,
-        "Producto": "FERRITE AMARILLO 1K",
-        "Precio": 2818.1988900000006,
-        "PrecioUnidadxBulto": 2709.8066250000006,
-        "PrecioTotalBulto": 16258.839750000003,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 220,
-        "Producto": "FERRITE AZUL 0,5K",
-        "Precio": 2490.85096,
-        "PrecioUnidadxBulto": 2395.049,
-        "PrecioTotalBulto": 14370.294,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 221,
-        "Producto": "FERRITE AZUL 1K",
-        "Precio": 4506.815300000001,
-        "PrecioUnidadxBulto": 4333.476250000001,
-        "PrecioTotalBulto": 26000.857500000006,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 222,
-        "Producto": "FERRITE VERDE 0,5K",
-        "Precio": 2587.58422,
-        "PrecioUnidadxBulto": 2488.0617500000003,
-        "PrecioTotalBulto": 14928.3705,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 223,
-        "Producto": "FERRITE VERDE 1K",
-        "Precio": 4681.82533,
-        "PrecioUnidadxBulto": 4501.755125,
-        "PrecioTotalBulto": 27010.530749999998,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/ferrites.jpg"
-    },
-    {
-        "Id": 224,
-        "Producto": "PASTINA BLANCA 1K",
-        "Precio": 1320.3489000000002,
-        "PrecioUnidadxBulto": 1269.56625,
-        "PrecioTotalBulto": 7617.397500000001,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/pastina.jpg"
-    },
-    {
-        "Id": 225,
-        "Producto": "PASTINA BLANCA 2K",
-        "Precio": 2593.4983100000004,
-        "PrecioUnidadxBulto": 2493.748375,
-        "PrecioTotalBulto": 14962.49025,
-        "UnidadesPorBulto": 6,
-        "Categoría": "POLVOS",
-        "Img": "polvos\/pastina.jpg"
-    },
-    {
-        "Id": 226,
-        "Producto": "CODO FUSION 20",
-        "Precio": 160.4,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO 20.jpg"
-    },
-    {
-        "Id": 227,
-        "Producto": "CODO FUSION 20-45",
-        "Precio": 160.4,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO20A45.jpg"
-    },
-    {
-        "Id": 228,
-        "Producto": "CODO FUSION 25",
-        "Precio": 270.14,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO 20.jpg"
-    },
-    {
-        "Id": 229,
-        "Producto": "CODO FUSION 25-45",
-        "Precio": 270.14,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO25A45.jpg"
-    },
-    {
-        "Id": 230,
-        "Producto": "CODO FUSION 32",
-        "Precio": 481.19,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO 20.jpg"
-    },
-    {
-        "Id": 231,
-        "Producto": "CODO FUSION 32-45",
-        "Precio": 531.85,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO32A45.jpg"
-    },
-    {
-        "Id": 232,
-        "Producto": "CODO FUSION IRH 20X1\/2",
-        "Precio": 1173.44,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO25HEMBRA.jpg"
-    },
-    {
-        "Id": 233,
-        "Producto": "CODO FUSION IRH 25x3\/4",
-        "Precio": 1899.45,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO25HEMBRA.jpg"
-    },
-    {
-        "Id": 234,
-        "Producto": "CODO FUSION IRM 20x1\/2",
-        "Precio": 1468.91,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CODO MACHO 20.jpg"
-    },
-    {
-        "Id": 235,
-        "Producto": "cupla fusion 20",
-        "Precio": 126.63,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CUPLA 20.jpg"
-    },
-    {
-        "Id": 236,
-        "Producto": "cupla fusion 25",
-        "Precio": 185.72,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CUPLA 20.jpg"
-    },
-    {
-        "Id": 237,
-        "Producto": "cupla fusion 32",
-        "Precio": 295.47,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CUPLA 20.jpg"
-    },
-    {
-        "Id": 238,
-        "Producto": "cupla fusion IRH 20x1\/2",
-        "Precio": 1139.67,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CUPLA HEMBRA 20.jpg"
-    },
-    {
-        "Id": 239,
-        "Producto": "cupla fusion IRH 25x3\/4",
-        "Precio": 1688.4,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CUPLA HEMBRA 20.jpg"
-    },
-    {
-        "Id": 240,
-        "Producto": "cupla fusion IRM 20x1\/2",
-        "Precio": 1502.68,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CUPLA MACHO 25.jpg"
-    },
-    {
-        "Id": 241,
-        "Producto": "cupla fusion IRM 25x3\/4",
-        "Precio": 1891.01,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CUPLA MACHO 25.jpg"
-    },
-    {
-        "Id": 242,
-        "Producto": "curva sobrepaso corto 20",
-        "Precio": 590.94,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CURVA SOBRE PASO 20.jpg"
-    },
-    {
-        "Id": 243,
-        "Producto": "curva sobrepaso corto 25",
-        "Precio": 818.87,
-        "Categoría": "FUSION",
-        "Img": "fusion\/CURVA SOBRE PASO 20.jpg"
-    },
-    {
-        "Id": 244,
-        "Producto": "tapa fusion 20mm",
-        "Precio": 118.19,
-        "Categoría": "FUSION",
-        "Img": "fusion\/TAPA 20.jpg"
-    },
-    {
-        "Id": 245,
-        "Producto": "tapa fusion 25mm",
-        "Precio": 185.72,
-        "Categoría": "FUSION",
-        "Img": "fusion\/TAPA 20.jpg"
-    },
-    {
-        "Id": 246,
-        "Producto": "tapa fusion 32mm",
-        "Precio": 236.38,
-        "Categoría": "FUSION",
-        "Img": "fusion\/TAPA 20.jpg"
-    },
-    {
-        "Id": 247,
-        "Producto": "tee fusion 20mm",
-        "Precio": 236.38,
-        "Categoría": "FUSION",
-        "Img": "fusion\/TEE 20.png"
-    },
-    {
-        "Id": 248,
-        "Producto": "tee fusion 25mm",
-        "Precio": 363.01,
-        "Categoría": "FUSION",
-        "Img": "fusion\/TEE 20.png"
-    },
-    {
-        "Id": 249,
-        "Producto": "union doble 20mm",
-        "Precio": 658.48,
-        "Categoría": "FUSION",
-        "Img": "fusion\/UNION DOBLE 20.jpg"
-    },
-    {
-        "Id": 250,
-        "Producto": "union doble 25mm",
-        "Precio": 920.18,
-        "Categoría": "FUSION",
-        "Img": "fusion\/UNION DOBLE 20.jpg"
-    },
-    {
-        "Id": 251,
-        "Producto": "buje fusion 25x20mm",
-        "Precio": 270.68,
-        "Categoría": "FUSION",
-        "Img": "fusion\/BUJE20A25.jpg"
-    },
-    {
-        "Id": 252,
-        "Producto": "buje fusion 32x25mm",
-        "Precio": 410,
-        "Categoría": "FUSION",
-        "Img": "fusion\/BUJE20A25.jpg"
-    },
-    {
-        "Id": 253,
-        "Producto": "espiga ½ rosca hembra a 3\/4",
-        "Precio": 199.11,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
-    },
-    {
-        "Id": 254,
-        "Producto": "espiga ½ rosca macho a 1\/2",
-        "Precio": 236.43,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
-    },
-    {
-        "Id": 255,
-        "Producto": "espiga ½ rosca hembra a 1\/2",
-        "Precio": 70.51,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
-    },
-    {
-        "Id": 256,
-        "Producto": "espiga ½ rosca macho a 3\/4",
-        "Precio": 236.43,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
-    },
-    {
-        "Id": 257,
-        "Producto": "espiga ¾ rosca hembra",
-        "Precio": 197.26,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
-    },
-    {
-        "Id": 258,
-        "Producto": "espiga ¾ rosca macho",
-        "Precio": 111.99,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
-    },
-    {
-        "Id": 259,
-        "Producto": "espiga codo ½ rca hembra",
-        "Precio": 176.3,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGACODOHEMBRA1-2.jpg"
-    },
-    {
-        "Id": 260,
-        "Producto": "espiga codo ½ R\/macho",
-        "Precio": 207.41,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
-    },
-    {
-        "Id": 261,
-        "Producto": "espiga codo 3\/4 R\/macho",
-        "Precio": 377.05,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
-    },
-    {
-        "Id": 262,
-        "Producto": "espiga codo 3\/4 R\/hembra",
-        "Precio": 321.47,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGACODOHEMBRA1-2.jpg"
-    },
-    {
-        "Id": 263,
-        "Producto": "espiga doble de 1\/2",
-        "Precio": 72.59,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
-    },
-    {
-        "Id": 264,
-        "Producto": "espiga doble de 3\/4",
-        "Precio": 105.78,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
-    },
-    {
-        "Id": 265,
-        "Producto": "espiga doble de 3\/4 x 1\/2",
-        "Precio": 181.69,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGADOBLE1-2A3-4.jpg"
-    },
-    {
-        "Id": 266,
-        "Producto": "codo espiga 1\/2",
-        "Precio": 142.07,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGACODODE1-2.jpg"
-    },
-    {
-        "Id": 267,
-        "Producto": "codo espiga 3\/4",
-        "Precio": 209.48,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/ESPIGACODODE1-2.jpg"
-    },
-    {
-        "Id": 268,
-        "Producto": "tee espiga 1\/2",
-        "Precio": 197.03,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/TEEESPIGA1-2.jpg"
-    },
-    {
-        "Id": 269,
-        "Producto": "tee espiga 3\/4",
-        "Precio": 335.99,
-        "Categoría": "POLIETILENO",
-        "Img": "polietileno\/TEEESPIGA3-4.jpg"
-    },
-    {
-        "Id": 270,
-        "Producto": "AGUARRAS 1LTS",
-        "Precio": 1976.046,
-        "PrecioUnidadxBulto": 1900.0475,
-        "PrecioTotalBulto": 22800.57,
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/dilurras.jpg"
-    },
-    {
-        "Id": 271,
-        "Producto": "THINNER ESTANDAR  1LT",
-        "Precio": 2847.075,
-        "PrecioUnidadxBulto": 2737,
-        "PrecioTotalBulto": 32844,
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/thinner.jpg"
-    },
-    {
-        "Id": 272,
-        "Producto": "KEROSENE 1LTS",
-        "Precio": 2605.267,
-        "PrecioUnidadxBulto": 2504.95,
-        "PrecioTotalBulto": 30059.399999999998,
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/kerosene.jpg"
-    },
-    {
-        "Id": 273,
-        "Producto": "KEROSENE 4LTS",
-        "PrecioUnidadxBulto": "SIN STOCK",
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/kerosene4lt.jpg"
-    },
-    {
-        "Id": 274,
-        "Producto": "ACIDO 1LTS",
-        "Precio": 1501.5335,
-        "PrecioUnidadxBulto": 1443.7845,
-        "PrecioTotalBulto": 17325.414,
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/acido.jpg"
-    },
-    {
-        "Id": 275,
-        "Producto": "DESTAPA CAÑERIA",
-        "PrecioUnidadxBulto": "SIN STOCK",
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/destapaCanerias.jpg"
-    },
-    {
-        "Id": 276,
-        "Producto": "SODA CAUSTICA 1KG",
-        "Precio": 597.55,
-        "PrecioUnidadxBulto": 573.75,
-        "PrecioTotalBulto": 6885,
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/sodaCaustica.jpg"
-    },
-    {
-        "Id": 277,
-        "Producto": "REFRIGERANTE X 5LTS",
-        "PrecioUnidadxBulto": "SIN STOCK",
-        "UnidadesPorBulto": 12,
-        "Categoría": "QUIMICOS",
-        "Img": "quimicos\/refrigerante5L.jpg"
-    },
-    {
-        "Id": 278,
-        "Producto": "DISCO FLAP GRANO (60)",
-        "Precio": 1052,
-        "PrecioUnidadxBulto": 982,
-        "PrecioTotalBulto": 0,
-        "Categoría": "FERRETERIA",
-        "Img": "discoFlap4.jpg"
-    },
-    {
-        "Id": 279,
-        "Producto": "DISCO FLAP GRANO (80)",
-        "Precio": 1052,
-        "PrecioUnidadxBulto": 982,
-        "PrecioTotalBulto": 29460,
-        "UnidadesPorBulto": 30,
-        "Categoría": "FERRETERIA",
-        "Img": "discoFlap4.jpg"
-    },
-    {
-        "Id": 280,
-        "Producto": "DISCO FLAP GRANO (120)",
-        "Precio": 1052,
-        "PrecioUnidadxBulto": 982,
-        "PrecioTotalBulto": 29460,
-        "UnidadesPorBulto": 30,
-        "Categoría": "FERRETERIA",
-        "Img": "discoFlap4.jpg"
-    },
-    {
-        "Id": 281,
-        "Producto": "SACA HOJAS (SIN CABO)",
-        "Precio": 1972,
-        "Categoría": "JARDIN",
-        "Notas": "Cantidad mínima 4 uds",
-        "Img": "sacaHojas.jpg"
-    },
-    {
-        "Id": 282,
-        "Producto": "CABO 1.40 MTS",
-        "Precio": 2365,
-        "Categoría": "JARDIN",
-        "Notas": "Cantidad mínima 4 uds",
-        "Img": "cabo.jpg"
-    },
-    {
-        "Id": 283,
-        "Producto": "SATELITE CHICO 50G",
-        "Precio": 1647,
-        "Categoría": "JARDIN",
-        "Notas": "Cantidad mínima 4 uds",
-        "Img": "boyaChica.jpg"
-    },
-    {
-        "Id": 284,
-        "Producto": "SATELITE GRANDE 200G",
-        "Precio": 2967,
-        "Categoría": "JARDIN",
-        "Notas": "Cantidad mínima 4 uds",
-        "Img": "boyaGrande.jpg"
-    },
-    {
-        "Id": 285,
-        "Producto": "MANIJA PLASTICA RESISTENTE A IMPACTOS BLANCA",
-        "Precio": 2035,
-        "Categoría": "HERRAJES",
-        "Img": "manijaPlasticaBlanca.jpg"
-    },
-    {
-        "Id": 286,
-        "Producto": "MANIJA PLASTICA RESISTENTE A IMPACTOS NEGRA",
-        "Precio": 2035,
-        "Categoría": "HERRAJES",
-        "Img": "manijaPlasticaNegra.jpg"
-    },
-    {
-        "Id": 287,
-        "Producto": "RASPIN EXPERT",
-        "Precio": 1050,
-        "PrecioUnidadxBulto": 890,
-        "PrecioTotalBulto": 21360,
-        "UnidadesPorBulto": 24,
-        "Categoría": "HERRAMIENTAS",
-        "Img": "raspin.jpg"
-    },
-    {
-        "Id": 288,
-        "Producto": "TORTUGA PVC POLIPROPILENO",
-        "Precio": 3378,
-        "Categoría": "ELECTRICIDAD",
-        "Notas": "Alta resistencia",
-        "Img": "tortugaPvc.jpg"
-    },
-    {
-        "Id": 289,
-        "Producto": "TORTUGA PVC CON VISERA FOCAL, APTA EXTERIOR",
-        "Precio": 3548,
-        "Categoría": "ELECTRICIDAD",
-        "Img": "tortugaPvcVisera.jpg"
-    },
-    {
-        "Id": 290,
-        "Producto": "DESTAPA PILETAS 3MTS",
-        "Precio": 1407,
-        "Categoría": "FERRETERIA",
-        "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
-        "Img": "destapaPiletas.jpg"
-    },
-    {
-        "Id": 291,
-        "Producto": "DESTAPA PILETAS 5MTS",
-        "Precio": 1819,
-        "Categoría": "FERRETERIA",
-        "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
-        "Img": "destapaPiletas.jpg"
-    },
-    {
-        "Id": 292,
-        "Producto": "ABRAZADERA DE ZINC 16MM",
-        "Precio": 302,
-        "Categoría": "FERRETERIA",
-        "Img": "abrazadera.jpg"
-    },
-    {
-        "Id": 293,
-        "Producto": "ABRAZADERA DE ZINC 20MM",
-        "Precio": 369,
-        "Categoría": "FERRETERIA",
-        "Img": "abrazadera.jpg"
-    },
-    {
-        "Id": 294,
-        "Producto": "ABRAZADERA DE ZINC 25MM",
-        "Precio": 397,
-        "Categoría": "FERRETERIA",
-        "Img": "abrazadera.jpg"
-    },
-    {
-        "Id": 295,
-        "Producto": "ABRAZADERA DE ZINC 44MM",
-        "Precio": 575,
-        "Categoría": "FERRETERIA",
-        "Img": "abrazadera.jpg"
-    },
-    {
-        "Id": 296,
-        "Producto": "ABRAZADERA DE ZINC 51MM",
-        "Precio": 622,
-        "Categoría": "FERRETERIA",
-        "Img": "abrazadera.jpg"
-    },
-    {
-        "Id": 297,
-        "Producto": "CAÑO DE HIERRO PARA CORTINA 1\/2X4MTS",
-        "Precio": 3999,
-        "PrecioUnidadxBulto": 3550,
-        "PrecioTotalBulto": 106500,
-        "UnidadesPorBulto": 30,
-        "Categoría": "FERRETERIA",
-        "Img": "cañoHierroCortina.jpg"
-    },
-    {
-        "Id": 298,
-        "Producto": "CERRADURA TH 303",
-        "Precio": 12614,
-        "Categoría": "FERRETERIA",
-        "Img": "cerraduraTh303.jpg"
-    },
-    {
-        "Id": 299,
-        "Producto": "CAÑO PVC 40mm x 4 mts",
-        "Precio": 3300,
-        "Categoría": "SANITARIO",
-        "Img": "cañoPvc.jpg"
-    },
-    {
-        "Id": 300,
-        "Producto": "CAÑO PVC 50mm x 4 mts",
-        "Precio": 3960,
-        "Categoría": "SANITARIO",
-        "Img": "cañoPvc.jpg"
-    },
-    {
-        "Id": 301,
-        "Producto": "CAÑO PVC 63mm x 4 mts",
-        "Categoría": "SANITARIO",
-        "Img": "cañoPvc.jpg"
-    },
-    {
-        "Id": 302,
-        "Producto": "CAÑO PVC 110mm x 4 mts",
-        "Precio": 5900,
-        "Categoría": "SANITARIO",
-        "Img": "cañoPvc.jpg"
-    },
-    {
-        "Id": 303,
-        "Producto": "DISCO SIN PAR - PARA SENSITIVA 14''x1\/8x1\"",
-        "Precio": 4399,
-        "Categoría": "FERRETERIA",
-        "Img": "discoSensitiva.jpg"
-    },
-    {
-        "Id": 304,
-        "Producto": "DISCO FLAP CARBORUNDUM 7''x7\/8 180x22MM",
-        "Precio": 3990,
-        "Categoría": "FERRETERIA",
-        "Img": "discoFlap7.jpg"
-    },
-    {
-        "Id": 305,
-        "Producto": "FLEX MALLADO 1\/2x30cm",
-        "Precio": 1812,
-        "Categoría": "SANITARIO",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "flexMallado.jpg",
-        "Descripción": "10% descuento extra"
-    },
-    {
-        "Id": 306,
-        "Producto": "FLEX MALLADO 1\/2x40cm",
-        "Precio": 1918,
-        "Categoría": "SANITARIO",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "flexMallado.jpg",
-        "Descripción": "10% descuento extra"
-    },
-    {
-        "Id": 307,
-        "Producto": "FLEX MALLADO 1\/2x50cm",
-        "Precio": 2146,
-        "Categoría": "SANITARIO",
-        "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
-        "Img": "flexMallado.jpg",
-        "Descripción": "10% descuento extra"
-    },
-    {
-        "Id": 308,
-        "Producto": "CERRADURA PUERTA PLACA ",
-        "Precio": 4980,
-        "Categoría": "FERRETERIA",
-        "Img": "cerraduraPlaca.jpg"
-    },
-    {
-        "Id": 309,
-        "Producto": "CERRADURA TH 403 (tipo prive 205)",
-        "Precio": 15999,
-        "Categoría": "FERRETERIA",
-        "Img": "cerradura403.jpg"
-    },
-    {
-        "Id": 310,
-        "Producto": "MASILLA PARA MADERA CONGO",
-        "Precio": 1320,
-        "Categoría": "PEGAMENTOS",
-        "Img": "masillaMadera.jpg"
-    },
-    {
-        "Id": 311,
-        "Producto": "MEZCLADOR ",
-        "Precio": 4990,
-        "Categoría": "PINTURERIA",
-        "Img": "mezclador.jpg",
-        "Descripción": "9cm Perfecto modelo reforzado para agitar y mezclar productos liquidos o en polvo (pintura, cemento, yesos)"
-    },
-    {
-        "Id": 312,
-        "Producto": "VENTANILLA ATORNILLAR APROBADA 15x15",
-        "Precio": 662,
-        "Categoría": "FERRETERIA",
-        "Img": "rejilla15x15.jpg"
-    },
-    {
-        "Id": 313,
-        "Producto": "VENTANILLA ATORNILLAR APROBADA 20x20",
-        "Precio": 1105,
-        "Categoría": "FERRETERIA",
-        "Img": "rejilla20x20.jpg"
-    },
-    {
-        "Id": 314,
-        "Producto": "VENTANILLA ATORNILLAR APROBADA 15x30",
-        "Precio": 1370,
-        "Categoría": "FERRETERIA",
-        "Img": "rejilla15x30.jpg"
-    },
-    {
-        "Id": 315,
-        "Producto": "PISTOLA DE RIEGO 7 POSICIONES",
-        "Precio": 2468,
-        "Categoría": "JARDIN",
-        "Img": "pistolaRiego.jpg"
-    },
-    {
-        "Id": 316,
-        "Producto": "LANZA DE RIEGO PUNTA REGULABLE",
-        "Precio": 887,
-        "Categoría": "JARDIN",
-        "Img": "lanzaRiego.jpg"
-    },
-    {
-        "Id": 317,
-        "Producto": "BARRE HOJAS PVC PREMIUM",
-        "Precio": 2142,
-        "Categoría": "JARDIN",
-        "Img": "barreHoja.jpg"
-    },
-    {
-        "Id": 318,
-        "Producto": "SAPITO REGADOR PLASTICO PARA MANGUERA DE 1\/2 Y 3\/4",
-        "Precio": 399,
-        "Categoría": "JARDIN",
-        "Img": "sapito.jpg"
-    }
-]
+ {
+  "Id": 1,
+  "Producto": "Cinta Aisladora Tacsa 10m",
+  "Precio": 631.03,
+  "Categoría": "Cintas",
+  "Img": "cinta.jpeg"
+ },
+ {
+  "Id": 2,
+  "Producto": "Cinta Aisladora Tacsa 20m",
+  "Precio": 1102.08,
+  "Categoría": "Cintas",
+  "Img": "cinta.jpeg"
+ },
+ {
+  "Id": 3,
+  "Producto": "CINTA DE\nEMBALAR SIGMA 48X40",
+  "Precio": 769.5,
+  "Categoría": "Cintas",
+  "Img": "cintaSigma.jpeg"
+ },
+ {
+  "Id": 4,
+  "Producto": "CINTA DE TEFLON LUXON 1\/2x10mts",
+  "Precio": 276,
+  "Categoría": "Cintas",
+  "Img": "cintaTeflonLuxon.png"
+ },
+ {
+  "Id": 5,
+  "Producto": "CINTA DE TEFLON LUXON 3\/4x10mts",
+  "Precio": 398,
+  "Categoría": "Cintas",
+  "Img": "cintaTeflonLuxon.png"
+ },
+ {
+  "Id": 6,
+  "Producto": "MANGUERAS DE CARGA PARA LAVARROPAS 1,5MTS",
+  "Precio": 2199,
+  "PrecioConDescuento": 2099,
+  "Categoría": "Mangueras",
+  "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "mangueraCarga.jpg"
+ },
+ {
+  "Id": 7,
+  "Producto": "MANGUERAS DE CARGA PARA\nLAVARROPAS 2MTS",
+  "Precio": 2740,
+  "PrecioConDescuento": 2603,
+  "Categoría": "Mangueras",
+  "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "mangueraCarga.jpg"
+ },
+ {
+  "Id": 8,
+  "Producto": "MANGUERAS DE CARGA PARA\nLAVARROPAS 3MTS",
+  "Precio": 3094,
+  "PrecioConDescuento": 2849,
+  "Categoría": "Mangueras",
+  "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "mangueraCarga.jpg"
+ },
+ {
+  "Id": 9,
+  "Producto": "MANGUERAS DESCARGA PARA\nLAVARROPAS 1,80MTS",
+  "Precio": 3059,
+  "PrecioConDescuento": 2906,
+  "Categoría": "Mangueras",
+  "Notas": "DSTO EXTRA APLICABLE SOLO EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "mangueraDescarga.jpg"
+ },
+ {
+  "Id": 10,
+  "Producto": "MANGUERAS PARA GAS APROBADA X 25MTS",
+  "Precio": 17771,
+  "PrecioConDescuento": 16882.45,
+  "Categoría": "Mangueras",
+  "Notas": "5% de\ndescuento por\npago contado",
+  "Img": "mangueraGas.jpg"
+ },
+ {
+  "Id": 11,
+  "Producto": "CINTA DOBLE FAZ 5MTS",
+  "Precio": 1100,
+  "Categoría": "Cintas",
+  "Img": "cintaDobleFaz.jpeg"
+ },
+ {
+  "Id": 12,
+  "Producto": "SELLA ROSCAS AGUA 25cc",
+  "Precio": 1062,
+  "PrecioConDescuento": 2906,
+  "Categoría": "Revista",
+  "Img": "sellaRoscasAgua.jpeg"
+ },
+ {
+  "Id": 13,
+  "Producto": "SELLA ROSCAS GAS 25cc",
+  "Categoría": "Revista",
+  "Img": "sellaRoscasGas.jpeg"
+ },
+ {
+  "Id": 14,
+  "Producto": "HIDROFUGO 1lts",
+  "Precio": 1471,
+  "Categoría": "Revista",
+  "Img": "HIDROFUGO.png"
+ },
+ {
+  "Id": 15,
+  "Producto": "SOPAPA DEIZER 40mm",
+  "Precio": 1349,
+  "Categoría": "Revista",
+  "Img": "sopapa.jpg"
+ },
+ {
+  "Id": 16,
+  "Producto": "SOPAPA DEIZER 50mm",
+  "Precio": 1540,
+  "Categoría": "Revista",
+  "Img": "sopapa.jpg"
+ },
+ {
+  "Id": 17,
+  "Producto": "FILTRO PARA BACHA 65mm",
+  "Precio": 693,
+  "Categoría": "Revista",
+  "Img": "filtroBacha.jpg"
+ },
+ {
+  "Id": 18,
+  "Producto": "CANILLA ESFERICA  1\/2",
+  "Precio": 1200,
+  "Categoría": "Revista",
+  "Img": "canillaEsfericaMedio.jpeg"
+ },
+ {
+  "Id": 19,
+  "Producto": "CANILLA ESFERICA 3\/4",
+  "Precio": 1113,
+  "Categoría": "Revista",
+  "Img": "canillaEsfericaTrescuartos.jpg"
+ },
+ {
+  "Id": 20,
+  "Producto": "LLAVE ESFERICA 1\/2",
+  "Precio": 1137,
+  "Categoría": "Revista",
+  "Img": "LlaveEsfericaMedio.jpg"
+ },
+ {
+  "Id": 21,
+  "Producto": "LLAVE ESFERICA 3\/4",
+  "Precio": 2584,
+  "Categoría": "Revista",
+  "Img": "llaveEsfericaTrescuartos.jpeg"
+ },
+ {
+  "Id": 22,
+  "Producto": "CANILLA PARA LAVARROPAS",
+  "Precio": 2046,
+  "Categoría": "Revista",
+  "Img": "canillaLavarropas.jpeg"
+ },
+ {
+  "Id": 23,
+  "Producto": "juego llaves allen mediano",
+  "Precio": 2446,
+  "Categoría": "FERRETERIA",
+  "Img": "juegoLlavesAllen.jpeg",
+  "Descripción": "9 PIEZAS MILIMETRICAS"
+ },
+ {
+  "Id": 24,
+  "Producto": "juego llaves torx mediano",
+  "Precio": 2620,
+  "Categoría": "FERRETERIA",
+  "Img": "juegoLlavesTorx.jpeg",
+  "Descripción": "9 PIEZAS MILIMETRICAS"
+ },
+ {
+  "Id": 25,
+  "Producto": "fieltro goma espuma 20cm",
+  "Precio": 576,
+  "PrecioConDescuento": 600,
+  "Categoría": "FERRETERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "fieltro.jpg"
+ },
+ {
+  "Id": 26,
+  "Producto": "fieltro goma espuma 25cm",
+  "Precio": 655,
+  "PrecioConDescuento": 682,
+  "Categoría": "FERRETERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "fieltro.jpg"
+ },
+ {
+  "Id": 27,
+  "Producto": "espatula de pvc 9cm",
+  "Precio": 117,
+  "Categoría": "PINTURERIA",
+  "Img": "EspatulaPvc.jpg"
+ },
+ {
+  "Id": 28,
+  "Producto": "espatula de pvc 12cm",
+  "Precio": 137,
+  "Categoría": "PINTURERIA",
+  "Img": "EspatulaPvc.jpg"
+ },
+ {
+  "Id": 29,
+  "Producto": "espatula de pvc 15cm",
+  "Precio": 154,
+  "Categoría": "PINTURERIA",
+  "Img": "EspatulaPvc.jpg"
+ },
+ {
+  "Id": 30,
+  "Producto": "espatula yesero",
+  "Precio": 607,
+  "Categoría": "PINTURERIA",
+  "Img": "espatulaYesero.png"
+ },
+ {
+  "Id": 31,
+  "Producto": "llana lisa de pvc",
+  "Precio": 1333,
+  "Categoría": "PINTURERIA",
+  "Img": "llanaLisa.jpg"
+ },
+ {
+  "Id": 32,
+  "Producto": "venda sintetica 10x 25cm",
+  "Precio": 867,
+  "Categoría": "PINTURERIA",
+  "Img": "vendaSintetica.png"
+ },
+ {
+  "Id": 33,
+  "Producto": "venda sintetica 20x25cm",
+  "Precio": 1525,
+  "Categoría": "PINTURERIA",
+  "Img": "vendaSintetica.png"
+ },
+ {
+  "Id": 34,
+  "Producto": "par de guantes moteados livianos gris",
+  "Precio": 573,
+  "PrecioConDescuento": 544.35,
+  "Categoría": "REVISTA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA \/ Descuento del 5% a partir de 100 unidades",
+  "Img": "guantesAzul.jpg"
+ },
+ {
+  "Id": 35,
+  "Producto": "par de guantes moteados pesado azul linea prem",
+  "Precio": 739.99,
+  "Categoría": "REVISTA",
+  "Notas": "100% algodon excelente calidad",
+  "Img": "guantesAzulPrime.jpg"
+ },
+ {
+  "Id": 36,
+  "Producto": "sifon simple",
+  "Precio": 2748,
+  "Categoría": "SANITARIO",
+  "Notas": "100% original",
+  "Img": "sifonSimple.jpg"
+ },
+ {
+  "Id": 37,
+  "Producto": "sifon doble",
+  "Precio": 6037,
+  "Categoría": "SANITARIO",
+  "Notas": "100% original",
+  "Img": "sifonDoble.jpg"
+ },
+ {
+  "Id": 38,
+  "Producto": "caño corrugado de 3\/4 naranja",
+  "Precio": 3035,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "rolloNaranja.jpg"
+ },
+ {
+  "Id": 39,
+  "Producto": "caño corrugado de 7\/8 naranja",
+  "Precio": 4442,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "rolloNaranja.jpg"
+ },
+ {
+  "Id": 40,
+  "Producto": "caño corrugado de 3\/4 blanco",
+  "Precio": 3705,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "rolloBlanco.jpg"
+ },
+ {
+  "Id": 41,
+  "Producto": "caño corrugado de 7\/8 blanco",
+  "Precio": 5391,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "rolloBlanco.jpg"
+ },
+ {
+  "Id": 42,
+  "Producto": "portalampara con chicote",
+  "Precio": 288,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "portaLamparaChicote.jpg",
+  "Descripción": "conexión antillama y protector plástico antiquiebre"
+ },
+ {
+  "Id": 43,
+  "Producto": "portalampara 3 piezas negro",
+  "Precio": 499,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "portaTresPiezas.jpg",
+  "Descripción": "conexión antillama y protector plástico antiquiebre"
+ },
+ {
+  "Id": 44,
+  "Producto": "porta bastidor exterior",
+  "Precio": 499,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "portaBastidor.jpg"
+ },
+ {
+  "Id": 45,
+  "Producto": "acople rapido 1\/2",
+  "Precio": 999,
+  "Categoría": "SANITARIO",
+  "Img": "acopleRapido.jpg"
+ },
+ {
+  "Id": 46,
+  "Producto": "acople rapido 3\/4",
+  "Precio": 1217,
+  "Categoría": "SANITARIO",
+  "Img": "acopleRapido.jpg"
+ },
+ {
+  "Id": 47,
+  "Producto": "manguera de riego 1\/2",
+  "Precio": 0,
+  "Categoría": "JARDIN",
+  "Img": "manguera.jpg"
+ },
+ {
+  "Id": 48,
+  "Producto": "manguera de riego 3\/4",
+  "Precio": 0,
+  "Categoría": "JARDIN",
+  "Img": "manguera.jpg"
+ },
+ {
+  "Id": 49,
+  "Producto": "acople rapido para manguera 1\/2",
+  "Precio": 830,
+  "Categoría": "JARDIN",
+  "Img": "acopleManguera.jpg"
+ },
+ {
+  "Id": 50,
+  "Producto": "pico encastre 1\/2",
+  "Precio": 445,
+  "Categoría": "JARDIN",
+  "Img": "picoEncastre.jpg"
+ },
+ {
+  "Id": 51,
+  "Producto": "carretel para bordeadora + tanza UNIVERSAL",
+  "Precio": 629,
+  "Categoría": "JARDIN",
+  "Notas": "consultar precio por bulto de 150 unidades",
+  "Img": "portaTanza.jpg"
+ },
+ {
+  "Id": 52,
+  "Producto": "enduido 1lt x 6 unid",
+  "Precio": 3004,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "enduido1lt.png"
+ },
+ {
+  "Id": 53,
+  "Producto": "enduido 1lt x 12unid",
+  "Precio": 2900,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "enduido1lt.png"
+ },
+ {
+  "Id": 54,
+  "Producto": "enduido 1lt x 24unid",
+  "Precio": 2693,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "enduido1lt.png"
+ },
+ {
+  "Id": 55,
+  "Producto": "enduido 4lt",
+  "Precio": 7567,
+  "Categoría": "PINTURERIA",
+  "Img": "enduido.jpg"
+ },
+ {
+  "Id": 56,
+  "Producto": "latex interior 1lts",
+  "Precio": 2825,
+  "Categoría": "PINTURERIA",
+  "Img": "LATEX4LTS.jpg"
+ },
+ {
+  "Id": 57,
+  "Producto": "latex interior 4lts",
+  "Precio": 8982,
+  "Categoría": "PINTURERIA",
+  "Img": "LATEX4LTS.jpg"
+ },
+ {
+  "Id": 58,
+  "Producto": "latex interior 10lts",
+  "Precio": 19961,
+  "Categoría": "PINTURERIA",
+  "Img": "LATEX10LTS.jpg"
+ },
+ {
+  "Id": 59,
+  "Producto": "latex interior 20lts",
+  "Precio": 30503,
+  "Categoría": "PINTURERIA",
+  "Img": "LATEX20LTS.jpg"
+ },
+ {
+  "Id": 60,
+  "Producto": "fijador 1lt",
+  "Precio": 2952,
+  "Categoría": "PINTURERIA",
+  "Img": "fijador.jpg"
+ },
+ {
+  "Id": 61,
+  "Producto": "pincel 7",
+  "Precio": 583.42,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "pincel.jpg"
+ },
+ {
+  "Id": 62,
+  "Producto": "pincel 10",
+  "Precio": 617.76,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "pincel.jpg"
+ },
+ {
+  "Id": 63,
+  "Producto": "pincel 15",
+  "Precio": 780.3,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "pincel.jpg"
+ },
+ {
+  "Id": 64,
+  "Producto": "pincel 20",
+  "Precio": 928.26,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "pincel.jpg"
+ },
+ {
+  "Id": 65,
+  "Producto": "pincel 25",
+  "Precio": 1150,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "pincel.jpg"
+ },
+ {
+  "Id": 66,
+  "Producto": "pincel 30",
+  "Precio": 1405,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "pincel.jpg"
+ },
+ {
+  "Id": 67,
+  "Producto": "rodillo con funda 5",
+  "Precio": 455,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "RODILLOCONFUNDA5CM.jpg",
+  "Descripción": "5% de descuento por 6 docenas surtidas"
+ },
+ {
+  "Id": 68,
+  "Producto": "rodillo con funda 8",
+  "Precio": 487,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "RODILLODE8CM.jpg",
+  "Descripción": "5% de descuento por 6 docenas surtidas"
+ },
+ {
+  "Id": 69,
+  "Producto": "rodillo con funda 11",
+  "Precio": 533,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "RODILLODE11CM.jpg",
+  "Descripción": "5% de descuento por 6 docenas surtidas"
+ },
+ {
+  "Id": 70,
+  "Producto": "rodillo epoxi 5",
+  "Precio": 468,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "EPOXIDE5CM.jpg"
+ },
+ {
+  "Id": 71,
+  "Producto": "rodillo epoxi 8",
+  "Precio": 520,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "EPOXIDE8CM.jpg"
+ },
+ {
+  "Id": 72,
+  "Producto": "rodillo epoxi 11",
+  "Precio": 572,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "EPOXIDE11CM.jpg"
+ },
+ {
+  "Id": 73,
+  "Producto": "rodillo simil lana 22",
+  "Precio": 2250,
+  "Categoría": "PINTURERIA",
+  "Img": "rodilloSimilLana.jpg"
+ },
+ {
+  "Id": 74,
+  "Producto": "rodillo lana larga 22",
+  "Precio": 4320,
+  "Categoría": "PINTURERIA",
+  "Img": "rodilloLana.jpg"
+ },
+ {
+  "Id": 75,
+  "Producto": "rodillo antigota 22",
+  "Precio": 3500,
+  "Categoría": "PINTURERIA",
+  "Img": "rodilloAntigota.jpg"
+ },
+ {
+  "Id": 76,
+  "Producto": "bandeja jr plana",
+  "Precio": 368,
+  "Categoría": "PINTURERIA",
+  "Img": "BANDEJAPLANAJUNIORS.jpg"
+ },
+ {
+  "Id": 77,
+  "Producto": "bandeja plana",
+  "Precio": 931,
+  "Categoría": "PINTURERIA",
+  "Img": "bandejaPlana.jpg"
+ },
+ {
+  "Id": 78,
+  "Producto": "bandeja de colgar",
+  "Precio": 870,
+  "Categoría": "PINTURERIA",
+  "Img": "bandejaColgar.jpg"
+ },
+ {
+  "Id": 79,
+  "Producto": "cubeta 12lt",
+  "Precio": 1988,
+  "Categoría": "PINTURERIA",
+  "Img": "cubeta12lts.jpg"
+ },
+ {
+  "Id": 80,
+  "Producto": "carton 90cmx20mts unidad",
+  "Precio": 4689,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "carton.jpg",
+  "Descripción": "consultar descuento a partir de 100 unidades"
+ },
+ {
+  "Id": 81,
+  "Producto": "carton 90cmx20mts x 4 unidades",
+  "Precio": 4575,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "carton.jpg"
+ },
+ {
+  "Id": 82,
+  "Producto": "carton 90cmx20mts x 6 unidades",
+  "Precio": 4428,
+  "Categoría": "PINTURERIA",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "carton.jpg"
+ },
+ {
+  "Id": 83,
+  "Producto": "tornillo punta mecha 1\/2",
+  "PrecioUnidadxBulto": 12.44,
+  "PrecioTotalBulto": 2488,
+  "UnidadesPorBulto": 200,
+  "Categoría": "BULONERA",
+  "Img": "puntaMecha.jpg"
+ },
+ {
+  "Id": 84,
+  "Producto": "tornillo punta mecha 3\/4",
+  "PrecioUnidadxBulto": 15.15,
+  "PrecioTotalBulto": 3030,
+  "UnidadesPorBulto": 200,
+  "Categoría": "BULONERA",
+  "Img": "puntaMecha.jpg"
+ },
+ {
+  "Id": 85,
+  "Producto": "tornillo punta mecha 1",
+  "PrecioUnidadxBulto": 17.72,
+  "PrecioTotalBulto": 3544,
+  "UnidadesPorBulto": 200,
+  "Categoría": "BULONERA",
+  "Img": "puntaMecha.jpg"
+ },
+ {
+  "Id": 86,
+  "Producto": "tornillo driwal 5\/8",
+  "PrecioUnidadxBulto": 7.53,
+  "PrecioTotalBulto": 2259,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "driwal.jpg"
+ },
+ {
+  "Id": 87,
+  "Producto": "tornillo driwal 3\/4",
+  "PrecioUnidadxBulto": 7.73,
+  "PrecioTotalBulto": 2319,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "driwal.jpg"
+ },
+ {
+  "Id": 88,
+  "Producto": "tornillo driwal 1",
+  "PrecioUnidadxBulto": 9.25,
+  "PrecioTotalBulto": 2775,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "driwal.jpg"
+ },
+ {
+  "Id": 89,
+  "Producto": "tornillo driwal 1.1\/4",
+  "PrecioUnidadxBulto": 11.1,
+  "PrecioTotalBulto": 3330,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "driwal.jpg"
+ },
+ {
+  "Id": 90,
+  "Producto": "tornillo driwal 1.1\/2",
+  "PrecioUnidadxBulto": 13.02,
+  "PrecioTotalBulto": 3906,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "driwal.jpg"
+ },
+ {
+  "Id": 91,
+  "Producto": "tornillo driwal 2",
+  "PrecioUnidadxBulto": 16.53,
+  "PrecioTotalBulto": 4959,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "driwal.jpg"
+ },
+ {
+  "Id": 92,
+  "Producto": "tornillo fix 4x35",
+  "PrecioUnidadxBulto": 14.24,
+  "PrecioTotalBulto": 2848,
+  "UnidadesPorBulto": 200,
+  "Categoría": "BULONERA",
+  "Img": "fix.jpg"
+ },
+ {
+  "Id": 93,
+  "Producto": "tornillo fix 5x50",
+  "PrecioUnidadxBulto": 30.1,
+  "PrecioTotalBulto": 6020,
+  "UnidadesPorBulto": 200,
+  "Categoría": "BULONERA",
+  "Img": "fix.jpg"
+ },
+ {
+  "Id": 94,
+  "Producto": "tornillo fix 6x60",
+  "PrecioTotalBulto": 0,
+  "UnidadesPorBulto": 200,
+  "Categoría": "BULONERA",
+  "Img": "fix.jpg"
+ },
+ {
+  "Id": 95,
+  "Producto": "tarugo estandar 6mm",
+  "PrecioUnidadxBulto": 5.73,
+  "PrecioTotalBulto": 1719.0000000000002,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoEstandar.jpg"
+ },
+ {
+  "Id": 96,
+  "Producto": "tarugo estandar 8mm",
+  "PrecioUnidadxBulto": 10.32,
+  "PrecioTotalBulto": 3096,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoEstandar.jpg"
+ },
+ {
+  "Id": 97,
+  "Producto": "tarugo estandar 10mm",
+  "PrecioUnidadxBulto": 21.82,
+  "PrecioTotalBulto": 6546,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoEstandar.jpg"
+ },
+ {
+  "Id": 98,
+  "Producto": "tarugo con tope 6mm",
+  "PrecioUnidadxBulto": 6.82,
+  "PrecioTotalBulto": 2046,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoTope.jpg"
+ },
+ {
+  "Id": 99,
+  "Producto": "tarugo con tope 8mm",
+  "PrecioUnidadxBulto": 11.63,
+  "PrecioTotalBulto": 3489.0000000000005,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoTope.jpg"
+ },
+ {
+  "Id": 100,
+  "Producto": "tarugo con tope 10mm",
+  "PrecioUnidadxBulto": 22.97,
+  "PrecioTotalBulto": 6891,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoTope.jpg"
+ },
+ {
+  "Id": 101,
+  "Producto": "tarugo espiga 6mm",
+  "PrecioUnidadxBulto": 10.57,
+  "PrecioTotalBulto": 3171,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoEspiga.jpg"
+ },
+ {
+  "Id": 102,
+  "Producto": "tarugo espiga 8mm",
+  "PrecioUnidadxBulto": 20.44,
+  "PrecioTotalBulto": 6132,
+  "UnidadesPorBulto": 300,
+  "Categoría": "BULONERA",
+  "Img": "tarugoEspiga.jpg"
+ },
+ {
+  "Id": 103,
+  "Producto": "tarugo espiga 10mm",
+  "PrecioUnidadxBulto": 42.88,
+  "PrecioTotalBulto": 10720,
+  "UnidadesPorBulto": 250,
+  "Categoría": "BULONERA",
+  "Img": "tarugoEspiga.jpg"
+ },
+ {
+  "Id": 104,
+  "Producto": "tarugo estandar 12mm",
+  "PrecioUnidadxBulto": 39.82,
+  "PrecioTotalBulto": 9955,
+  "UnidadesPorBulto": 250,
+  "Categoría": "BULONERA",
+  "Img": "tarugoEstandar.jpg"
+ },
+ {
+  "Id": 105,
+  "Producto": "disco de corte dogo lat x50 unid. 115x1mm",
+  "Precio": 431,
+  "Categoría": "FERRETERIA",
+  "Img": "discos.jpg"
+ },
+ {
+  "Id": 106,
+  "Producto": "disco de corte dogo lat x50 unid. 115x1,6mm",
+  "Precio": 431,
+  "Categoría": "FERRETERIA",
+  "Img": "discos.jpg"
+ },
+ {
+  "Id": 107,
+  "Producto": "caja de herramientas 13''",
+  "Precio": 6246,
+  "Categoría": "FERRETERIA",
+  "Img": "cajaHerramientas13.jpg",
+  "Descripción": "33cmx16cm"
+ },
+ {
+  "Id": 108,
+  "Producto": "caja de herramientas 16''",
+  "Precio": 9731,
+  "Categoría": "FERRETERIA",
+  "Img": "cajaHerramientas16.jpg",
+  "Descripción": "40cmx23cm"
+ },
+ {
+  "Id": 109,
+  "Producto": "caja de herramientas 19''",
+  "Precio": 9128,
+  "Categoría": "FERRETERIA",
+  "Img": "cajaHerramientas19.jpg",
+  "Descripción": "18cmx20cm"
+ },
+ {
+  "Id": 110,
+  "Producto": "rueda para carretilla plastica",
+  "Precio": 5625,
+  "Categoría": "FERRETERIA",
+  "Img": "ruedas.jpg",
+  "Descripción": "soportan 150kg"
+ },
+ {
+  "Id": 111,
+  "Producto": "rueda para hormigonera plastica",
+  "Precio": 4160,
+  "Categoría": "FERRETERIA",
+  "Img": "ruedas.jpg",
+  "Descripción": "soportan 150kg"
+ },
+ {
+  "Id": 112,
+  "Producto": "zaranda 50x35cm",
+  "Precio": 4250,
+  "Categoría": "FERRETERIA",
+  "Img": "zaranda.jpg"
+ },
+ {
+  "Id": 113,
+  "Producto": "fratacho pino 30cm",
+  "Precio": 965,
+  "Categoría": "FERRETERIA",
+  "Img": "fratacho.jpg"
+ },
+ {
+  "Id": 114,
+  "Producto": "fratacho algarrobo 30cm",
+  "Precio": 2729,
+  "Categoría": "FERRETERIA",
+  "Img": "FRATACHOALGARROBO.jpg"
+ },
+ {
+  "Id": 115,
+  "Producto": "fratacho de piedra fino",
+  "Precio": 1625,
+  "Categoría": "HERRAMIENTAS",
+  "Img": "fratachoPlastico.jpg",
+  "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
+ },
+ {
+  "Id": 116,
+  "Producto": "fratacho de piedra mediano",
+  "Precio": 1625,
+  "Categoría": "HERRAMIENTAS",
+  "Img": "fratachoPlastico.jpg",
+  "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
+ },
+ {
+  "Id": 117,
+  "Producto": "fratacho de piedra grueso",
+  "Precio": 1625,
+  "Categoría": "HERRAMIENTAS",
+  "Img": "fratachoPlastico.jpg",
+  "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
+ },
+ {
+  "Id": 118,
+  "Producto": "balde de albañil 12 unidades",
+  "Precio": 1340,
+  "Categoría": "HERRAMIENTAS",
+  "Notas": "consultar precio partir de 60 docenas",
+  "Img": "baldeAlbañil.jpg"
+ },
+ {
+  "Id": 119,
+  "Producto": "balde de albañil 36 unidades",
+  "Precio": 1299,
+  "Categoría": "HERRAMIENTAS",
+  "Notas": "consultar precio partir de 60 docenas",
+  "Img": "baldeAlbañil.jpg"
+ },
+ {
+  "Id": 120,
+  "Producto": "llana dentada 6mm",
+  "Precio": 3107,
+  "Categoría": "HERRAMIENTAS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "llanaDentada.jpg",
+  "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
+ },
+ {
+  "Id": 121,
+  "Producto": "llana dentada 8mm",
+  "Precio": 3107,
+  "Categoría": "HERRAMIENTAS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "llanaDentada.jpg",
+  "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
+ },
+ {
+  "Id": 122,
+  "Producto": "llana dentada 10mm",
+  "Precio": 3107,
+  "Categoría": "HERRAMIENTAS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "llanaDentada.jpg",
+  "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
+ },
+ {
+  "Id": 123,
+  "Producto": "cola vinilica 110g",
+  "Precio": 717.19,
+  "Categoría": "PEGAMENTOS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "COLA110G.jpg"
+ },
+ {
+  "Id": 124,
+  "Producto": "cola vinilica 220g",
+  "Precio": 1213.71,
+  "Categoría": "PEGAMENTOS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "COLA220G.jpg"
+ },
+ {
+  "Id": 125,
+  "Producto": "cola vinilica 500g",
+  "Precio": 2317.09,
+  "Categoría": "PEGAMENTOS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "COLA500G.jpg"
+ },
+ {
+  "Id": 126,
+  "Producto": "cemento de contacto 250g",
+  "Precio": 2758,
+  "Categoría": "PEGAMENTOS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "CEMENTODECONTACTO250G.jpg"
+ },
+ {
+  "Id": 127,
+  "Producto": "cemento de contacto 450g",
+  "Precio": 4965,
+  "Categoría": "PEGAMENTOS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "CEMENTODECONTACTO450G.jpg"
+ },
+ {
+  "Id": 128,
+  "Producto": "cemento de contacto 1lt",
+  "Precio": 8275,
+  "Categoría": "PEGAMENTOS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "CEMENTODECONTACTO1KG.jpg"
+ },
+ {
+  "Id": 129,
+  "Producto": "cemento de contacto 40g",
+  "Precio": 1765,
+  "Categoría": "PEGAMENTOS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "CEMENTODECONTACTO40G.jpg"
+ },
+ {
+  "Id": 130,
+  "Producto": "GRASA DE LITIO 100G",
+  "Precio": 1315,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASA100GLITIO.jpg"
+ },
+ {
+  "Id": 131,
+  "Producto": "GRASA DE LITIO 250G",
+  "Precio": 2946,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASADELITIO250G.jpg"
+ },
+ {
+  "Id": 132,
+  "Producto": "GRASA DE LITIO 500G",
+  "Precio": 5565,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASADELITIO500.jpg"
+ },
+ {
+  "Id": 133,
+  "Producto": "GRASA DE LITIO 1K",
+  "Precio": 10422,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASALITIO1KG.jpg"
+ },
+ {
+  "Id": 134,
+  "Producto": "GRASA GRAFITADA 100G",
+  "Precio": 1253,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASAGRAFITADA100.jpg"
+ },
+ {
+  "Id": 135,
+  "Producto": "GRASA GRAFITADA 250G",
+  "Precio": 2794,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASAGRAFITADA250.jpg"
+ },
+ {
+  "Id": 136,
+  "Producto": "GRASA AMARILLA 100G",
+  "Precio": 1094,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASAAMARILLA100G.jpg"
+ },
+ {
+  "Id": 137,
+  "Producto": "ACEITERA 100CM",
+  "Precio": 374,
+  "Categoría": "FERRETERIA",
+  "Img": "ACEITEDE100cm.jpg"
+ },
+ {
+  "Id": 138,
+  "Producto": "GRASA LITIO AEROSOL 250CC",
+  "Precio": 3201,
+  "Categoría": "FERRETERIA",
+  "Img": "GRASADELITIOENAEROSOL.jpg"
+ },
+ {
+  "Id": 139,
+  "Producto": "LUBRICANTE 250CC",
+  "Precio": 2462,
+  "Categoría": "FERRETERIA",
+  "Img": "LUBRICANTE250.jpg"
+ },
+ {
+  "Id": 140,
+  "Producto": "LUBRICANTE 440CC",
+  "Precio": 2861,
+  "Categoría": "FERRETERIA",
+  "Img": "LUBRICANTE440.jpg"
+ },
+ {
+  "Id": 141,
+  "Producto": "PULVERIZADOR 500G",
+  "Precio": 1134,
+  "Categoría": "FERRETERIA",
+  "Img": "PULVERIZADOR500GY1LTS.jpg"
+ },
+ {
+  "Id": 142,
+  "Producto": "PULVERIZADOR 1000G",
+  "Precio": 1391,
+  "Categoría": "FERRETERIA",
+  "Img": "PULVERIZADOR500GY1LTS.jpg"
+ },
+ {
+  "Id": 143,
+  "Producto": "CONEXIÓN BONOMINI 50-40 BLANCO",
+  "Precio": 812,
+  "Categoría": "SANITARIO",
+  "Img": "conexionBlanco.jpg"
+ },
+ {
+  "Id": 144,
+  "Producto": "CONEXION BONOMINI 50-40 PLATA",
+  "Precio": 1043,
+  "Categoría": "SANITARIO",
+  "Img": "conexionNegro.jpg"
+ },
+ {
+  "Id": 145,
+  "Producto": "DEPOSITO DE COLGAR BAHCO",
+  "Precio": 21875,
+  "Categoría": "SANITARIO",
+  "Img": "depositoColgar.jpg"
+ },
+ {
+  "Id": 146,
+  "Producto": "ASIENTO DE INODORO PLASTICO BAHCO",
+  "Precio": 5108,
+  "Categoría": "SANITARIO",
+  "Img": "tapaInodoro.jpg"
+ },
+ {
+  "Id": 147,
+  "Producto": "bacha lavatorio",
+  "Precio": 6875,
+  "Categoría": "SANITARIO",
+  "Img": "bachaLavatorio.jpg",
+  "Descripción": "lavatorio ancho 43,5 largo 37,5 profundidad 14cm"
+ },
+ {
+  "Id": 148,
+  "Producto": "bacha lavadero",
+  "Precio": 11999,
+  "Categoría": "SANITARIO",
+  "Img": "bachaLavadero.jpg",
+  "Descripción": "lavadero ancho 46cm largo 42,5cm profundidad 21cm"
+ },
+ {
+  "Id": 149,
+  "Producto": "CALEFON PLASTICO 20LTS",
+  "Precio": 6854,
+  "Categoría": "SANITARIO",
+  "Img": "calefonPlastico.png"
+ },
+ {
+  "Id": 150,
+  "Producto": "CALEFON LOZA 20LTS",
+  "Precio": 19057,
+  "Categoría": "SANITARIO",
+  "Img": "calefonLoza.jpg"
+ },
+ {
+  "Id": 151,
+  "Producto": "CALEFON ACERO 20LTS",
+  "Precio": 24615,
+  "Categoría": "SANITARIO",
+  "Img": "calefonAcero.jpg"
+ },
+ {
+  "Id": 152,
+  "Producto": "GRAMPA MEDIA OMEGA 5\/8",
+  "Precio": 51.57,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "mediaOmega.jpg"
+ },
+ {
+  "Id": 153,
+  "Producto": "GRAMPA MEDIA OMEGA 3\/4",
+  "Precio": 56.12,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "mediaOmega.jpg"
+ },
+ {
+  "Id": 154,
+  "Producto": "GRAMPA MEDIA OMEGA 7\/8",
+  "Precio": 85.79,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "mediaOmega.jpg"
+ },
+ {
+  "Id": 155,
+  "Producto": "GRAMPA MEDIA OMEGA 1''",
+  "Precio": 101.93,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "mediaOmega.jpg"
+ },
+ {
+  "Id": 156,
+  "Producto": "GRAMPA OMEGA 5\/8",
+  "Precio": 46.16,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "omega.jpg"
+ },
+ {
+  "Id": 157,
+  "Producto": "GRAMPA OMEGA 3\/4",
+  "Precio": 49.11,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "omega.jpg"
+ },
+ {
+  "Id": 158,
+  "Producto": "GRAMPA OMEGA 7\/8",
+  "Precio": 71.46,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "omega.jpg"
+ },
+ {
+  "Id": 159,
+  "Producto": "GRAMPA OMEGA 1''",
+  "Precio": 85.03,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "omega.jpg"
+ },
+ {
+  "Id": 160,
+  "Producto": "CAJA DE HIERRO 10X5",
+  "Precio": 258.59,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "cajaHierro.jpg"
+ },
+ {
+  "Id": 161,
+  "Producto": "CAJA DE HIERRO OCTOGONAL 10X5",
+  "Precio": 258.59,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "cajaOctogonal.jpg"
+ },
+ {
+  "Id": 162,
+  "Producto": "REGULADOR 1MTS",
+  "Precio": 6160,
+  "Categoría": "GAS",
+  "Img": "regulador.jpg"
+ },
+ {
+  "Id": 163,
+  "Producto": "REGULADOR 2MTS",
+  "Precio": 6847,
+  "Categoría": "GAS",
+  "Img": "regulador.jpg"
+ },
+ {
+  "Id": 164,
+  "Producto": "CABEZA DE REGULADOR",
+  "Categoría": "GAS",
+  "Img": "cabezaRegulador.jpg"
+ },
+ {
+  "Id": 165,
+  "Producto": "cartucho DE GAS butano 12 unidades",
+  "Precio": 2490,
+  "Categoría": "GAS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "cartuchoButano.jpg"
+ },
+ {
+  "Id": 166,
+  "Producto": "cartucho DE GAS butano 28 unidades",
+  "Precio": 2430,
+  "Categoría": "GAS",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "cartuchoButano.jpg"
+ },
+ {
+  "Id": 167,
+  "Producto": "MANIJA MINISTERIO CEPILLADO 24 UNID",
+  "Precio": 2778,
+  "Categoría": "HERRAJES",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "manijaMinisterio.jpg"
+ },
+ {
+  "Id": 168,
+  "Producto": "MANIJA MINISTERIO CEPILLADO 12 UNID",
+  "Precio": 2894,
+  "Categoría": "HERRAJES",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "manijaMinisterio.jpg"
+ },
+ {
+  "Id": 169,
+  "Producto": "PERCHA DE ALUMINIO COLOR 1 GANCHO",
+  "Precio": 1291,
+  "Categoría": "HERRAJES",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "percha.jpg"
+ },
+ {
+  "Id": 170,
+  "Producto": "PERCHA DE ALUMINIO COLOR 2 GANCHOS",
+  "Precio": 1907,
+  "Categoría": "HERRAJES",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "perchaDosGanchos.jpg"
+ },
+ {
+  "Id": 171,
+  "Producto": "CAJA PARA TERMICA 1-2",
+  "Precio": 707,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "cajaTermica1-2.jpg"
+ },
+ {
+  "Id": 172,
+  "Producto": "CAJA PARA TERMICA 2-4",
+  "Categoría": "ELECTRICIDAD",
+  "Img": "cajaTermica2-4.jpg"
+ },
+ {
+  "Id": 173,
+  "Producto": "CAJA PARA TERMICA 4-8",
+  "Precio": 2129,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "cajaTermica4-8.jpg"
+ },
+ {
+  "Id": 174,
+  "Producto": "FILTRO PARA PURIFICADOR DE COCINA 57X38CM",
+  "Precio": 990,
+  "Categoría": "GAS",
+  "Img": "filtroCocina.jpg"
+ },
+ {
+  "Id": 175,
+  "Producto": "YESO TIPO PARIS 1K",
+  "Precio": 821.1091200000002,
+  "PrecioUnidadxBulto": 789.5280000000001,
+  "PrecioTotalBulto": 4737.168000000001,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/yesoParis.jpg"
+ },
+ {
+  "Id": 176,
+  "Producto": "YESO TIPO PARIS 2K",
+  "Precio": 1609.05056,
+  "PrecioUnidadxBulto": 1547.164,
+  "PrecioTotalBulto": 9282.984,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/yesoParis.jpg"
+ },
+ {
+  "Id": 177,
+  "Producto": "YESO TIPO PARIS 5K",
+  "Precio": 3907.976670000001,
+  "PrecioUnidadxBulto": 3757.669875000001,
+  "PrecioTotalBulto": 15030.679500000004,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/yesoParis.jpg"
+ },
+ {
+  "Id": 178,
+  "Producto": "YESO TIPO PARIS 10K",
+  "Precio": 7691.30453,
+  "PrecioUnidadxBulto": 7395.485125,
+  "PrecioTotalBulto": 29581.9405,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/yesoParis.jpg"
+ },
+ {
+  "Id": 179,
+  "Producto": "CEMENTO PORLAND 1K",
+  "Precio": 745.6282600000001,
+  "PrecioUnidadxBulto": 716.95025,
+  "PrecioTotalBulto": 4301.7015,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoPortland.jpg"
+ },
+ {
+  "Id": 180,
+  "Producto": "CEMENTO PORLAND 2K",
+  "Precio": 1432.0372300000004,
+  "PrecioUnidadxBulto": 1376.9588750000003,
+  "PrecioTotalBulto": 8261.753250000002,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoPortland.jpg"
+ },
+ {
+  "Id": 181,
+  "Producto": "CEMENTO PORLAND 5K",
+  "Precio": 3520.094240000001,
+  "PrecioUnidadxBulto": 3384.7060000000006,
+  "PrecioTotalBulto": 13538.824000000002,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoPortland.jpg"
+ },
+ {
+  "Id": 182,
+  "Producto": "CEMENTO PORLAND 10K",
+  "Precio": 6235.55868,
+  "PrecioUnidadxBulto": 5995.7294999999995,
+  "PrecioTotalBulto": 23982.917999999998,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoPortland.jpg"
+ },
+ {
+  "Id": 183,
+  "Producto": "REVOQUE REF 2,5K",
+  "Precio": 753.4759700000002,
+  "PrecioUnidadxBulto": 724.4961250000001,
+  "PrecioTotalBulto": 4346.976750000001,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/revoqueReforzado.jpg"
+ },
+ {
+  "Id": 184,
+  "Producto": "REVOQUE REF 5K",
+  "Precio": 1342.1326100000003,
+  "PrecioUnidadxBulto": 1290.5121250000002,
+  "PrecioTotalBulto": 7743.072750000001,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/revoqueReforzado.jpg"
+ },
+ {
+  "Id": 185,
+  "Producto": "REVOQUE REF 10K",
+  "Precio": 2535.42003,
+  "PrecioUnidadxBulto": 2437.903875,
+  "PrecioTotalBulto": 9751.6155,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/revoqueReforzado.jpg"
+ },
+ {
+  "Id": 186,
+  "Producto": "REVOQUE REF 30K",
+  "Precio": 7170.760090000001,
+  "PrecioUnidadxBulto": 6894.961625000001,
+  "PrecioTotalBulto": 27579.846500000003,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/revoqueReforzado.jpg"
+ },
+ {
+  "Id": 187,
+  "Producto": "MEZCLA ADHESIVA 2,5K",
+  "Precio": 1400.4983200000004,
+  "PrecioUnidadxBulto": 1346.6330000000003,
+  "PrecioTotalBulto": 8079.798000000002,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mezclaAdhesiva.jpg"
+ },
+ {
+  "Id": 188,
+  "Producto": "MEZCLA ADHESIVA 5K",
+  "Precio": 2650.67075,
+  "PrecioUnidadxBulto": 2548.721875,
+  "PrecioTotalBulto": 15292.331250000001,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mezclaAdhesiva.jpg"
+ },
+ {
+  "Id": 189,
+  "Producto": "MEZCLA ADHESIVA 10K",
+  "Precio": 5100.288570000001,
+  "PrecioUnidadxBulto": 4904.123625,
+  "PrecioTotalBulto": 19616.4945,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mezclaAdhesiva.jpg"
+ },
+ {
+  "Id": 190,
+  "Producto": "MEZCLA ADHESIVA 30K",
+  "Precio": 10408.380320000002,
+  "PrecioUnidadxBulto": 10008.058,
+  "PrecioTotalBulto": 40032.232,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mezclaAdhesiva.jpg"
+ },
+ {
+  "Id": 191,
+  "Producto": "CEMENTO BLANCO 1K",
+  "Precio": 1376.98132,
+  "PrecioUnidadxBulto": 1324.0205,
+  "PrecioTotalBulto": 7944.1230000000005,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoBlanco.jpg"
+ },
+ {
+  "Id": 192,
+  "Producto": "CEMENTO BLANCO 2K",
+  "Precio": 2694.73464,
+  "PrecioUnidadxBulto": 2591.0910000000003,
+  "PrecioTotalBulto": 15546.546000000002,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoBlanco.jpg"
+ },
+ {
+  "Id": 193,
+  "Producto": "CEMENTO BLANCO 5K",
+  "Precio": 6463.64745,
+  "PrecioUnidadxBulto": 6215.045625000001,
+  "PrecioTotalBulto": 24860.182500000003,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoBlanco.jpg"
+ },
+ {
+  "Id": 194,
+  "Producto": "CEMENTO BLANCO 10K",
+  "Precio": 12769.58293,
+  "PrecioUnidadxBulto": 12278.445125,
+  "PrecioTotalBulto": 49113.7805,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoBlanco.jpg"
+ },
+ {
+  "Id": 195,
+  "Producto": "CEMENTO RAPIDO GRIS 1K",
+  "Precio": 788.8647000000001,
+  "PrecioUnidadxBulto": 758.5237500000001,
+  "PrecioTotalBulto": 4551.1425,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoGris.jpg"
+ },
+ {
+  "Id": 196,
+  "Producto": "CEMENTO RAPIDO GRIS 2K",
+  "Precio": 1467.5740300000004,
+  "PrecioUnidadxBulto": 1411.1288750000003,
+  "PrecioTotalBulto": 8466.773250000002,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoGris.jpg"
+ },
+ {
+  "Id": 197,
+  "Producto": "CEMENTO RAPIDO GRIS 5K",
+  "Precio": 3408.0662200000006,
+  "PrecioUnidadxBulto": 3276.9867500000005,
+  "PrecioTotalBulto": 13107.947000000002,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoGris.jpg"
+ },
+ {
+  "Id": 198,
+  "Producto": "CEMENTO RAPIDO GRIS 10K",
+  "Precio": 6756.059570000001,
+  "PrecioUnidadxBulto": 6496.211125000001,
+  "PrecioTotalBulto": 25984.844500000003,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoGris.jpg"
+ },
+ {
+  "Id": 199,
+  "Producto": "CEMENTO RAPIDO BLANCO 1K",
+  "Precio": 1576.2138600000003,
+  "PrecioUnidadxBulto": 1515.5902500000002,
+  "PrecioTotalBulto": 9093.541500000001,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoBlanco.jpg"
+ },
+ {
+  "Id": 200,
+  "Producto": "CEMENTO RAPIDO BLANCO 2K",
+  "Precio": 2939.34628,
+  "PrecioUnidadxBulto": 2826.2945,
+  "PrecioTotalBulto": 16957.767,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoBlanco.jpg"
+ },
+ {
+  "Id": 201,
+  "Producto": "CEMENTO RAPIDO BLANCO 5K",
+  "Precio": 6917.85653,
+  "PrecioUnidadxBulto": 6651.785125,
+  "PrecioTotalBulto": 26607.1405,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoBlanco.jpg"
+ },
+ {
+  "Id": 202,
+  "Producto": "CEMENTO RAPIDO BLANCO 10K",
+  "Precio": 13751.774790000001,
+  "PrecioUnidadxBulto": 13222.860375,
+  "PrecioTotalBulto": 52891.4415,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/cementoRapidoBlanco.jpg"
+ },
+ {
+  "Id": 203,
+  "Producto": "FINO A LA CAL 5K",
+  "Precio": 1402.8326000000002,
+  "PrecioUnidadxBulto": 1348.8775,
+  "PrecioTotalBulto": 8093.265,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/finoALaCal.jpg"
+ },
+ {
+  "Id": 204,
+  "Producto": "FINO A LA CAL 10K",
+  "Precio": 2535.0019500000003,
+  "PrecioUnidadxBulto": 2437.501875,
+  "PrecioTotalBulto": 14625.01125,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/finoALaCal.jpg"
+ },
+ {
+  "Id": 205,
+  "Producto": "FINO A LA CAL 30K",
+  "Precio": 7157.102810000002,
+  "PrecioUnidadxBulto": 6881.829625000001,
+  "PrecioTotalBulto": 27527.318500000005,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/finoALaCal.jpg"
+ },
+ {
+  "Id": 206,
+  "Producto": "MIX INTERIOR 0,75K",
+  "Precio": 2870.9466500000003,
+  "PrecioUnidadxBulto": 2760.525625,
+  "PrecioTotalBulto": 16563.15375,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mixInterior.jpg"
+ },
+ {
+  "Id": 207,
+  "Producto": "MIX INTERIOR 2K",
+  "Precio": 5679.77358,
+  "PrecioUnidadxBulto": 5461.32075,
+  "PrecioTotalBulto": 32767.9245,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mixInterior.jpg"
+ },
+ {
+  "Id": 208,
+  "Producto": "MIX INTERIOR 5K",
+  "Precio": 11995.59491,
+  "PrecioUnidadxBulto": 11534.225875,
+  "PrecioTotalBulto": 46136.9035,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mixInterior.jpg"
+ },
+ {
+  "Id": 209,
+  "Producto": "MIX EXTERIOR 0,75K",
+  "Precio": 2870.9466500000003,
+  "PrecioUnidadxBulto": 2760.525625,
+  "PrecioTotalBulto": 16563.15375,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mixExterior.jpg"
+ },
+ {
+  "Id": 210,
+  "Producto": "MIX EXTERIOR 2K",
+  "Precio": 5679.77358,
+  "PrecioUnidadxBulto": 5461.32075,
+  "PrecioTotalBulto": 32767.9245,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mixExterior.jpg"
+ },
+ {
+  "Id": 211,
+  "Producto": "MIX EXTERIOR 5K",
+  "Precio": 11995.59491,
+  "PrecioUnidadxBulto": 11534.225875,
+  "PrecioTotalBulto": 46136.9035,
+  "UnidadesPorBulto": 4,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/mixExterior.jpg"
+ },
+ {
+  "Id": 212,
+  "Producto": "CONCRETO",
+  "Precio": 1491.03877,
+  "PrecioUnidadxBulto": 1433.691125,
+  "UnidadesPorBulto": "x",
+  "Categoría": "POLVOS",
+  "Img": "polvos\/concreto.jpg"
+ },
+ {
+  "Id": 213,
+  "Producto": "CONCRETO",
+  "Precio": 2789.0639400000005,
+  "PrecioUnidadxBulto": 2681.7922500000004,
+  "UnidadesPorBulto": "x",
+  "Categoría": "POLVOS",
+  "Img": "polvos\/concreto.jpg"
+ },
+ {
+  "Id": 214,
+  "Producto": "FERRITE NEGRO 0,5K",
+  "Precio": 2408.6459800000002,
+  "PrecioUnidadxBulto": 2316.0057500000003,
+  "PrecioTotalBulto": 13896.034500000002,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 215,
+  "Producto": "FERRITE NEGRO 1K",
+  "Precio": 4372.06289,
+  "PrecioUnidadxBulto": 4203.9066250000005,
+  "PrecioTotalBulto": 25223.439750000005,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 216,
+  "Producto": "FERRITE ROJO 0,5K",
+  "Precio": 1302.9289000000003,
+  "PrecioUnidadxBulto": 1252.8162500000003,
+  "PrecioTotalBulto": 7516.897500000002,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 217,
+  "Producto": "FERRITE ROJO 1K",
+  "Precio": 2382.6205,
+  "PrecioUnidadxBulto": 2290.9812500000003,
+  "PrecioTotalBulto": 13745.8875,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 218,
+  "Producto": "FERRITE AMARILLO 0,5K",
+  "Precio": 1532.30675,
+  "PrecioUnidadxBulto": 1473.371875,
+  "PrecioTotalBulto": 8840.23125,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 219,
+  "Producto": "FERRITE AMARILLO 1K",
+  "Precio": 2818.1988900000006,
+  "PrecioUnidadxBulto": 2709.8066250000006,
+  "PrecioTotalBulto": 16258.839750000003,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 220,
+  "Producto": "FERRITE AZUL 0,5K",
+  "Precio": 2490.85096,
+  "PrecioUnidadxBulto": 2395.049,
+  "PrecioTotalBulto": 14370.294,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 221,
+  "Producto": "FERRITE AZUL 1K",
+  "Precio": 4506.815300000001,
+  "PrecioUnidadxBulto": 4333.476250000001,
+  "PrecioTotalBulto": 26000.857500000006,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 222,
+  "Producto": "FERRITE VERDE 0,5K",
+  "Precio": 2587.58422,
+  "PrecioUnidadxBulto": 2488.0617500000003,
+  "PrecioTotalBulto": 14928.3705,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 223,
+  "Producto": "FERRITE VERDE 1K",
+  "Precio": 4681.82533,
+  "PrecioUnidadxBulto": 4501.755125,
+  "PrecioTotalBulto": 27010.530749999998,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/ferrites.jpg"
+ },
+ {
+  "Id": 224,
+  "Producto": "PASTINA BLANCA 1K",
+  "Precio": 1320.3489000000002,
+  "PrecioUnidadxBulto": 1269.56625,
+  "PrecioTotalBulto": 7617.397500000001,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/pastina.jpg"
+ },
+ {
+  "Id": 225,
+  "Producto": "PASTINA BLANCA 2K",
+  "Precio": 2593.4983100000004,
+  "PrecioUnidadxBulto": 2493.748375,
+  "PrecioTotalBulto": 14962.49025,
+  "UnidadesPorBulto": 6,
+  "Categoría": "POLVOS",
+  "Img": "polvos\/pastina.jpg"
+ },
+ {
+  "Id": 226,
+  "Producto": "CODO FUSION 20",
+  "Precio": 160.4,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO 20.jpg"
+ },
+ {
+  "Id": 227,
+  "Producto": "CODO FUSION 20-45",
+  "Precio": 160.4,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO20A45.jpg"
+ },
+ {
+  "Id": 228,
+  "Producto": "CODO FUSION 25",
+  "Precio": 270.14,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO 20.jpg"
+ },
+ {
+  "Id": 229,
+  "Producto": "CODO FUSION 25-45",
+  "Precio": 270.14,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO25A45.jpg"
+ },
+ {
+  "Id": 230,
+  "Producto": "CODO FUSION 32",
+  "Precio": 481.19,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO 20.jpg"
+ },
+ {
+  "Id": 231,
+  "Producto": "CODO FUSION 32-45",
+  "Precio": 531.85,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO32A45.jpg"
+ },
+ {
+  "Id": 232,
+  "Producto": "CODO FUSION IRH 20X1\/2",
+  "Precio": 1173.44,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO25HEMBRA.jpg"
+ },
+ {
+  "Id": 233,
+  "Producto": "CODO FUSION IRH 25x3\/4",
+  "Precio": 1899.45,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO25HEMBRA.jpg"
+ },
+ {
+  "Id": 234,
+  "Producto": "CODO FUSION IRM 20x1\/2",
+  "Precio": 1468.91,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CODO MACHO 20.jpg"
+ },
+ {
+  "Id": 235,
+  "Producto": "cupla fusion 20",
+  "Precio": 126.63,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CUPLA 20.jpg"
+ },
+ {
+  "Id": 236,
+  "Producto": "cupla fusion 25",
+  "Precio": 185.72,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CUPLA 20.jpg"
+ },
+ {
+  "Id": 237,
+  "Producto": "cupla fusion 32",
+  "Precio": 295.47,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CUPLA 20.jpg"
+ },
+ {
+  "Id": 238,
+  "Producto": "cupla fusion IRH 20x1\/2",
+  "Precio": 1139.67,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CUPLA HEMBRA 20.jpg"
+ },
+ {
+  "Id": 239,
+  "Producto": "cupla fusion IRH 25x3\/4",
+  "Precio": 1688.4,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CUPLA HEMBRA 20.jpg"
+ },
+ {
+  "Id": 240,
+  "Producto": "cupla fusion IRM 20x1\/2",
+  "Precio": 1502.68,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CUPLA MACHO 25.jpg"
+ },
+ {
+  "Id": 241,
+  "Producto": "cupla fusion IRM 25x3\/4",
+  "Precio": 1891.01,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CUPLA MACHO 25.jpg"
+ },
+ {
+  "Id": 242,
+  "Producto": "curva sobrepaso corto 20",
+  "Precio": 590.94,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CURVA SOBRE PASO 20.jpg"
+ },
+ {
+  "Id": 243,
+  "Producto": "curva sobrepaso corto 25",
+  "Precio": 818.87,
+  "Categoría": "FUSION",
+  "Img": "fusion\/CURVA SOBRE PASO 20.jpg"
+ },
+ {
+  "Id": 244,
+  "Producto": "tapa fusion 20mm",
+  "Precio": 118.19,
+  "Categoría": "FUSION",
+  "Img": "fusion\/TAPA 20.jpg"
+ },
+ {
+  "Id": 245,
+  "Producto": "tapa fusion 25mm",
+  "Precio": 185.72,
+  "Categoría": "FUSION",
+  "Img": "fusion\/TAPA 20.jpg"
+ },
+ {
+  "Id": 246,
+  "Producto": "tapa fusion 32mm",
+  "Precio": 236.38,
+  "Categoría": "FUSION",
+  "Img": "fusion\/TAPA 20.jpg"
+ },
+ {
+  "Id": 247,
+  "Producto": "tee fusion 20mm",
+  "Precio": 236.38,
+  "Categoría": "FUSION",
+  "Img": "fusion\/TEE 20.png"
+ },
+ {
+  "Id": 248,
+  "Producto": "tee fusion 25mm",
+  "Precio": 363.01,
+  "Categoría": "FUSION",
+  "Img": "fusion\/TEE 20.png"
+ },
+ {
+  "Id": 249,
+  "Producto": "union doble 20mm",
+  "Precio": 658.48,
+  "Categoría": "FUSION",
+  "Img": "fusion\/UNION DOBLE 20.jpg"
+ },
+ {
+  "Id": 250,
+  "Producto": "union doble 25mm",
+  "Precio": 920.18,
+  "Categoría": "FUSION",
+  "Img": "fusion\/UNION DOBLE 20.jpg"
+ },
+ {
+  "Id": 251,
+  "Producto": "buje fusion 25x20mm",
+  "Precio": 270.68,
+  "Categoría": "FUSION",
+  "Img": "fusion\/BUJE20A25.jpg"
+ },
+ {
+  "Id": 252,
+  "Producto": "buje fusion 32x25mm",
+  "Precio": 410,
+  "Categoría": "FUSION",
+  "Img": "fusion\/BUJE20A25.jpg"
+ },
+ {
+  "Id": 253,
+  "Producto": "espiga ½ rosca hembra a 3\/4",
+  "Precio": 199.11,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
+ },
+ {
+  "Id": 254,
+  "Producto": "espiga ½ rosca macho a 1\/2",
+  "Precio": 236.43,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
+ },
+ {
+  "Id": 255,
+  "Producto": "espiga ½ rosca hembra a 1\/2",
+  "Precio": 70.51,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
+ },
+ {
+  "Id": 256,
+  "Producto": "espiga ½ rosca macho a 3\/4",
+  "Precio": 236.43,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
+ },
+ {
+  "Id": 257,
+  "Producto": "espiga ¾ rosca hembra",
+  "Precio": 197.26,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
+ },
+ {
+  "Id": 258,
+  "Producto": "espiga ¾ rosca macho",
+  "Precio": 111.99,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
+ },
+ {
+  "Id": 259,
+  "Producto": "espiga codo ½ rca hembra",
+  "Precio": 176.3,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGACODOHEMBRA1-2.jpg"
+ },
+ {
+  "Id": 260,
+  "Producto": "espiga codo ½ R\/macho",
+  "Precio": 207.41,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
+ },
+ {
+  "Id": 261,
+  "Producto": "espiga codo 3\/4 R\/macho",
+  "Precio": 377.05,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
+ },
+ {
+  "Id": 262,
+  "Producto": "espiga codo 3\/4 R\/hembra",
+  "Precio": 321.47,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGACODOHEMBRA1-2.jpg"
+ },
+ {
+  "Id": 263,
+  "Producto": "espiga doble de 1\/2",
+  "Precio": 72.59,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
+ },
+ {
+  "Id": 264,
+  "Producto": "espiga doble de 3\/4",
+  "Precio": 105.78,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
+ },
+ {
+  "Id": 265,
+  "Producto": "espiga doble de 3\/4 x 1\/2",
+  "Precio": 181.69,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGADOBLE1-2A3-4.jpg"
+ },
+ {
+  "Id": 266,
+  "Producto": "codo espiga 1\/2",
+  "Precio": 142.07,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGACODODE1-2.jpg"
+ },
+ {
+  "Id": 267,
+  "Producto": "codo espiga 3\/4",
+  "Precio": 209.48,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/ESPIGACODODE1-2.jpg"
+ },
+ {
+  "Id": 268,
+  "Producto": "tee espiga 1\/2",
+  "Precio": 197.03,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/TEEESPIGA1-2.jpg"
+ },
+ {
+  "Id": 269,
+  "Producto": "tee espiga 3\/4",
+  "Precio": 335.99,
+  "Categoría": "POLIETILENO",
+  "Img": "polietileno\/TEEESPIGA3-4.jpg"
+ },
+ {
+  "Id": 270,
+  "Producto": "AGUARRAS 1LTS",
+  "Precio": 1976.046,
+  "PrecioUnidadxBulto": 1900.0475,
+  "PrecioTotalBulto": 22800.57,
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/dilurras.jpg"
+ },
+ {
+  "Id": 271,
+  "Producto": "THINNER ESTANDAR  1LT",
+  "Precio": 2847.075,
+  "PrecioUnidadxBulto": 2737,
+  "PrecioTotalBulto": 32844,
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/thinner.jpg"
+ },
+ {
+  "Id": 272,
+  "Producto": "KEROSENE 1LTS",
+  "Precio": 2605.267,
+  "PrecioUnidadxBulto": 2504.95,
+  "PrecioTotalBulto": 30059.399999999998,
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/kerosene.jpg"
+ },
+ {
+  "Id": 273,
+  "Producto": "KEROSENE 4LTS",
+  "PrecioUnidadxBulto": "SIN STOCK",
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/kerosene4lt.jpg"
+ },
+ {
+  "Id": 274,
+  "Producto": "ACIDO 1LTS",
+  "Precio": 1501.5335,
+  "PrecioUnidadxBulto": 1443.7845,
+  "PrecioTotalBulto": 17325.414,
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/acido.jpg"
+ },
+ {
+  "Id": 275,
+  "Producto": "DESTAPA CAÑERIA",
+  "PrecioUnidadxBulto": "SIN STOCK",
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/destapaCanerias.jpg"
+ },
+ {
+  "Id": 276,
+  "Producto": "SODA CAUSTICA 1KG",
+  "Precio": 597.55,
+  "PrecioUnidadxBulto": 573.75,
+  "PrecioTotalBulto": 6885,
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/sodaCaustica.jpg"
+ },
+ {
+  "Id": 277,
+  "Producto": "REFRIGERANTE X 5LTS",
+  "PrecioUnidadxBulto": "SIN STOCK",
+  "UnidadesPorBulto": 12,
+  "Categoría": "QUIMICOS",
+  "Img": "quimicos\/refrigerante5L.jpg"
+ },
+ {
+  "Id": 278,
+  "Producto": "DISCO FLAP GRANO (60)",
+  "Precio": 1052,
+  "PrecioUnidadxBulto": 982,
+  "PrecioTotalBulto": 0,
+  "Categoría": "FERRETERIA",
+  "Img": "discoFlap4.jpg"
+ },
+ {
+  "Id": 279,
+  "Producto": "DISCO FLAP GRANO (80)",
+  "Precio": 1052,
+  "PrecioUnidadxBulto": 982,
+  "PrecioTotalBulto": 29460,
+  "UnidadesPorBulto": 30,
+  "Categoría": "FERRETERIA",
+  "Img": "discoFlap4.jpg"
+ },
+ {
+  "Id": 280,
+  "Producto": "DISCO FLAP GRANO (120)",
+  "Precio": 1052,
+  "PrecioUnidadxBulto": 982,
+  "PrecioTotalBulto": 29460,
+  "UnidadesPorBulto": 30,
+  "Categoría": "FERRETERIA",
+  "Img": "discoFlap4.jpg"
+ },
+ {
+  "Id": 281,
+  "Producto": "SACA HOJAS (SIN CABO)",
+  "Precio": 1972,
+  "Categoría": "JARDIN",
+  "Notas": "Cantidad mínima 4 uds",
+  "Img": "sacaHojas.jpg"
+ },
+ {
+  "Id": 282,
+  "Producto": "CABO 1.40 MTS",
+  "Precio": 2365,
+  "Categoría": "JARDIN",
+  "Notas": "Cantidad mínima 4 uds",
+  "Img": "cabo.jpg"
+ },
+ {
+  "Id": 283,
+  "Producto": "SATELITE CHICO 50G",
+  "Precio": 1647,
+  "Categoría": "JARDIN",
+  "Notas": "Cantidad mínima 4 uds",
+  "Img": "boyaChica.jpg"
+ },
+ {
+  "Id": 284,
+  "Producto": "SATELITE GRANDE 200G",
+  "Precio": 2967,
+  "Categoría": "JARDIN",
+  "Notas": "Cantidad mínima 4 uds",
+  "Img": "boyaGrande.jpg"
+ },
+ {
+  "Id": 285,
+  "Producto": "MANIJA PLASTICA RESISTENTE A IMPACTOS BLANCA",
+  "Precio": 2035,
+  "Categoría": "HERRAJES",
+  "Img": "ManijaPlasticaBlanca.jpg"
+ },
+ {
+  "Id": 286,
+  "Producto": "MANIJA PLASTICA RESISTENTE A IMPACTOS NEGRA",
+  "Precio": 2035,
+  "Categoría": "HERRAJES",
+  "Img": "ManijaPlasticaNegra.jpg"
+ },
+ {
+  "Id": 287,
+  "Producto": "RASPIN EXPERT",
+  "Precio": 1050,
+  "PrecioUnidadxBulto": 890,
+  "PrecioTotalBulto": 21360,
+  "UnidadesPorBulto": 24,
+  "Categoría": "HERRAMIENTAS",
+  "Img": "raspin.jpg"
+ },
+ {
+  "Id": 288,
+  "Producto": "TORTUGA PVC POLIPROPILENO",
+  "Precio": 3378,
+  "Categoría": "ELECTRICIDAD",
+  "Notas": "Alta resistencia",
+  "Img": "tortugaPvc.jpg"
+ },
+ {
+  "Id": 289,
+  "Producto": "TORTUGA PVC CON VISERA FOCAL, APTA EXTERIOR",
+  "Precio": 3548,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "tortugaPvcVisera.jpg"
+ },
+ {
+  "Id": 290,
+  "Producto": "DESTAPA PILETAS 3MTS",
+  "Precio": 1407,
+  "Categoría": "FERRETERIA",
+  "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
+  "Img": "destapaPiletas.jpg"
+ },
+ {
+  "Id": 291,
+  "Producto": "DESTAPA PILETAS 5MTS",
+  "Precio": 1819,
+  "Categoría": "FERRETERIA",
+  "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
+  "Img": "destapaPiletas.jpg"
+ },
+ {
+  "Id": 292,
+  "Producto": "ABRAZADERA DE ZINC 16MM",
+  "Precio": 302,
+  "Categoría": "FERRETERIA",
+  "Img": "abrazadera.jpg"
+ },
+ {
+  "Id": 293,
+  "Producto": "ABRAZADERA DE ZINC 20MM",
+  "Precio": 369,
+  "Categoría": "FERRETERIA",
+  "Img": "abrazadera.jpg"
+ },
+ {
+  "Id": 294,
+  "Producto": "ABRAZADERA DE ZINC 25MM",
+  "Precio": 397,
+  "Categoría": "FERRETERIA",
+  "Img": "abrazadera.jpg"
+ },
+ {
+  "Id": 295,
+  "Producto": "ABRAZADERA DE ZINC 44MM",
+  "Precio": 575,
+  "Categoría": "FERRETERIA",
+  "Img": "abrazadera.jpg"
+ },
+ {
+  "Id": 296,
+  "Producto": "ABRAZADERA DE ZINC 51MM",
+  "Precio": 622,
+  "Categoría": "FERRETERIA",
+  "Img": "abrazadera.jpg"
+ },
+ {
+  "Id": 297,
+  "Producto": "CAÑO DE HIERRO PARA CORTINA 1\/2X4MTS",
+  "Precio": 3999,
+  "PrecioUnidadxBulto": 3550,
+  "PrecioTotalBulto": 106500,
+  "UnidadesPorBulto": 30,
+  "Categoría": "FERRETERIA",
+  "Img": "cañoHierroCortina.jpg"
+ },
+ {
+  "Id": 298,
+  "Producto": "CERRADURA TH 303",
+  "Precio": 12614,
+  "Categoría": "FERRETERIA",
+  "Img": "cerraduraTh303.jpg"
+ },
+ {
+  "Id": 299,
+  "Producto": "CAÑO PVC 40mm x 4 mts",
+  "Precio": 3300,
+  "Categoría": "SANITARIO",
+  "Img": "cañoPvc.jpg"
+ },
+ {
+  "Id": 300,
+  "Producto": "CAÑO PVC 50mm x 4 mts",
+  "Precio": 3960,
+  "Categoría": "SANITARIO",
+  "Img": "cañoPvc.jpg"
+ },
+ {
+  "Id": 301,
+  "Producto": "CAÑO PVC 63mm x 4 mts",
+  "Categoría": "SANITARIO",
+  "Img": "cañoPvc.jpg"
+ },
+ {
+  "Id": 302,
+  "Producto": "CAÑO PVC 110mm x 4 mts",
+  "Precio": 5900,
+  "Categoría": "SANITARIO",
+  "Img": "cañoPvc.jpg"
+ },
+ {
+  "Id": 303,
+  "Producto": "DISCO SIN PAR - PARA SENSITIVA 14''x1\/8x1\"",
+  "Precio": 4399,
+  "Categoría": "FERRETERIA",
+  "Img": "discoSensitiva.jpg"
+ },
+ {
+  "Id": 304,
+  "Producto": "DISCO FLAP CARBORUNDUM 7''x7\/8 180x22MM",
+  "Precio": 3990,
+  "Categoría": "FERRETERIA",
+  "Img": "discoFlap7.jpg"
+ },
+ {
+  "Id": 305,
+  "Producto": "FLEX MALLADO 1\/2x30cm",
+  "Precio": 1812,
+  "Categoría": "SANITARIO",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "flexMallado.jpg",
+  "Descripción": "10% descuento extra"
+ },
+ {
+  "Id": 306,
+  "Producto": "FLEX MALLADO 1\/2x40cm",
+  "Precio": 1918,
+  "Categoría": "SANITARIO",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "flexMallado.jpg",
+  "Descripción": "10% descuento extra"
+ },
+ {
+  "Id": 307,
+  "Producto": "FLEX MALLADO 1\/2x50cm",
+  "Precio": 2146,
+  "Categoría": "SANITARIO",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "flexMallado.jpg",
+  "Descripción": "10% descuento extra"
+ },
+ {
+  "Id": 308,
+  "Producto": "CERRADURA PUERTA PLACA ",
+  "Precio": 4980,
+  "Categoría": "FERRETERIA",
+  "Img": "cerraduraPlaca.jpg"
+ },
+ {
+  "Id": 309,
+  "Producto": "CERRADURA TH 403 (tipo prive 205)",
+  "Precio": 15999,
+  "Categoría": "FERRETERIA",
+  "Img": "cerradura403.jpg"
+ },
+ {
+  "Id": 310,
+  "Producto": "MASILLA PARA MADERA CONGO",
+  "Precio": 1320,
+  "Categoría": "PEGAMENTOS",
+  "Img": "masillaMadera.jpg"
+ },
+ {
+  "Id": 311,
+  "Producto": "MEZCLADOR ",
+  "Precio": 4990,
+  "Categoría": "PINTURERIA",
+  "Img": "mezclador.jpg",
+  "Descripción": "9cm Perfecto modelo reforzado para agitar y mezclar productos liquidos o en polvo (pintura, cemento, yesos)"
+ },
+ {
+  "Id": 312,
+  "Producto": "VENTANILLA ATORNILLAR APROBADA 15x15",
+  "Precio": 662,
+  "Categoría": "FERRETERIA",
+  "Img": "rejilla15x15.jpg"
+ },
+ {
+  "Id": 313,
+  "Producto": "VENTANILLA ATORNILLAR APROBADA 20x20",
+  "Precio": 1105,
+  "Categoría": "FERRETERIA",
+  "Img": "rejilla20x20.jpg"
+ },
+ {
+  "Id": 314,
+  "Producto": "VENTANILLA ATORNILLAR APROBADA 15x30",
+  "Precio": 1370,
+  "Categoría": "FERRETERIA",
+  "Img": "rejilla15x30.jpg"
+ },
+ {
+  "Id": 315,
+  "Producto": "PISTOLA DE RIEGO 7 POSICIONES",
+  "Precio": 2468,
+  "Categoría": "JARDIN",
+  "Img": "pistolaRiego.jpg"
+ },
+ {
+  "Id": 316,
+  "Producto": "LANZA DE RIEGO PUNTA REGULABLE",
+  "Precio": 887,
+  "Categoría": "JARDIN",
+  "Img": "lanzaRiego.jpg"
+ },
+ {
+  "Id": 317,
+  "Producto": "BARRE HOJAS PVC PREMIUM",
+  "Precio": 2142,
+  "Categoría": "JARDIN",
+  "Img": "barreHoja.jpg"
+ },
+ {
+  "Id": 318,
+  "Producto": "SAPITO REGADOR PLASTICO PARA MANGUERA DE 1\/2 Y 3\/4",
+  "Precio": 399,
+  "Categoría": "JARDIN",
+  "Img": "sapito.jpg"
+ }]
