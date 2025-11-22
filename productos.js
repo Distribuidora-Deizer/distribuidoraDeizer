@@ -146,6 +146,8 @@ document.addEventListener("DOMContentLoaded", () => {
         prodBase.PrecioUnidadxBulto !== undefined &&
         prodBase.PrecioTotalBulto !== undefined &&
         prodBase.UnidadesPorBulto !== undefined;
+      // Si NO tienen precio individual → solo vender por bulto
+      const soloBulto = prodBase.Precio === undefined || prodBase.Precio === null;
       // 🧱 Estructura de la card
       card.innerHTML = `
       <div class="card h-100 shadow-sm border-0 rounded-4 overflow-hidden">
@@ -161,13 +163,20 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="zona-precio mb-2">${precioHTML}</div>
           ${notaHTML}
           ${tieneTablaBultos
-          ? `
-              <label class="form-label small mb-1">Cantidad de bultos:</label>
-              <input type="number" min="0" value="0" class="form-control form-control-sm mb-2 cantidad-bultos" placeholder="Bultos">
-              <label class="form-label small mb-1">Cantidad de unidades sueltas:</label>
-              <input type="number" min="0" value="0" class="form-control form-control-sm mb-3 cantidad-unidades" placeholder="Unidades sueltas">
-            `
-          : `<input type="number" min="1" value="1" class="form-control form-control-sm mb-3 cantidad-input" placeholder="Cantidad">`
+          ? (
+            soloBulto
+              ? `
+            <label class="form-label small mb-1">Cantidad de bultos:</label>
+            <input type="number" min="1" value="1" class="form-control form-control-sm mb-3 cantidad-bultos">
+          `
+              : `
+            <label class="form-label small mb-1">Cantidad de bultos:</label>
+            <input type="number" min="0" value="0" class="form-control form-control-sm mb-2 cantidad-bultos">
+            <label class="form-label small mb-1">Cantidad de unidades sueltas:</label>
+            <input type="number" min="0" value="0" class="form-control form-control-sm mb-3 cantidad-unidades">
+          `
+          )
+          : `<input type="number" min="1" value="1" class="form-control form-control-sm mb-3 cantidad-input">`
         }
 
           <button class="btn btn-success w-100 mt-auto agregar-carrito">
