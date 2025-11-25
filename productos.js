@@ -192,39 +192,61 @@ document.addEventListener("DOMContentLoaded", () => {
       const btn = card.querySelector(".agregar-carrito");
 
       btn.addEventListener("click", () => {
+
         let productoParaAgregar = { ...prodBase };
 
-        // Siempre usar precio con descuento si existe
+        // Aplicar precio correcto
         if (prodBase.PrecioConDescuento) {
           productoParaAgregar.precioAplicado = Number(prodBase.PrecioConDescuento);
           productoParaAgregar.conDescuento = true;
-        } else {
+
+        } else if (prodBase.Precio != null) {
           productoParaAgregar.precioAplicado = Number(prodBase.Precio);
+          productoParaAgregar.conDescuento = false;
+
+        } else if (soloBulto && prodBase.PrecioTotalBulto) {
+          productoParaAgregar.precioAplicado = Number(prodBase.PrecioTotalBulto);
           productoParaAgregar.conDescuento = false;
         }
 
-
+        // SI TIENE TABLA DE BULTOS / UNIDADES
         if (tieneTablaBultos) {
-          const cantidadBultos = parseInt(card.querySelector(".cantidad-bultos").value) || 0;
-          const cantidadUnidades = parseInt(card.querySelector(".cantidad-unidades").value) || 0;
+
+          const inputBultos = card.querySelector(".cantidad-bultos");
+          const inputUnidades = card.querySelector(".cantidad-unidades"); // puede NO existir
+
+          const cantidadBultos = inputBultos ? parseInt(inputBultos.value) || 0 : 0;
+          const cantidadUnidades = inputUnidades ? parseInt(inputUnidades.value) || 0 : 0;
 
           if (cantidadBultos > 0 || cantidadUnidades > 0) {
-            agregarAlCarrito({ ...productoParaAgregar, cantidadBultos, cantidadUnidades });
+            agregarAlCarrito({
+              ...productoParaAgregar,
+              cantidadBultos,
+              cantidadUnidades
+            });
           }
 
-          card.querySelector(".cantidad-bultos").value = 0;
-          card.querySelector(".cantidad-unidades").value = 0;
+          // Reset seguro
+          if (inputBultos) inputBultos.value = soloBulto ? 1 : 0;
+          if (inputUnidades) inputUnidades.value = 0;
 
-        } else {
-          const cantidad = parseInt(card.querySelector(".cantidad-input").value) || 1;
+        }
+        else {
+
+          const inputCantidad = card.querySelector(".cantidad-input");
+          const cantidad = inputCantidad ? parseInt(inputCantidad.value) || 1 : 1;
 
           if (cantidad > 0) {
-            agregarAlCarrito({ ...productoParaAgregar, cantidad });
+            agregarAlCarrito({
+              ...productoParaAgregar,
+              cantidad
+            });
           }
 
-          card.querySelector(".cantidad-input").value = 1;
+          if (inputCantidad) inputCantidad.value = 1;
         }
       });
+
     });
   }
 
