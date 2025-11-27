@@ -2,35 +2,35 @@
  {
   "Id": 1,
   "Producto": "Cinta Aisladora Tacsa 10m",
-  "Precio": 631.03,
+  "Precio": 631,
   "Categoría": "Cintas",
   "Img": "cinta.jpeg"
  },
  {
   "Id": 2,
   "Producto": "Cinta Aisladora Tacsa 20m",
-  "Precio": 1102.08,
+  "Precio": 1102,
   "Categoría": "Cintas",
   "Img": "cinta.jpeg"
  },
  {
   "Id": 3,
   "Producto": "CINTA DE\nEMBALAR SIGMA 48X40",
-  "Precio": 769.5,
+  "Precio": 769,
   "Categoría": "Cintas",
   "Img": "cintaSigma.jpeg"
  },
  {
   "Id": 4,
   "Producto": "CINTA DE TEFLON LUXON 1\/2x10mts",
-  "Precio": 276,
+  "Precio": 288,
   "Categoría": "Cintas",
   "Img": "cintaTeflonLuxon.png"
  },
  {
   "Id": 5,
   "Producto": "CINTA DE TEFLON LUXON 3\/4x10mts",
-  "Precio": 398,
+  "Precio": 439,
   "Categoría": "Cintas",
   "Img": "cintaTeflonLuxon.png"
  },
@@ -91,82 +91,82 @@
   "Producto": "SELLA ROSCAS AGUA 25cc",
   "Precio": 1062,
   "PrecioConDescuento": 2906,
-  "Categoría": "Revista",
+  "Categoría": "Ferreteria",
   "Img": "sellaRoscasAgua.jpeg"
  },
  {
   "Id": 13,
   "Producto": "SELLA ROSCAS GAS 25cc",
-  "Categoría": "Revista",
+  "Categoría": "Ferreteria",
   "Img": "sellaRoscasGas.jpeg"
  },
  {
   "Id": 14,
   "Producto": "HIDROFUGO 1lts",
   "Precio": 1471,
-  "Categoría": "Revista",
+  "Categoría": "Quimicos",
   "Img": "HIDROFUGO.png"
  },
  {
   "Id": 15,
   "Producto": "SOPAPA DEIZER 40mm",
   "Precio": 1349,
-  "Categoría": "Revista",
+  "Categoría": "SANITARIO",
   "Img": "sopapa.jpg"
  },
  {
   "Id": 16,
   "Producto": "SOPAPA DEIZER 50mm",
   "Precio": 1540,
-  "Categoría": "Revista",
+  "Categoría": "SANITARIO",
   "Img": "sopapa.jpg"
  },
  {
   "Id": 17,
   "Producto": "FILTRO PARA BACHA 65mm",
   "Precio": 693,
-  "Categoría": "Revista",
+  "Categoría": "FERRETERIA",
   "Img": "filtroBacha.jpg"
  },
  {
   "Id": 18,
   "Producto": "CANILLA ESFERICA  1\/2",
   "Precio": 1200,
-  "Categoría": "Revista",
+  "Categoría": "SANITARIO",
   "Img": "canillaEsfericaMedio.jpeg"
  },
  {
   "Id": 19,
   "Producto": "CANILLA ESFERICA 3\/4",
   "Precio": 1113,
-  "Categoría": "Revista",
+  "Categoría": "SANITARIO",
   "Img": "canillaEsfericaTrescuartos.jpg"
  },
  {
   "Id": 20,
   "Producto": "LLAVE ESFERICA 1\/2",
   "Precio": 1137,
-  "Categoría": "Revista",
+  "Categoría": "SANITARIO",
   "Img": "LlaveEsfericaMedio.jpg"
  },
  {
   "Id": 21,
   "Producto": "LLAVE ESFERICA 3\/4",
   "Precio": 2584,
-  "Categoría": "Revista",
+  "Categoría": "SANITARIO",
   "Img": "llaveEsfericaTrescuartos.jpeg"
  },
  {
   "Id": 22,
   "Producto": "CANILLA PARA LAVARROPAS",
   "Precio": 2046,
-  "Categoría": "Revista",
+  "Categoría": "SANITARIO",
   "Img": "canillaLavarropas.jpeg"
  },
  {
   "Id": 23,
   "Producto": "juego llaves allen mediano",
-  "Precio": 2446,
+  "Precio": 3099,
   "Categoría": "FERRETERIA",
   "Img": "juegoLlavesAllen.jpeg",
   "Descripción": "9 PIEZAS MILIMETRICAS"
@@ -174,7 +174,7 @@
  {
   "Id": 24,
   "Producto": "juego llaves torx mediano",
-  "Precio": 2620,
+  "Precio": 3190,
   "Categoría": "FERRETERIA",
   "Img": "juegoLlavesTorx.jpeg",
   "Descripción": "9 PIEZAS MILIMETRICAS"
@@ -251,7 +251,7 @@
   "Producto": "par de guantes moteados livianos gris",
   "Precio": 573,
   "PrecioConDescuento": 544.35,
-  "Categoría": "REVISTA",
+  "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA \/ Descuento del 5% a partir de 100 unidades",
   "Img": "guantesAzul.jpg"
  },
@@ -259,7 +259,7 @@
   "Id": 35,
   "Producto": "par de guantes moteados pesado azul linea prem",
   "Precio": 739.99,
-  "Categoría": "REVISTA",
+  "Categoría": "FERRETERIA",
   "Notas": "100% algodon excelente calidad",
   "Img": "guantesAzulPrime.jpg"
  },
@@ -310,7 +310,7 @@
  {
   "Id": 42,
   "Producto": "portalampara con chicote",
-  "Precio": 288,
+  "Precio": 340,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaLamparaChicote.jpg",
   "Descripción": "conexión antillama y protector plástico antiquiebre"
@@ -318,7 +318,7 @@
  {
   "Id": 43,
   "Producto": "portalampara 3 piezas negro",
-  "Precio": 499,
+  "Precio": 552,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaTresPiezas.jpg",
   "Descripción": "conexión antillama y protector plástico antiquiebre"
@@ -326,7 +326,7 @@
  {
   "Id": 44,
   "Producto": "porta bastidor exterior",
-  "Precio": 499,
+  "Precio": 587,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaBastidor.jpg"
  },
@@ -457,7 +457,7 @@
  {
   "Id": 62,
   "Producto": "pincel 10",
-  "Precio": 617.76,
+  "Precio": 623.7,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "pincel.jpg"
@@ -465,7 +465,7 @@
  {
   "Id": 63,
   "Producto": "pincel 15",
-  "Precio": 780.3,
+  "Precio": 808.5,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "pincel.jpg"
@@ -473,7 +473,7 @@
  {
   "Id": 64,
   "Producto": "pincel 20",
-  "Precio": 928.26,
+  "Precio": 970.2,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "pincel.jpg"
@@ -481,7 +481,7 @@
  {
   "Id": 65,
   "Producto": "pincel 25",
-  "Precio": 1150,
+  "Precio": 1201.2,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "pincel.jpg"
@@ -597,7 +597,7 @@
  {
   "Id": 80,
   "Producto": "carton 90cmx20mts unidad",
-  "Precio": 4689,
+  "Precio": 4799,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "carton.jpg",
@@ -606,7 +606,7 @@
  {
   "Id": 81,
   "Producto": "carton 90cmx20mts x 4 unidades",
-  "Precio": 4575,
+  "Precio": 4690,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "carton.jpg"
@@ -614,7 +614,7 @@
  {
   "Id": 82,
   "Producto": "carton 90cmx20mts x 6 unidades",
-  "Precio": 4428,
+  "Precio": 4530,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "carton.jpg"
@@ -880,7 +880,7 @@
  {
   "Id": 113,
   "Producto": "fratacho pino 30cm",
-  "Precio": 965,
+  "Precio": 1533,
   "Categoría": "FERRETERIA",
   "Img": "fratacho.jpg"
  },
@@ -895,7 +895,7 @@
   "Id": 115,
   "Producto": "fratacho de piedra fino",
   "Precio": 1625,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
  },
@@ -903,7 +903,7 @@
   "Id": 116,
   "Producto": "fratacho de piedra mediano",
   "Precio": 1625,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA ",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
  },
@@ -911,7 +911,7 @@
   "Id": 117,
   "Producto": "fratacho de piedra grueso",
   "Precio": 1625,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
  },
@@ -919,7 +919,7 @@
   "Id": 118,
   "Producto": "balde de albañil 12 unidades",
   "Precio": 1340,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Notas": "consultar precio partir de 60 docenas",
   "Img": "baldeAlbañil.jpg"
  },
@@ -927,7 +927,7 @@
   "Id": 119,
   "Producto": "balde de albañil 36 unidades",
   "Precio": 1299,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Notas": "consultar precio partir de 60 docenas",
   "Img": "baldeAlbañil.jpg"
  },
@@ -935,7 +935,7 @@
   "Id": 120,
   "Producto": "llana dentada 6mm",
   "Precio": 3107,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "llanaDentada.jpg",
   "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
@@ -944,7 +944,7 @@
   "Id": 121,
   "Producto": "llana dentada 8mm",
   "Precio": 3107,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "llanaDentada.jpg",
   "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
@@ -953,7 +953,7 @@
   "Id": 122,
   "Producto": "llana dentada 10mm",
   "Precio": 3107,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "llanaDentada.jpg",
   "Descripción": "10% DE DESCUENTO POR CAJA CERRADA DE 8 UNIDADES"
@@ -1108,14 +1108,14 @@
  {
   "Id": 143,
   "Producto": "CONEXIÓN BONOMINI 50-40 BLANCO",
-  "Precio": 812,
+  "Precio": 861,
   "Categoría": "SANITARIO",
   "Img": "conexionBlanco.jpg"
  },
  {
   "Id": 144,
   "Producto": "CONEXION BONOMINI 50-40 PLATA",
-  "Precio": 1043,
+  "Precio": 1106,
   "Categoría": "SANITARIO",
   "Img": "conexionNegro.jpg"
  },
@@ -1229,14 +1229,14 @@
  {
   "Id": 160,
   "Producto": "CAJA DE HIERRO 10X5",
-  "Precio": 258.59,
+  "Precio": 263.51,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaHierro.jpg"
  },
  {
   "Id": 161,
   "Producto": "CAJA DE HIERRO OCTOGONAL 10X5",
-  "Precio": 258.59,
+  "Precio": 263.51,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaOctogonal.jpg"
  },
@@ -1294,7 +1294,7 @@
  },
  {
   "Id": 169,
-  "Producto": "PERCHA DE ALUMINIO COLOR 1 GANCHO",
+  "Producto": "PERCHA DE ALUMINIO COLOR NEGRA 1 GANCHO",
   "Precio": 1291,
   "Categoría": "HERRAJES",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -1302,7 +1302,7 @@
  },
  {
   "Id": 170,
-  "Producto": "PERCHA DE ALUMINIO COLOR 2 GANCHOS",
+  "Producto": "PERCHA DE ALUMINIO COLOR NEGRA 2 GANCHOS",
   "Precio": 1907,
   "Categoría": "HERRAJES",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -1311,36 +1311,37 @@
  {
   "Id": 171,
   "Producto": "CAJA PARA TERMICA 1-2",
-  "Precio": 707,
+  "Precio": 833,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaTermica1-2.jpg"
  },
  {
   "Id": 172,
   "Producto": "CAJA PARA TERMICA 2-4",
+  "Precio": 1407,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaTermica2-4.jpg"
  },
  {
   "Id": 173,
   "Producto": "CAJA PARA TERMICA 4-8",
-  "Precio": 2129,
+  "Precio": 2707,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaTermica4-8.jpg"
  },
  {
   "Id": 174,
   "Producto": "FILTRO PARA PURIFICADOR DE COCINA 57X38CM",
-  "Precio": 990,
+  "Precio": 1090,
   "Categoría": "GAS",
   "Img": "filtroCocina.jpg"
  },
  {
   "Id": 175,
   "Producto": "YESO TIPO PARIS 1K",
-  "Precio": 821.1091200000002,
-  "PrecioUnidadxBulto": 789.5280000000001,
-  "PrecioTotalBulto": 4737.168000000001,
+  "Precio": 966.03,
+  "PrecioUnidadxBulto": 928.88,
+  "PrecioTotalBulto": 5573.28,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/yesoParis.jpg"
@@ -1348,9 +1349,9 @@
  {
   "Id": 176,
   "Producto": "YESO TIPO PARIS 2K",
-  "Precio": 1609.05056,
-  "PrecioUnidadxBulto": 1547.164,
-  "PrecioTotalBulto": 9282.984,
+  "Precio": 1893.05,
+  "PrecioUnidadxBulto": 1820.24,
+  "PrecioTotalBulto": 10921.44,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/yesoParis.jpg"
@@ -1358,9 +1359,9 @@
  {
   "Id": 177,
   "Producto": "YESO TIPO PARIS 5K",
-  "Precio": 3907.976670000001,
-  "PrecioUnidadxBulto": 3757.669875000001,
-  "PrecioTotalBulto": 15030.679500000004,
+  "Precio": 4597.73,
+  "PrecioUnidadxBulto": 4420.9,
+  "PrecioTotalBulto": 17683.6,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/yesoParis.jpg"
@@ -1368,9 +1369,9 @@
  {
   "Id": 178,
   "Producto": "YESO TIPO PARIS 10K",
-  "Precio": 7691.30453,
-  "PrecioUnidadxBulto": 7395.485125,
-  "PrecioTotalBulto": 29581.9405,
+  "Precio": 9048.82,
+  "PrecioUnidadxBulto": 8700.79,
+  "PrecioTotalBulto": 34803.16,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/yesoParis.jpg"
@@ -1378,9 +1379,9 @@
  {
   "Id": 179,
   "Producto": "CEMENTO PORLAND 1K",
-  "Precio": 745.6282600000001,
-  "PrecioUnidadxBulto": 716.95025,
-  "PrecioTotalBulto": 4301.7015,
+  "Precio": 877.23,
+  "PrecioUnidadxBulto": 843.49,
+  "PrecioTotalBulto": 5060.9400000000005,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoPortland.jpg"
@@ -1388,9 +1389,9 @@
  {
   "Id": 180,
   "Producto": "CEMENTO PORLAND 2K",
-  "Precio": 1432.0372300000004,
-  "PrecioUnidadxBulto": 1376.9588750000003,
-  "PrecioTotalBulto": 8261.753250000002,
+  "Precio": 1684.79,
+  "PrecioUnidadxBulto": 1619.99,
+  "PrecioTotalBulto": 9719.94,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoPortland.jpg"
@@ -1398,9 +1399,9 @@
  {
   "Id": 181,
   "Producto": "CEMENTO PORLAND 5K",
-  "Precio": 3520.094240000001,
-  "PrecioUnidadxBulto": 3384.7060000000006,
-  "PrecioTotalBulto": 13538.824000000002,
+  "Precio": 4141.39,
+  "PrecioUnidadxBulto": 3982.11,
+  "PrecioTotalBulto": 15928.44,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoPortland.jpg"
@@ -1408,9 +1409,9 @@
  {
   "Id": 182,
   "Producto": "CEMENTO PORLAND 10K",
-  "Precio": 6235.55868,
-  "PrecioUnidadxBulto": 5995.7294999999995,
-  "PrecioTotalBulto": 23982.917999999998,
+  "Precio": 7336.13,
+  "PrecioUnidadxBulto": 7053.98,
+  "PrecioTotalBulto": 28215.92,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoPortland.jpg"
@@ -1418,9 +1419,9 @@
  {
   "Id": 183,
   "Producto": "REVOQUE REF 2,5K",
-  "Precio": 753.4759700000002,
-  "PrecioUnidadxBulto": 724.4961250000001,
-  "PrecioTotalBulto": 4346.976750000001,
+  "Precio": 886.46,
+  "PrecioUnidadxBulto": 852.37,
+  "PrecioTotalBulto": 5114.22,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/revoqueReforzado.jpg"
@@ -1428,9 +1429,9 @@
  {
   "Id": 184,
   "Producto": "REVOQUE REF 5K",
-  "Precio": 1342.1326100000003,
-  "PrecioUnidadxBulto": 1290.5121250000002,
-  "PrecioTotalBulto": 7743.072750000001,
+  "Precio": 1579.02,
+  "PrecioUnidadxBulto": 1518.29,
+  "PrecioTotalBulto": 9109.74,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/revoqueReforzado.jpg"
@@ -1438,9 +1439,9 @@
  {
   "Id": 185,
   "Producto": "REVOQUE REF 10K",
-  "Precio": 2535.42003,
-  "PrecioUnidadxBulto": 2437.903875,
-  "PrecioTotalBulto": 9751.6155,
+  "Precio": 2982.92,
+  "PrecioUnidadxBulto": 2868.19,
+  "PrecioTotalBulto": 11472.76,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/revoqueReforzado.jpg"
@@ -1448,9 +1449,9 @@
  {
   "Id": 186,
   "Producto": "REVOQUE REF 30K",
-  "Precio": 7170.760090000001,
-  "PrecioUnidadxBulto": 6894.961625000001,
-  "PrecioTotalBulto": 27579.846500000003,
+  "Precio": 8436.4,
+  "PrecioUnidadxBulto": 8111.92,
+  "PrecioTotalBulto": 32447.68,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/revoqueReforzado.jpg"
@@ -1458,9 +1459,9 @@
  {
   "Id": 187,
   "Producto": "MEZCLA ADHESIVA 2,5K",
-  "Precio": 1400.4983200000004,
-  "PrecioUnidadxBulto": 1346.6330000000003,
-  "PrecioTotalBulto": 8079.798000000002,
+  "Precio": 1647.69,
+  "PrecioUnidadxBulto": 1584.31,
+  "PrecioTotalBulto": 9505.86,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/mezclaAdhesiva.jpg"
@@ -1468,9 +1469,9 @@
  {
   "Id": 188,
   "Producto": "MEZCLA ADHESIVA 5K",
-  "Precio": 2650.67075,
-  "PrecioUnidadxBulto": 2548.721875,
-  "PrecioTotalBulto": 15292.331250000001,
+  "Precio": 3118.51,
+  "PrecioUnidadxBulto": 2998.57,
+  "PrecioTotalBulto": 17991.420000000002,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/mezclaAdhesiva.jpg"
@@ -1478,9 +1479,9 @@
  {
   "Id": 189,
   "Producto": "MEZCLA ADHESIVA 10K",
-  "Precio": 5100.288570000001,
-  "PrecioUnidadxBulto": 4904.123625,
-  "PrecioTotalBulto": 19616.4945,
+  "Precio": 6000.49,
+  "PrecioUnidadxBulto": 5769.7,
+  "PrecioTotalBulto": 23078.8,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/mezclaAdhesiva.jpg"
@@ -1488,9 +1489,9 @@
  {
   "Id": 190,
   "Producto": "MEZCLA ADHESIVA 30K",
-  "Precio": 10408.380320000002,
-  "PrecioUnidadxBulto": 10008.058,
-  "PrecioTotalBulto": 40032.232,
+  "Precio": 12245.46,
+  "PrecioUnidadxBulto": 11774.48,
+  "PrecioTotalBulto": 47097.92,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/mezclaAdhesiva.jpg"
@@ -1498,9 +1499,9 @@
  {
   "Id": 191,
   "Producto": "CEMENTO BLANCO 1K",
-  "Precio": 1376.98132,
-  "PrecioUnidadxBulto": 1324.0205,
-  "PrecioTotalBulto": 7944.1230000000005,
+  "Precio": 1620.02,
+  "PrecioUnidadxBulto": 1557.71,
+  "PrecioTotalBulto": 9346.26,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoBlanco.jpg"
@@ -1508,9 +1509,9 @@
  {
   "Id": 192,
   "Producto": "CEMENTO BLANCO 2K",
-  "Precio": 2694.73464,
-  "PrecioUnidadxBulto": 2591.0910000000003,
-  "PrecioTotalBulto": 15546.546000000002,
+  "Precio": 3170.36,
+  "PrecioUnidadxBulto": 308.42,
+  "PrecioTotalBulto": 1850.52,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoBlanco.jpg"
@@ -1518,9 +1519,9 @@
  {
   "Id": 193,
   "Producto": "CEMENTO BLANCO 5K",
-  "Precio": 6463.64745,
-  "PrecioUnidadxBulto": 6215.045625000001,
-  "PrecioTotalBulto": 24860.182500000003,
+  "Precio": 7604.48,
+  "PrecioUnidadxBulto": 7312,
+  "PrecioTotalBulto": 29248,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoBlanco.jpg"
@@ -1528,9 +1529,9 @@
  {
   "Id": 194,
   "Producto": "CEMENTO BLANCO 10K",
-  "Precio": 12769.58293,
-  "PrecioUnidadxBulto": 12278.445125,
-  "PrecioTotalBulto": 49113.7805,
+  "Precio": 15023.41,
+  "PrecioUnidadxBulto": 14445.59,
+  "PrecioTotalBulto": 57782.36,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoBlanco.jpg"
@@ -1538,9 +1539,9 @@
  {
   "Id": 195,
   "Producto": "CEMENTO RAPIDO GRIS 1K",
-  "Precio": 788.8647000000001,
-  "PrecioUnidadxBulto": 758.5237500000001,
-  "PrecioTotalBulto": 4551.1425,
+  "Precio": 928.1,
+  "PrecioUnidadxBulto": 892.4,
+  "PrecioTotalBulto": 5354.4,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoGris.jpg"
@@ -1548,9 +1549,9 @@
  {
   "Id": 196,
   "Producto": "CEMENTO RAPIDO GRIS 2K",
-  "Precio": 1467.5740300000004,
-  "PrecioUnidadxBulto": 1411.1288750000003,
-  "PrecioTotalBulto": 8466.773250000002,
+  "Precio": 1726.6,
+  "PrecioUnidadxBulto": 1660.19,
+  "PrecioTotalBulto": 9961.14,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoGris.jpg"
@@ -1558,9 +1559,9 @@
  {
   "Id": 197,
   "Producto": "CEMENTO RAPIDO GRIS 5K",
-  "Precio": 3408.0662200000006,
-  "PrecioUnidadxBulto": 3276.9867500000005,
-  "PrecioTotalBulto": 13107.947000000002,
+  "Precio": 4009.59,
+  "PrecioUnidadxBulto": 3855.37,
+  "PrecioTotalBulto": 15421.48,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoGris.jpg"
@@ -1568,9 +1569,9 @@
  {
   "Id": 198,
   "Producto": "CEMENTO RAPIDO GRIS 10K",
-  "Precio": 6756.059570000001,
-  "PrecioUnidadxBulto": 6496.211125000001,
-  "PrecioTotalBulto": 25984.844500000003,
+  "Precio": 7948.5,
+  "PrecioUnidadxBulto": 7642.79,
+  "PrecioTotalBulto": 30571.16,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoGris.jpg"
@@ -1578,9 +1579,9 @@
  {
   "Id": 199,
   "Producto": "CEMENTO RAPIDO BLANCO 1K",
-  "Precio": 1576.2138600000003,
-  "PrecioUnidadxBulto": 1515.5902500000002,
-  "PrecioTotalBulto": 9093.541500000001,
+  "Precio": 1854.42,
+  "PrecioUnidadxBulto": 1783.09,
+  "PrecioTotalBulto": 10698.539999999999,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoBlanco.jpg"
@@ -1588,9 +1589,9 @@
  {
   "Id": 200,
   "Producto": "CEMENTO RAPIDO BLANCO 2K",
-  "Precio": 2939.34628,
-  "PrecioUnidadxBulto": 2826.2945,
-  "PrecioTotalBulto": 16957.767,
+  "Precio": 3458.14,
+  "PrecioUnidadxBulto": 3325.14,
+  "PrecioTotalBulto": 19950.84,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoBlanco.jpg"
@@ -1598,9 +1599,9 @@
  {
   "Id": 201,
   "Producto": "CEMENTO RAPIDO BLANCO 5K",
-  "Precio": 6917.85653,
-  "PrecioUnidadxBulto": 6651.785125,
-  "PrecioTotalBulto": 26607.1405,
+  "Precio": 8138.86,
+  "PrecioUnidadxBulto": 7825.83,
+  "PrecioTotalBulto": 31303.32,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoBlanco.jpg"
@@ -1608,9 +1609,9 @@
  {
   "Id": 202,
   "Producto": "CEMENTO RAPIDO BLANCO 10K",
-  "Precio": 13751.774790000001,
-  "PrecioUnidadxBulto": 13222.860375,
-  "PrecioTotalBulto": 52891.4415,
+  "Precio": 16178.96,
+  "PrecioUnidadxBulto": 15556.7,
+  "PrecioTotalBulto": 62226.8,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/cementoRapidoBlanco.jpg"
@@ -1618,9 +1619,9 @@
  {
   "Id": 203,
   "Producto": "FINO A LA CAL 5K",
-  "Precio": 1402.8326000000002,
-  "PrecioUnidadxBulto": 1348.8775,
-  "PrecioTotalBulto": 8093.265,
+  "Precio": 1650.43,
+  "PrecioUnidadxBulto": 1586.95,
+  "PrecioTotalBulto": 9521.7,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/finoALaCal.jpg"
@@ -1628,9 +1629,9 @@
  {
   "Id": 204,
   "Producto": "FINO A LA CAL 10K",
-  "Precio": 2535.0019500000003,
-  "PrecioUnidadxBulto": 2437.501875,
-  "PrecioTotalBulto": 14625.01125,
+  "Precio": 2982.43,
+  "PrecioUnidadxBulto": 2867.72,
+  "PrecioTotalBulto": 17206.32,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/finoALaCal.jpg"
@@ -1638,9 +1639,9 @@
  {
   "Id": 205,
   "Producto": "FINO A LA CAL 30K",
-  "Precio": 7157.102810000002,
-  "PrecioUnidadxBulto": 6881.829625000001,
-  "PrecioTotalBulto": 27527.318500000005,
+  "Precio": 8420.33,
+  "PrecioUnidadxBulto": 8096.47,
+  "PrecioTotalBulto": 32385.88,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/finoALaCal.jpg"
@@ -1648,9 +1649,9 @@
  {
   "Id": 206,
   "Producto": "MIX INTERIOR 0,75K",
-  "Precio": 2870.9466500000003,
-  "PrecioUnidadxBulto": 2760.525625,
-  "PrecioTotalBulto": 16563.15375,
+  "Precio": 3377.67,
+  "PrecioUnidadxBulto": 3247.76,
+  "PrecioTotalBulto": 19486.56,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/mixInterior.jpg"
@@ -1658,9 +1659,9 @@
  {
   "Id": 207,
   "Producto": "MIX INTERIOR 2K",
-  "Precio": 5679.77358,
-  "PrecioUnidadxBulto": 5461.32075,
-  "PrecioTotalBulto": 32767.9245,
+  "Precio": 6682.25,
+  "PrecioUnidadxBulto": 6425.24,
+  "PrecioTotalBulto": 38551.44,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/mixInterior.jpg"
@@ -1668,9 +1669,9 @@
  {
   "Id": 208,
   "Producto": "MIX INTERIOR 5K",
-  "Precio": 11995.59491,
-  "PrecioUnidadxBulto": 11534.225875,
-  "PrecioTotalBulto": 46136.9035,
+  "Precio": 14112.82,
+  "PrecioUnidadxBulto": 13570.02,
+  "PrecioTotalBulto": 54280.08,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/mixInterior.jpg"
@@ -1678,9 +1679,9 @@
  {
   "Id": 209,
   "Producto": "MIX EXTERIOR 0,75K",
-  "Precio": 2870.9466500000003,
-  "PrecioUnidadxBulto": 2760.525625,
-  "PrecioTotalBulto": 16563.15375,
+  "Precio": 3377.67,
+  "PrecioUnidadxBulto": 3247.76,
+  "PrecioTotalBulto": 19486.56,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/mixExterior.jpg"
@@ -1688,9 +1689,9 @@
  {
   "Id": 210,
   "Producto": "MIX EXTERIOR 2K",
-  "Precio": 5679.77358,
-  "PrecioUnidadxBulto": 5461.32075,
-  "PrecioTotalBulto": 32767.9245,
+  "Precio": 6682.25,
+  "PrecioUnidadxBulto": 6425.24,
+  "PrecioTotalBulto": 38551.44,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/mixExterior.jpg"
@@ -1698,9 +1699,9 @@
  {
   "Id": 211,
   "Producto": "MIX EXTERIOR 5K",
-  "Precio": 11995.59491,
-  "PrecioUnidadxBulto": 11534.225875,
-  "PrecioTotalBulto": 46136.9035,
+  "Precio": 14112.82,
+  "PrecioUnidadxBulto": 13570.02,
+  "PrecioTotalBulto": 54280.08,
   "UnidadesPorBulto": 4,
   "Categoría": "POLVOS",
   "Img": "polvos\/mixExterior.jpg"
@@ -1708,8 +1709,8 @@
  {
   "Id": 212,
   "Producto": "CONCRETO",
-  "Precio": 1491.03877,
-  "PrecioUnidadxBulto": 1433.691125,
+  "Precio": 1754.21,
+  "PrecioUnidadxBulto": 1686.74,
   "UnidadesPorBulto": "x",
   "Categoría": "POLVOS",
   "Img": "polvos\/concreto.jpg"
@@ -1717,8 +1718,8 @@
  {
   "Id": 213,
   "Producto": "CONCRETO",
-  "Precio": 2789.0639400000005,
-  "PrecioUnidadxBulto": 2681.7922500000004,
+  "Precio": 3281.33,
+  "PrecioUnidadxBulto": 3155.13,
   "UnidadesPorBulto": "x",
   "Categoría": "POLVOS",
   "Img": "polvos\/concreto.jpg"
@@ -1726,9 +1727,9 @@
  {
   "Id": 214,
   "Producto": "FERRITE NEGRO 0,5K",
-  "Precio": 2408.6459800000002,
-  "PrecioUnidadxBulto": 2316.0057500000003,
-  "PrecioTotalBulto": 13896.034500000002,
+  "Precio": 2833.77,
+  "PrecioUnidadxBulto": 2724.78,
+  "PrecioTotalBulto": 16348.68,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1736,9 +1737,9 @@
  {
   "Id": 215,
   "Producto": "FERRITE NEGRO 1K",
-  "Precio": 4372.06289,
-  "PrecioUnidadxBulto": 4203.9066250000005,
-  "PrecioTotalBulto": 25223.439750000005,
+  "Precio": 5143.73,
+  "PrecioUnidadxBulto": 4945.9,
+  "PrecioTotalBulto": 29675.399999999998,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1746,9 +1747,9 @@
  {
   "Id": 216,
   "Producto": "FERRITE ROJO 0,5K",
-  "Precio": 1302.9289000000003,
-  "PrecioUnidadxBulto": 1252.8162500000003,
-  "PrecioTotalBulto": 7516.897500000002,
+  "Precio": 1532.9,
+  "PrecioUnidadxBulto": 1473.96,
+  "PrecioTotalBulto": 8843.76,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1756,9 +1757,9 @@
  {
   "Id": 217,
   "Producto": "FERRITE ROJO 1K",
-  "Precio": 2382.6205,
-  "PrecioUnidadxBulto": 2290.9812500000003,
-  "PrecioTotalBulto": 13745.8875,
+  "Precio": 2803.15,
+  "PrecioUnidadxBulto": 2695.34,
+  "PrecioTotalBulto": 16172.04,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1766,9 +1767,9 @@
  {
   "Id": 218,
   "Producto": "FERRITE AMARILLO 0,5K",
-  "Precio": 1532.30675,
-  "PrecioUnidadxBulto": 1473.371875,
-  "PrecioTotalBulto": 8840.23125,
+  "Precio": 1802.76,
+  "PrecioUnidadxBulto": 1733.42,
+  "PrecioTotalBulto": 10400.52,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1776,9 +1777,9 @@
  {
   "Id": 219,
   "Producto": "FERRITE AMARILLO 1K",
-  "Precio": 2818.1988900000006,
-  "PrecioUnidadxBulto": 2709.8066250000006,
-  "PrecioTotalBulto": 16258.839750000003,
+  "Precio": 3315.61,
+  "PrecioUnidadxBulto": 3188.09,
+  "PrecioTotalBulto": 19128.54,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1786,9 +1787,9 @@
  {
   "Id": 220,
   "Producto": "FERRITE AZUL 0,5K",
-  "Precio": 2490.85096,
-  "PrecioUnidadxBulto": 2395.049,
-  "PrecioTotalBulto": 14370.294,
+  "Precio": 2930.49,
+  "PrecioUnidadxBulto": 2817.78,
+  "PrecioTotalBulto": 16906.68,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1796,9 +1797,9 @@
  {
   "Id": 221,
   "Producto": "FERRITE AZUL 1K",
-  "Precio": 4506.815300000001,
-  "PrecioUnidadxBulto": 4333.476250000001,
-  "PrecioTotalBulto": 26000.857500000006,
+  "Precio": 5302.27,
+  "PrecioUnidadxBulto": 5098.33,
+  "PrecioTotalBulto": 30589.98,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1806,9 +1807,9 @@
  {
   "Id": 222,
   "Producto": "FERRITE VERDE 0,5K",
-  "Precio": 2587.58422,
-  "PrecioUnidadxBulto": 2488.0617500000003,
-  "PrecioTotalBulto": 14928.3705,
+  "Precio": 3044.29,
+  "PrecioUnidadxBulto": 2927.2,
+  "PrecioTotalBulto": 17563.199999999997,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1816,9 +1817,9 @@
  {
   "Id": 223,
   "Producto": "FERRITE VERDE 1K",
-  "Precio": 4681.82533,
-  "PrecioUnidadxBulto": 4501.755125,
-  "PrecioTotalBulto": 27010.530749999998,
+  "Precio": 5508.17,
+  "PrecioUnidadxBulto": 5296.31,
+  "PrecioTotalBulto": 31777.86,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/ferrites.jpg"
@@ -1826,9 +1827,9 @@
  {
   "Id": 224,
   "Producto": "PASTINA BLANCA 1K",
-  "Precio": 1320.3489000000002,
-  "PrecioUnidadxBulto": 1269.56625,
-  "PrecioTotalBulto": 7617.397500000001,
+  "Precio": 1553.39,
+  "PrecioUnidadxBulto": 1493.64,
+  "PrecioTotalBulto": 8961.84,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/pastina.jpg"
@@ -1836,9 +1837,9 @@
  {
   "Id": 225,
   "Producto": "PASTINA BLANCA 2K",
-  "Precio": 2593.4983100000004,
-  "PrecioUnidadxBulto": 2493.748375,
-  "PrecioTotalBulto": 14962.49025,
+  "Precio": 3051.25,
+  "PrecioUnidadxBulto": 2933.89,
+  "PrecioTotalBulto": 17603.34,
   "UnidadesPorBulto": 6,
   "Categoría": "POLVOS",
   "Img": "polvos\/pastina.jpg"
@@ -2035,128 +2036,128 @@
  {
   "Id": 253,
   "Producto": "espiga ½ rosca hembra a 3\/4",
-  "Precio": 199.11,
+  "Precio": 219.52,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
  },
  {
   "Id": 254,
-  "Producto": "espiga ½ rosca macho a 1\/2",
-  "Precio": 236.43,
+  "Producto": "espiga ½ rosca macho ",
+  "Precio": 67.46,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
  },
  {
   "Id": 255,
-  "Producto": "espiga ½ rosca hembra a 1\/2",
-  "Precio": 70.51,
+  "Producto": "espiga ½ rosca hembra ",
+  "Precio": 170.17,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
  },
  {
   "Id": 256,
   "Producto": "espiga ½ rosca macho a 3\/4",
-  "Precio": 236.43,
+  "Precio": 141.8,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
  },
  {
   "Id": 257,
   "Producto": "espiga ¾ rosca hembra",
-  "Precio": 197.26,
+  "Precio": 178.94,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
  },
  {
   "Id": 258,
   "Producto": "espiga ¾ rosca macho",
-  "Precio": 111.99,
+  "Precio": 99.36,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
  },
  {
   "Id": 259,
   "Producto": "espiga codo ½ rca hembra",
-  "Precio": 176.3,
+  "Precio": 178.1,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODOHEMBRA1-2.jpg"
  },
  {
   "Id": 260,
   "Producto": "espiga codo ½ R\/macho",
-  "Precio": 207.41,
+  "Precio": 211.92,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
  },
  {
   "Id": 261,
   "Producto": "espiga codo 3\/4 R\/macho",
-  "Precio": 377.05,
+  "Precio": 342.03,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
  },
  {
   "Id": 262,
   "Producto": "espiga codo 3\/4 R\/hembra",
-  "Precio": 321.47,
+  "Precio": 274.73,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODOHEMBRA1-2.jpg"
  },
  {
   "Id": 263,
   "Producto": "espiga doble de 1\/2",
-  "Precio": 72.59,
+  "Precio": 74.14,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
  },
  {
   "Id": 264,
   "Producto": "espiga doble de 3\/4",
-  "Precio": 105.78,
+  "Precio": 107.17,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
  },
  {
   "Id": 265,
   "Producto": "espiga doble de 3\/4 x 1\/2",
-  "Precio": 181.69,
+  "Precio": 141.8,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGADOBLE1-2A3-4.jpg"
  },
  {
   "Id": 266,
-  "Producto": "codo espiga 1\/2",
-  "Precio": 142.07,
+  "Producto": "espiga doble codo 1\/2",
+  "Precio": 143.49,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODODE1-2.jpg"
  },
  {
   "Id": 267,
-  "Producto": "codo espiga 3\/4",
-  "Precio": 209.48,
+  "Producto": "espiga doble codo 3\/4",
+  "Precio": 211.27,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODODE1-2.jpg"
  },
  {
   "Id": 268,
-  "Producto": "tee espiga 1\/2",
-  "Precio": 197.03,
+  "Producto": "espiga tee triple 1\/2",
+  "Precio": 250.24,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/TEEESPIGA1-2.jpg"
  },
  {
   "Id": 269,
-  "Producto": "tee espiga 3\/4",
-  "Precio": 335.99,
+  "Producto": "espiga tee triple 3\/4",
+  "Precio": 339.65,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/TEEESPIGA3-4.jpg"
  },
  {
   "Id": 270,
   "Producto": "AGUARRAS 1LTS",
-  "Precio": 1976.046,
-  "PrecioUnidadxBulto": 1900.0475,
-  "PrecioTotalBulto": 22800.57,
+  "Precio": 2324,
+  "PrecioUnidadxBulto": 2235,
+  "PrecioTotalBulto": 26820,
   "UnidadesPorBulto": 12,
   "Categoría": "QUIMICOS",
   "Img": "quimicos\/dilurras.jpg"
@@ -2164,9 +2165,9 @@
  {
   "Id": 271,
   "Producto": "THINNER ESTANDAR  1LT",
-  "Precio": 2847.075,
-  "PrecioUnidadxBulto": 2737,
-  "PrecioTotalBulto": 32844,
+  "Precio": 3349,
+  "PrecioUnidadxBulto": 3220,
+  "PrecioTotalBulto": 38640,
   "UnidadesPorBulto": 12,
   "Categoría": "QUIMICOS",
   "Img": "quimicos\/thinner.jpg"
@@ -2174,9 +2175,9 @@
  {
   "Id": 272,
   "Producto": "KEROSENE 1LTS",
-  "Precio": 2605.267,
-  "PrecioUnidadxBulto": 2504.95,
-  "PrecioTotalBulto": 30059.399999999998,
+  "Precio": 3065,
+  "PrecioUnidadxBulto": 2947,
+  "PrecioTotalBulto": 35364,
   "UnidadesPorBulto": 12,
   "Categoría": "QUIMICOS",
   "Img": "quimicos\/kerosene.jpg"
@@ -2192,9 +2193,9 @@
  {
   "Id": 274,
   "Producto": "ACIDO 1LTS",
-  "Precio": 1501.5335,
-  "PrecioUnidadxBulto": 1443.7845,
-  "PrecioTotalBulto": 17325.414,
+  "Precio": 1766,
+  "PrecioUnidadxBulto": 1698,
+  "PrecioTotalBulto": 20376,
   "UnidadesPorBulto": 12,
   "Categoría": "QUIMICOS",
   "Img": "quimicos\/acido.jpg"
@@ -2210,9 +2211,9 @@
  {
   "Id": 276,
   "Producto": "SODA CAUSTICA 1KG",
-  "Precio": 597.55,
-  "PrecioUnidadxBulto": 573.75,
-  "PrecioTotalBulto": 6885,
+  "Precio": 703,
+  "PrecioUnidadxBulto": 675,
+  "PrecioTotalBulto": 8100,
   "UnidadesPorBulto": 12,
   "Categoría": "QUIMICOS",
   "Img": "quimicos\/sodaCaustica.jpg"
@@ -2257,7 +2258,7 @@
  {
   "Id": 281,
   "Producto": "SACA HOJAS (SIN CABO)",
-  "Precio": 1972,
+  "Precio": 1974,
   "Categoría": "JARDIN",
   "Notas": "Cantidad mínima 4 uds",
   "Img": "sacaHojas.jpg"
@@ -2265,7 +2266,7 @@
  {
   "Id": 282,
   "Producto": "CABO 1.40 MTS",
-  "Precio": 2365,
+  "Precio": 2991,
   "Categoría": "JARDIN",
   "Notas": "Cantidad mínima 4 uds",
   "Img": "cabo.jpg"
@@ -2273,7 +2274,7 @@
  {
   "Id": 283,
   "Producto": "SATELITE CHICO 50G",
-  "Precio": 1647,
+  "Precio": 1699,
   "Categoría": "JARDIN",
   "Notas": "Cantidad mínima 4 uds",
   "Img": "boyaChica.jpg"
@@ -2281,7 +2282,7 @@
  {
   "Id": 284,
   "Producto": "SATELITE GRANDE 200G",
-  "Precio": 2967,
+  "Precio": 3305,
   "Categoría": "JARDIN",
   "Notas": "Cantidad mínima 4 uds",
   "Img": "boyaGrande.jpg"
@@ -2307,12 +2308,12 @@
   "PrecioUnidadxBulto": 890,
   "PrecioTotalBulto": 21360,
   "UnidadesPorBulto": 24,
-  "Categoría": "HERRAMIENTAS",
+  "Categoría": "FERRETERIA",
   "Img": "raspin.jpg"
  },
  {
   "Id": 288,
-  "Producto": "TORTUGA PVC POLIPROPILENO",
+  "Producto": "TORTUGA PVC SIN VISERA POLIPROPILENO",
   "Precio": 3378,
   "Categoría": "ELECTRICIDAD",
   "Notas": "Alta resistencia",
@@ -2430,7 +2431,7 @@
  {
   "Id": 304,
   "Producto": "DISCO FLAP CARBORUNDUM 7''x7\/8 180x22MM",
-  "Precio": 3990,
+  "Precio": 4599,
   "Categoría": "FERRETERIA",
   "Img": "discoFlap7.jpg"
  },
@@ -2477,14 +2478,14 @@
  },
  {
   "Id": 310,
-  "Producto": "MASILLA PARA MADERA CONGO",
+  "Producto": "MASILLA PARA MADERA CONGO NATURAL",
   "Precio": 1320,
   "Categoría": "PEGAMENTOS",
   "Img": "masillaMadera.jpg"
  },
  {
   "Id": 311,
-  "Producto": "MEZCLADOR ",
+  "Producto": "MEZCLADOR DE PINTURA",
   "Precio": 4990,
   "Categoría": "PINTURERIA",
   "Img": "mezclador.jpg",
@@ -2492,23 +2493,23 @@
  },
  {
   "Id": 312,
-  "Producto": "VENTANILLA ATORNILLAR APROBADA 15x15",
+  "Producto": "REJILLA ATORNILLAR APROBADA 15x15",
   "Precio": 662,
-  "Categoría": "FERRETERIA",
+  "Categoría": "GAS",
   "Img": "rejilla15x15.jpg"
  },
  {
   "Id": 313,
-  "Producto": "VENTANILLA ATORNILLAR APROBADA 20x20",
+  "Producto": "REJILLA ATORNILLAR APROBADA 20x20",
   "Precio": 1105,
-  "Categoría": "FERRETERIA",
+  "Categoría": "GAS",
   "Img": "rejilla20x20.jpg"
  },
  {
   "Id": 314,
-  "Producto": "VENTANILLA ATORNILLAR APROBADA 15x30",
+  "Producto": "REJILLA ATORNILLAR APROBADA 15x30",
   "Precio": 1370,
-  "Categoría": "FERRETERIA",
+  "Categoría": "GAS",
   "Img": "rejilla15x30.jpg"
  },
  {
@@ -2528,14 +2529,97 @@
  {
   "Id": 317,
   "Producto": "BARRE HOJAS PVC PREMIUM",
-  "Precio": 2142,
+  "Precio": 2760,
   "Categoría": "JARDIN",
   "Img": "barreHoja.jpg"
  },
  {
   "Id": 318,
   "Producto": "SAPITO REGADOR PLASTICO PARA MANGUERA DE 1\/2 Y 3\/4",
-  "Precio": 399,
+  "Precio": 422,
   "Categoría": "JARDIN",
   "Img": "sapito.jpg"
- }]
+ },
+ {
+  "Id": 319,
+  "Producto": "PERCHA UN GANCHO PLATEADA",
+  "Precio": 690,
+  "Categoría": "HERRAJES"
+ },
+ {
+  "Id": 320,
+  "Producto": "PERCHA DOS GANCHOS PLATEADA ",
+  "Precio": 1260,
+  "Categoría": "HERRAJES"
+ },
+ {
+  "Id": 321,
+  "Producto": "venda sintetica 1x 25cm",
+  "Precio": 6988,
+  "PrecioUnidadxBulto": "SIN STOCK",
+  "Categoría": "PINTURERIA"
+ },
+ {
+  "Id": 322,
+  "Producto": "porta bastidor exterior premium",
+  "Precio": 944,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 323,
+  "Producto": "TAPA JELUZ ",
+  "Precio": 283.47,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 324,
+  "Producto": "BASTIDOR JELUZ ",
+  "Precio": 274.69,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 325,
+  "Producto": "TOMA BINOR JELUZ ",
+  "Precio": 561.73,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 326,
+  "Producto": "TAPON JELUZ ",
+  "Precio": 63.73,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 327,
+  "Producto": "INTERRUPTOR JELUZ ",
+  "Precio": 512.01,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 328,
+  "Producto": "PULSADOR JELUZ ",
+  "Precio": 547.17,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 329,
+  "Producto": "CAÑO RIGIDO SEMI PESADO 2MTS",
+  "Precio": 816,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 330,
+  "Producto": "CAÑO RIGIDO SEMI PESADO 20MM",
+  "Precio": 1460.55,
+  "Categoría": "ELECTRICIDAD"
+ },
+ {
+  "Id": 331,
+  "Producto": "CAÑO RIGIDO SEMI PESADO 20MM OFF",
+  "PrecioUnidadxBulto": 1390,
+  "PrecioTotalBulto": 23630,
+  "UnidadesPorBulto": 17,
+  "Categoría": "ELECTRICIDAD",
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA"
+ }
+]
