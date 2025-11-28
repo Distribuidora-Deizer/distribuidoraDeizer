@@ -2544,74 +2544,86 @@
   "Id": 319,
   "Producto": "PERCHA UN GANCHO PLATEADA",
   "Precio": 690,
-  "Categoría": "HERRAJES"
+  "Categoría": "HERRAJES",
+  "Img": "perchaplat1.jpeg"
  },
  {
   "Id": 320,
   "Producto": "PERCHA DOS GANCHOS PLATEADA ",
   "Precio": 1260,
-  "Categoría": "HERRAJES"
+  "Categoría": "HERRAJES",
+  "Img": "perchaplat2.jpeg"
  },
  {
   "Id": 321,
   "Producto": "venda sintetica 1x 25cm",
   "Precio": 6988,
   "PrecioUnidadxBulto": "SIN STOCK",
-  "Categoría": "PINTURERIA"
+  "Categoría": "PINTURERIA",
+  "Img": "vendaSintetica.png"
  },
  {
   "Id": 322,
   "Producto": "porta bastidor exterior premium",
   "Precio": 944,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "portabastidorpr.png"
  },
  {
   "Id": 323,
   "Producto": "TAPA JELUZ ",
   "Precio": 283.47,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "tapa jeluz.jpg"
  },
  {
   "Id": 324,
   "Producto": "BASTIDOR JELUZ ",
   "Precio": 274.69,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "bastidorjeluz.jpg"
  },
  {
   "Id": 325,
   "Producto": "TOMA BINOR JELUZ ",
   "Precio": 561.73,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "toma jeluz.jpg"
  },
  {
   "Id": 326,
   "Producto": "TAPON JELUZ ",
   "Precio": 63.73,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "tapon jeluz.jpg"
  },
  {
   "Id": 327,
   "Producto": "INTERRUPTOR JELUZ ",
   "Precio": 512.01,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "interruptor.jpeg"
  },
  {
   "Id": 328,
   "Producto": "PULSADOR JELUZ ",
   "Precio": 547.17,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "pulsador.jpeg"
  },
  {
   "Id": 329,
   "Producto": "CAÑO RIGIDO SEMI PESADO 2MTS",
   "Precio": 816,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "cañorigido.jpg"
  },
  {
   "Id": 330,
   "Producto": "CAÑO RIGIDO SEMI PESADO 20MM",
   "Precio": 1460.55,
-  "Categoría": "ELECTRICIDAD"
+  "Categoría": "ELECTRICIDAD",
+  "Img": "cañorigido.jpg"
  },
  {
   "Id": 331,
@@ -2620,6 +2632,35 @@
   "PrecioTotalBulto": 23630,
   "UnidadesPorBulto": 17,
   "Categoría": "ELECTRICIDAD",
-  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA"
+  "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
+  "Img": "cañorigido.jpg"
+ },
+ {
+  "Id": 332,
+  "Producto": "CURVA 20MM ELEC",
+  "Precio": 313.03,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "curva.jpeg"
+ },
+ {
+  "Id": 333,
+  "Producto": "CONECTOR 20MM ELEC",
+  "Precio": 144.09,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "conector20mm.jpg"
+ },
+ {
+  "Id": 334,
+  "Producto": "GRAMPA 20MM  ELEC",
+  "Precio": 141.41,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "grampa.jpeg"
+ },
+ {
+  "Id": 335,
+  "Producto": "UNION 20MM ELEC ",
+  "Precio": 108.81,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "union20mm.jpg"
  }
 ]
