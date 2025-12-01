@@ -2574,7 +2574,7 @@
   "Producto": "TAPA JELUZ ",
   "Precio": 283.47,
   "Categoría": "ELECTRICIDAD",
-  "Img": "tapa jeluz.jpg"
+  "Img": "tapajeluz.jpg"
  },
  {
   "Id": 324,
@@ -2588,14 +2588,14 @@
   "Producto": "TOMA BINOR JELUZ ",
   "Precio": 561.73,
   "Categoría": "ELECTRICIDAD",
-  "Img": "toma jeluz.jpg"
+  "Img": "tomajeluz.jpg"
  },
  {
   "Id": 326,
   "Producto": "TAPON JELUZ ",
   "Precio": 63.73,
   "Categoría": "ELECTRICIDAD",
-  "Img": "tapon jeluz.jpg"
+  "Img": "taponjeluz.jpg"
  },
  {
   "Id": 327,
