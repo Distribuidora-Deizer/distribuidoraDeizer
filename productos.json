@@ -110,14 +110,12 @@
  {
   "Id": 15,
   "Producto": "SOPAPA DEIZER 40mm",
-  "Precio": 1349,
   "Categoría": "SANITARIO",
   "Img": "sopapa.jpg"
  },
  {
   "Id": 16,
   "Producto": "SOPAPA DEIZER 50mm",
-  "Precio": 1540,
   "Categoría": "SANITARIO",
   "Img": "sopapa.jpg"
  },
@@ -251,6 +249,7 @@
   "Producto": "par de guantes moteados livianos gris",
   "Precio": 573,
   "PrecioConDescuento": 544.35,
+  "PrecioUnidadxBulto": "SIN STOCK",
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA \/ Descuento del 5% a partir de 100 unidades",
   "Img": "guantesAzul.jpg"
@@ -2290,14 +2289,14 @@
  {
   "Id": 285,
   "Producto": "MANIJA PLASTICA RESISTENTE A IMPACTOS BLANCA",
-  "Precio": 2035,
+  "Precio": 2765,
   "Categoría": "HERRAJES",
   "Img": "ManijaPlasticaBlanca.jpg"
  },
  {
   "Id": 286,
   "Producto": "MANIJA PLASTICA RESISTENTE A IMPACTOS NEGRA",
-  "Precio": 2035,
+  "Precio": 2765,
   "Categoría": "HERRAJES",
   "Img": "ManijaPlasticaNegra.jpg"
  },
@@ -2437,7 +2436,7 @@
  },
  {
   "Id": 305,
-  "Producto": "FLEX MALLADO 1\/2x30cm",
+  "Producto": "FLEXIBLE MALLADO 1\/2x30cm",
   "Precio": 1812,
   "Categoría": "SANITARIO",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -2446,7 +2445,7 @@
  },
  {
   "Id": 306,
-  "Producto": "FLEX MALLADO 1\/2x40cm",
+  "Producto": "FLEXIBLE MALLADO 1\/2x40cm",
   "Precio": 1918,
   "Categoría": "SANITARIO",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -2455,7 +2454,7 @@
  },
  {
   "Id": 307,
-  "Producto": "FLEX MALLADO 1\/2x50cm",
+  "Producto": "FLEXIBLE MALLADO 1\/2x50cm",
   "Precio": 2146,
   "Categoría": "SANITARIO",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -2574,7 +2573,7 @@
   "Producto": "TAPA JELUZ ",
   "Precio": 283.47,
   "Categoría": "ELECTRICIDAD",
-  "Img": "tapajeluz.jpg"
+  "Img": "tapa jeluz.jpg"
  },
  {
   "Id": 324,
@@ -2588,14 +2587,14 @@
   "Producto": "TOMA BINOR JELUZ ",
   "Precio": 561.73,
   "Categoría": "ELECTRICIDAD",
-  "Img": "tomajeluz.jpg"
+  "Img": "toma jeluz.jpg"
  },
  {
   "Id": 326,
   "Producto": "TAPON JELUZ ",
   "Precio": 63.73,
   "Categoría": "ELECTRICIDAD",
-  "Img": "taponjeluz.jpg"
+  "Img": "tapon jeluz.jpg"
  },
  {
   "Id": 327,
