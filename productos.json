@@ -818,14 +818,14 @@
  {
   "Id": 105,
   "Producto": "disco de corte dogo lat x50 unid. 115x1mm",
-  "Precio": 431,
+  "Precio": 461.99,
   "Categoría": "FERRETERIA",
   "Img": "discos.jpg"
  },
  {
   "Id": 106,
   "Producto": "disco de corte dogo lat x50 unid. 115x1,6mm",
-  "Precio": 431,
+  "Precio": 461.99,
   "Categoría": "FERRETERIA",
   "Img": "discos.jpg"
  },
@@ -880,6 +880,7 @@
   "Id": 113,
   "Producto": "fratacho pino 30cm",
   "Precio": 1533,
+  "PrecioUnidadxBulto": "SIN STOCK",
   "Categoría": "FERRETERIA",
   "Img": "fratacho.jpg"
  },
@@ -2661,5 +2662,25 @@
   "Precio": 108.81,
   "Categoría": "ELECTRICIDAD",
   "Img": "union20mm.jpg"
+ },
+ {
+  "Id": 336,
+  "Producto": "FICHA HEMBRA",
+  "Precio": 369.67,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "fichahembra.jpeg"
+ },
+ {
+  "Id": 337,
+  "Producto": "FICHA TRES PATAS ",
+  "Precio": 369.67,
+  "Categoría": "ELECTRICIDAD",
+  "Img": "fichamacho.jpeg"
+ },
+ {
+  "Id": 338,
+  "Producto": "FRATACHO PINO 25CM",
+  "Precio": 1.355,
+  "Categoría": "FERRETERIA"
  }
 ]
