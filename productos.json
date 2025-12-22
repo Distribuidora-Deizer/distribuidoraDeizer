@@ -198,49 +198,49 @@
  {
   "Id": 27,
   "Producto": "espatula de pvc 9cm",
-  "Precio": 117,
+  "Precio": 140,
   "Categoría": "PINTURERIA",
   "Img": "EspatulaPvc.jpg"
  },
  {
   "Id": 28,
   "Producto": "espatula de pvc 12cm",
-  "Precio": 137,
+  "Precio": 164,
   "Categoría": "PINTURERIA",
   "Img": "EspatulaPvc.jpg"
  },
  {
   "Id": 29,
   "Producto": "espatula de pvc 15cm",
-  "Precio": 154,
+  "Precio": 185,
   "Categoría": "PINTURERIA",
   "Img": "EspatulaPvc.jpg"
  },
  {
   "Id": 30,
   "Producto": "espatula yesero",
-  "Precio": 607,
+  "Precio": 688,
   "Categoría": "PINTURERIA",
   "Img": "espatulaYesero.png"
  },
  {
   "Id": 31,
   "Producto": "llana lisa de pvc",
-  "Precio": 1333,
+  "Precio": 1443,
   "Categoría": "PINTURERIA",
   "Img": "llanaLisa.jpg"
  },
  {
   "Id": 32,
   "Producto": "venda sintetica 10x 25cm",
-  "Precio": 867,
+  "Precio": 987,
   "Categoría": "PINTURERIA",
   "Img": "vendaSintetica.png"
  },
  {
   "Id": 33,
   "Producto": "venda sintetica 20x25cm",
-  "Precio": 1525,
+  "Precio": 1733,
   "Categoría": "PINTURERIA",
   "Img": "vendaSintetica.png"
  },
@@ -1066,42 +1066,42 @@
  {
   "Id": 137,
   "Producto": "ACEITERA 100CM",
-  "Precio": 374,
+  "Precio": 377,
   "Categoría": "FERRETERIA",
   "Img": "ACEITEDE100cm.jpg"
  },
  {
   "Id": 138,
   "Producto": "GRASA LITIO AEROSOL 250CC",
-  "Precio": 3201,
+  "Precio": 3237,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIOENAEROSOL.jpg"
  },
  {
   "Id": 139,
   "Producto": "LUBRICANTE 250CC",
-  "Precio": 2462,
+  "Precio": 2481,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE250.jpg"
  },
  {
   "Id": 140,
   "Producto": "LUBRICANTE 440CC",
-  "Precio": 2861,
+  "Precio": 2947.14,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE440.jpg"
  },
  {
   "Id": 141,
   "Producto": "PULVERIZADOR 500G",
-  "Precio": 1134,
+  "Precio": 1162,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
  {
   "Id": 142,
   "Producto": "PULVERIZADOR 1000G",
-  "Precio": 1391,
+  "Precio": 1421,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
@@ -2557,7 +2557,7 @@
  {
   "Id": 321,
   "Producto": "venda sintetica 1x 25cm",
-  "Precio": 6988,
+  "Precio": 7937,
   "PrecioUnidadxBulto": "SIN STOCK",
   "Categoría": "PINTURERIA",
   "Img": "vendaSintetica.png"
