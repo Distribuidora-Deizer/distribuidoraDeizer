@@ -180,8 +180,8 @@
  {
   "Id": 25,
   "Producto": "fieltro goma espuma 20cm",
-  "Precio": 576,
-  "PrecioConDescuento": 600,
+  "Precio": 612.5,
+  "PrecioConDescuento": 588,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -189,8 +189,8 @@
  {
   "Id": 26,
   "Producto": "fieltro goma espuma 25cm",
-  "Precio": 655,
-  "PrecioConDescuento": 682,
+  "Precio": 687.5,
+  "PrecioConDescuento": 660,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -864,7 +864,7 @@
  {
   "Id": 111,
   "Producto": "rueda para hormigonera plastica",
-  "Precio": 4160,
+  "Precio": 4440,
   "Categoría": "FERRETERIA",
   "Img": "ruedas.jpg",
   "Descripción": "soportan 150kg"
@@ -2680,7 +2680,7 @@
  {
   "Id": 338,
   "Producto": "FRATACHO PINO 25CM",
-  "Precio": 1.355,
+  "Precio": 1355,
   "Categoría": "FERRETERIA",
   "Img": "fratachopino25.jpeg"
  }
