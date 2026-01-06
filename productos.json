@@ -1,3 +1,4 @@
+
 [
  {
   "Id": 1,
@@ -265,7 +266,7 @@
  {
   "Id": 36,
   "Producto": "sifon simple",
-  "Precio": 2748,
+  "Precio": 3023,
   "Categoría": "SANITARIO",
   "Notas": "100% original",
   "Img": "sifonSimple.jpg"
@@ -273,7 +274,7 @@
  {
   "Id": 37,
   "Producto": "sifon doble",
-  "Precio": 6037,
+  "Precio": 6640,
   "Categoría": "SANITARIO",
   "Notas": "100% original",
   "Img": "sifonDoble.jpg"
