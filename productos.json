@@ -596,7 +596,7 @@
  {
   "Id": 80,
   "Producto": "carton 90cmx20mts unidad",
-  "Precio": 4799,
+  "Precio": 5760,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "carton.jpg",
@@ -605,7 +605,7 @@
  {
   "Id": 81,
   "Producto": "carton 90cmx20mts x 4 unidades",
-  "Precio": 4690,
+  "Precio": 5625,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "carton.jpg"
@@ -613,7 +613,7 @@
  {
   "Id": 82,
   "Producto": "carton 90cmx20mts x 6 unidades",
-  "Precio": 4530,
+  "Precio": 5490,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "carton.jpg"
