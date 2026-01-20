@@ -2,21 +2,21 @@
  {
   "Id": 1,
   "Producto": "Cinta Aisladora Tacsa 10m",
-  "Precio": 631,
+  "Precio": 644.31,
   "Categoría": "Cintas",
   "Img": "cinta.jpeg"
  },
  {
   "Id": 2,
   "Producto": "Cinta Aisladora Tacsa 20m",
-  "Precio": 1102,
+  "Precio": 1125.28,
   "Categoría": "Cintas",
   "Img": "cinta.jpeg"
  },
  {
   "Id": 3,
   "Producto": "CINTA DE\nEMBALAR SIGMA 48X40",
-  "Precio": 769,
+  "Precio": 694.56,
   "Categoría": "Cintas",
   "Img": "cintaSigma.jpeg"
  },
@@ -317,7 +317,7 @@
  {
   "Id": 43,
   "Producto": "portalampara 3 piezas negro",
-  "Precio": 552,
+  "Precio": 591.63,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaTresPiezas.jpg",
   "Descripción": "conexión antillama y protector plástico antiquiebre"
@@ -1229,14 +1229,14 @@
  {
   "Id": 160,
   "Producto": "CAJA DE HIERRO 10X5",
-  "Precio": 263.51,
+  "Precio": 311.85,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaHierro.jpg"
  },
  {
   "Id": 161,
   "Producto": "CAJA DE HIERRO OCTOGONAL 10X5",
-  "Precio": 263.51,
+  "Precio": 311.85,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaOctogonal.jpg"
  },
@@ -2329,7 +2329,7 @@
  {
   "Id": 290,
   "Producto": "DESTAPA PILETAS 3MTS",
-  "Precio": 1407,
+  "Precio": 1532.7,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
@@ -2337,7 +2337,7 @@
  {
   "Id": 291,
   "Producto": "DESTAPA PILETAS 5MTS",
-  "Precio": 1819,
+  "Precio": 1982.18,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
@@ -2565,49 +2565,49 @@
  {
   "Id": 322,
   "Producto": "porta bastidor exterior premium",
-  "Precio": 944,
+  "Precio": 982.66,
   "Categoría": "ELECTRICIDAD",
   "Img": "portabastidorpr.png"
  },
  {
   "Id": 323,
   "Producto": "TAPA JELUZ ",
-  "Precio": 283.47,
+  "Precio": 301.05,
   "Categoría": "ELECTRICIDAD",
   "Img": "tapajeluz.jpg"
  },
  {
   "Id": 324,
   "Producto": "BASTIDOR JELUZ ",
-  "Precio": 274.69,
+  "Precio": 291.71,
   "Categoría": "ELECTRICIDAD",
   "Img": "bastidorjeluz.jpg"
  },
  {
   "Id": 325,
   "Producto": "TOMA BINOR JELUZ ",
-  "Precio": 561.73,
+  "Precio": 596.55,
   "Categoría": "ELECTRICIDAD",
   "Img": "tomajeluz.jpg"
  },
  {
   "Id": 326,
   "Producto": "TAPON JELUZ ",
-  "Precio": 63.73,
+  "Precio": 67.68,
   "Categoría": "ELECTRICIDAD",
   "Img": "taponjeluz.jpg"
  },
  {
   "Id": 327,
   "Producto": "INTERRUPTOR JELUZ ",
-  "Precio": 512.01,
+  "Precio": 587.25,
   "Categoría": "ELECTRICIDAD",
   "Img": "interruptor.jpeg"
  },
  {
   "Id": 328,
   "Producto": "PULSADOR JELUZ ",
-  "Precio": 547.17,
+  "Precio": 668.25,
   "Categoría": "ELECTRICIDAD",
   "Img": "pulsador.jpeg"
  },
@@ -2621,15 +2621,15 @@
  {
   "Id": 330,
   "Producto": "CAÑO RIGIDO SEMI PESADO 20MM",
-  "Precio": 1460.55,
+  "Precio": 1499.81,
   "Categoría": "ELECTRICIDAD",
   "Img": "cañorigido.jpg"
  },
  {
   "Id": 331,
   "Producto": "CAÑO RIGIDO SEMI PESADO 20MM OFF",
-  "PrecioUnidadxBulto": 1390,
-  "PrecioTotalBulto": 23630,
+  "PrecioUnidadxBulto": 1430,
+  "PrecioTotalBulto": 24310,
   "UnidadesPorBulto": 17,
   "Categoría": "ELECTRICIDAD",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -2638,42 +2638,42 @@
  {
   "Id": 332,
   "Producto": "CURVA 20MM ELEC",
-  "Precio": 313.03,
+  "Precio": 328.76,
   "Categoría": "ELECTRICIDAD",
   "Img": "curva.jpeg"
  },
  {
   "Id": 333,
   "Producto": "CONECTOR 20MM ELEC",
-  "Precio": 144.09,
+  "Precio": 147.23,
   "Categoría": "ELECTRICIDAD",
   "Img": "conector20mm.jpg"
  },
  {
   "Id": 334,
   "Producto": "GRAMPA 20MM  ELEC",
-  "Precio": 141.41,
+  "Precio": 148.52,
   "Categoría": "ELECTRICIDAD",
   "Img": "grampa.jpeg"
  },
  {
   "Id": 335,
   "Producto": "UNION 20MM ELEC ",
-  "Precio": 108.81,
+  "Precio": 109.71,
   "Categoría": "ELECTRICIDAD",
   "Img": "union20mm.jpg"
  },
  {
   "Id": 336,
   "Producto": "FICHA HEMBRA",
-  "Precio": 369.67,
+  "Precio": 410,
   "Categoría": "ELECTRICIDAD",
   "Img": "fichahembra.jpeg"
  },
  {
   "Id": 337,
   "Producto": "FICHA MACHO",
-  "Precio": 369.67,
+  "Precio": 410,
   "Categoría": "ELECTRICIDAD",
   "Img": "fichamacho.jpeg"
  },
