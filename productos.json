@@ -621,8 +621,8 @@
  {
   "Id": 83,
   "Producto": "tornillo punta mecha 1\/2",
-  "PrecioUnidadxBulto": 12.44,
-  "PrecioTotalBulto": 2488,
+  "PrecioUnidadxBulto": 9.93,
+  "PrecioTotalBulto": 1986,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "puntaMecha.jpg"
@@ -630,8 +630,8 @@
  {
   "Id": 84,
   "Producto": "tornillo punta mecha 3\/4",
-  "PrecioUnidadxBulto": 15.15,
-  "PrecioTotalBulto": 3030,
+  "PrecioUnidadxBulto": 13.7,
+  "PrecioTotalBulto": 2740,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "puntaMecha.jpg"
@@ -639,8 +639,8 @@
  {
   "Id": 85,
   "Producto": "tornillo punta mecha 1",
-  "PrecioUnidadxBulto": 17.72,
-  "PrecioTotalBulto": 3544,
+  "PrecioUnidadxBulto": 16.63,
+  "PrecioTotalBulto": 3326,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "puntaMecha.jpg"
@@ -648,8 +648,8 @@
  {
   "Id": 86,
   "Producto": "tornillo driwal 5\/8",
-  "PrecioUnidadxBulto": 7.53,
-  "PrecioTotalBulto": 2259,
+  "PrecioUnidadxBulto": 7.01,
+  "PrecioTotalBulto": 2103,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -657,8 +657,8 @@
  {
   "Id": 87,
   "Producto": "tornillo driwal 3\/4",
-  "PrecioUnidadxBulto": 7.73,
-  "PrecioTotalBulto": 2319,
+  "PrecioUnidadxBulto": 7.19,
+  "PrecioTotalBulto": 2157,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -666,8 +666,8 @@
  {
   "Id": 88,
   "Producto": "tornillo driwal 1",
-  "PrecioUnidadxBulto": 9.25,
-  "PrecioTotalBulto": 2775,
+  "PrecioUnidadxBulto": 8.55,
+  "PrecioTotalBulto": 2565,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -675,8 +675,8 @@
  {
   "Id": 89,
   "Producto": "tornillo driwal 1.1\/4",
-  "PrecioUnidadxBulto": 11.1,
-  "PrecioTotalBulto": 3330,
+  "PrecioUnidadxBulto": 10.29,
+  "PrecioTotalBulto": 3086.9999999999995,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -684,8 +684,8 @@
  {
   "Id": 90,
   "Producto": "tornillo driwal 1.1\/2",
-  "PrecioUnidadxBulto": 13.02,
-  "PrecioTotalBulto": 3906,
+  "PrecioUnidadxBulto": 12.1,
+  "PrecioTotalBulto": 3630,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -693,8 +693,8 @@
  {
   "Id": 91,
   "Producto": "tornillo driwal 2",
-  "PrecioUnidadxBulto": 16.53,
-  "PrecioTotalBulto": 4959,
+  "PrecioUnidadxBulto": 15.36,
+  "PrecioTotalBulto": 4608,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -702,8 +702,8 @@
  {
   "Id": 92,
   "Producto": "tornillo fix 4x35",
-  "PrecioUnidadxBulto": 14.24,
-  "PrecioTotalBulto": 2848,
+  "PrecioUnidadxBulto": 12.97,
+  "PrecioTotalBulto": 2594,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "fix.jpg"
@@ -711,8 +711,8 @@
  {
   "Id": 93,
   "Producto": "tornillo fix 5x50",
-  "PrecioUnidadxBulto": 30.1,
-  "PrecioTotalBulto": 6020,
+  "PrecioUnidadxBulto": 27.81,
+  "PrecioTotalBulto": 5562,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "fix.jpg"
@@ -728,8 +728,8 @@
  {
   "Id": 95,
   "Producto": "tarugo estandar 6mm",
-  "PrecioUnidadxBulto": 5.73,
-  "PrecioTotalBulto": 1719.0000000000002,
+  "PrecioUnidadxBulto": 6.03,
+  "PrecioTotalBulto": 1809,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEstandar.jpg"
@@ -737,8 +737,8 @@
  {
   "Id": 96,
   "Producto": "tarugo estandar 8mm",
-  "PrecioUnidadxBulto": 10.32,
-  "PrecioTotalBulto": 3096,
+  "PrecioUnidadxBulto": 10.72,
+  "PrecioTotalBulto": 3216,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEstandar.jpg"
@@ -746,8 +746,8 @@
  {
   "Id": 97,
   "Producto": "tarugo estandar 10mm",
-  "PrecioUnidadxBulto": 21.82,
-  "PrecioTotalBulto": 6546,
+  "PrecioUnidadxBulto": 22.76,
+  "PrecioTotalBulto": 6828.000000000001,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEstandar.jpg"
@@ -755,8 +755,8 @@
  {
   "Id": 98,
   "Producto": "tarugo con tope 6mm",
-  "PrecioUnidadxBulto": 6.82,
-  "PrecioTotalBulto": 2046,
+  "PrecioUnidadxBulto": 7.11,
+  "PrecioTotalBulto": 2133,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoTope.jpg"
@@ -764,8 +764,8 @@
  {
   "Id": 99,
   "Producto": "tarugo con tope 8mm",
-  "PrecioUnidadxBulto": 11.63,
-  "PrecioTotalBulto": 3489.0000000000005,
+  "PrecioUnidadxBulto": 12.13,
+  "PrecioTotalBulto": 3639.0000000000005,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoTope.jpg"
@@ -773,8 +773,8 @@
  {
   "Id": 100,
   "Producto": "tarugo con tope 10mm",
-  "PrecioUnidadxBulto": 22.97,
-  "PrecioTotalBulto": 6891,
+  "PrecioUnidadxBulto": 23.96,
+  "PrecioTotalBulto": 7188,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoTope.jpg"
@@ -782,8 +782,8 @@
  {
   "Id": 101,
   "Producto": "tarugo espiga 6mm",
-  "PrecioUnidadxBulto": 10.57,
-  "PrecioTotalBulto": 3171,
+  "PrecioUnidadxBulto": 11.03,
+  "PrecioTotalBulto": 3309,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEspiga.jpg"
@@ -791,8 +791,8 @@
  {
   "Id": 102,
   "Producto": "tarugo espiga 8mm",
-  "PrecioUnidadxBulto": 20.44,
-  "PrecioTotalBulto": 6132,
+  "PrecioUnidadxBulto": 21.33,
+  "PrecioTotalBulto": 6398.999999999999,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEspiga.jpg"
@@ -800,8 +800,8 @@
  {
   "Id": 103,
   "Producto": "tarugo espiga 10mm",
-  "PrecioUnidadxBulto": 42.88,
-  "PrecioTotalBulto": 10720,
+  "PrecioUnidadxBulto": 44.74,
+  "PrecioTotalBulto": 11185,
   "UnidadesPorBulto": 250,
   "Categoría": "BULONERA",
   "Img": "tarugoEspiga.jpg"
@@ -809,8 +809,8 @@
  {
   "Id": 104,
   "Producto": "tarugo estandar 12mm",
-  "PrecioUnidadxBulto": 39.82,
-  "PrecioTotalBulto": 9955,
+  "PrecioUnidadxBulto": 45.99,
+  "PrecioTotalBulto": 11497.5,
   "UnidadesPorBulto": 250,
   "Categoría": "BULONERA",
   "Img": "tarugoEstandar.jpg"
@@ -961,7 +961,7 @@
  {
   "Id": 123,
   "Producto": "cola vinilica 110g",
-  "Precio": 717.19,
+  "Precio": 814.51,
   "Categoría": "PEGAMENTOS",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "COLA110G.jpg"
@@ -969,7 +969,7 @@
  {
   "Id": 124,
   "Producto": "cola vinilica 220g",
-  "Precio": 1213.71,
+  "Precio": 1258.78,
   "Categoría": "PEGAMENTOS",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "COLA220G.jpg"
@@ -977,7 +977,7 @@
  {
   "Id": 125,
   "Producto": "cola vinilica 500g",
-  "Precio": 2317.09,
+  "Precio": 2221.38,
   "Categoría": "PEGAMENTOS",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "COLA500G.jpg"
@@ -985,7 +985,7 @@
  {
   "Id": 126,
   "Producto": "cemento de contacto 250g",
-  "Precio": 2758,
+  "Precio": 2665,
   "Categoría": "PEGAMENTOS",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "CEMENTODECONTACTO250G.jpg"
@@ -993,7 +993,7 @@
  {
   "Id": 127,
   "Producto": "cemento de contacto 450g",
-  "Precio": 4965,
+  "Precio": 4442,
   "Categoría": "PEGAMENTOS",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "CEMENTODECONTACTO450G.jpg"
@@ -1001,7 +1001,7 @@
  {
   "Id": 128,
   "Producto": "cemento de contacto 1lt",
-  "Precio": 8275,
+  "Precio": 7404,
   "Categoría": "PEGAMENTOS",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "CEMENTODECONTACTO1KG.jpg"
@@ -1009,7 +1009,7 @@
  {
   "Id": 129,
   "Producto": "cemento de contacto 40g",
-  "Precio": 1765,
+  "Precio": 1777,
   "Categoría": "PEGAMENTOS",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "CEMENTODECONTACTO40G.jpg"
@@ -2479,7 +2479,7 @@
  {
   "Id": 310,
   "Producto": "MASILLA PARA MADERA CONGO NATURAL",
-  "Precio": 1320,
+  "Precio": 1332,
   "Categoría": "PEGAMENTOS",
   "Img": "masillaMadera.jpg"
  },
@@ -2683,5 +2683,8 @@
   "Precio": 1355,
   "Categoría": "FERRETERIA",
   "Img": "fratachopino25.jpeg"
+ },
+ {
+  "Categoría": "OFERTAS"
  }
 ]
