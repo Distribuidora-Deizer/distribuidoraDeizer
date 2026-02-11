@@ -1,4 +1,4 @@
-[
+
  {
   "Id": 1,
   "Producto": "Cinta Aisladora Tacsa 10m",
@@ -180,8 +180,8 @@
  {
   "Id": 25,
   "Producto": "fieltro goma espuma 20cm",
-  "Precio": 612.5,
-  "PrecioConDescuento": 588,
+  "Precio": 631.25,
+  "PrecioConDescuento": 606,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -189,8 +189,8 @@
  {
   "Id": 26,
   "Producto": "fieltro goma espuma 25cm",
-  "Precio": 687.5,
-  "PrecioConDescuento": 660,
+  "Precio": 700,
+  "PrecioConDescuento": 672,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -894,7 +894,7 @@
  {
   "Id": 115,
   "Producto": "fratacho de piedra fino",
-  "Precio": 1625,
+  "Precio": 1700,
   "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -902,7 +902,7 @@
  {
   "Id": 116,
   "Producto": "fratacho de piedra mediano",
-  "Precio": 1625,
+  "Precio": 1700,
   "Categoría": "FERRETERIA ",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -910,7 +910,7 @@
  {
   "Id": 117,
   "Producto": "fratacho de piedra grueso",
-  "Precio": 1625,
+  "Precio": 1700,
   "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -1017,91 +1017,91 @@
  {
   "Id": 130,
   "Producto": "GRASA DE LITIO 100G",
-  "Precio": 1315,
+  "Precio": 1348.23,
   "Categoría": "FERRETERIA",
   "Img": "GRASA100GLITIO.jpg"
  },
  {
   "Id": 131,
   "Producto": "GRASA DE LITIO 250G",
-  "Precio": 2946,
+  "Precio": 3007.43,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIO250G.jpg"
  },
  {
   "Id": 132,
   "Producto": "GRASA DE LITIO 500G",
-  "Precio": 5565,
+  "Precio": 5693.86,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIO500.jpg"
  },
  {
   "Id": 133,
   "Producto": "GRASA DE LITIO 1K",
-  "Precio": 10422,
+  "Precio": 10625.43,
   "Categoría": "FERRETERIA",
   "Img": "GRASALITIO1KG.jpg"
  },
  {
   "Id": 134,
   "Producto": "GRASA GRAFITADA 100G",
-  "Precio": 1253,
+  "Precio": 1284.86,
   "Categoría": "FERRETERIA",
   "Img": "GRASAGRAFITADA100.jpg"
  },
  {
   "Id": 135,
   "Producto": "GRASA GRAFITADA 250G",
-  "Precio": 2794,
+  "Precio": 2854.28,
   "Categoría": "FERRETERIA",
   "Img": "GRASAGRAFITADA250.jpg"
  },
  {
   "Id": 136,
   "Producto": "GRASA AMARILLA 100G",
-  "Precio": 1094,
+  "Precio": 1127.98,
   "Categoría": "FERRETERIA",
   "Img": "GRASAAMARILLA100G.jpg"
  },
  {
   "Id": 137,
   "Producto": "ACEITERA 100CM",
-  "Precio": 377,
+  "Precio": 383.12,
   "Categoría": "FERRETERIA",
   "Img": "ACEITEDE100cm.jpg"
  },
  {
   "Id": 138,
   "Producto": "GRASA LITIO AEROSOL 250CC",
-  "Precio": 3237,
+  "Precio": 3364.25,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIOENAEROSOL.jpg"
  },
  {
   "Id": 139,
   "Producto": "LUBRICANTE 250CC",
-  "Precio": 2481,
+  "Precio": 2630.38,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE250.jpg"
  },
  {
   "Id": 140,
   "Producto": "LUBRICANTE 440CC",
-  "Precio": 2947.14,
+  "Precio": 3123.97,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE440.jpg"
  },
  {
   "Id": 141,
   "Producto": "PULVERIZADOR 500G",
-  "Precio": 1162,
+  "Precio": 1162.75,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
  {
   "Id": 142,
   "Producto": "PULVERIZADOR 1000G",
-  "Precio": 1421,
+  "Precio": 1421.45,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
@@ -2684,4 +2684,3 @@
   "Categoría": "FERRETERIA",
   "Img": "fratachopino25.jpeg"
  }
-]
