@@ -621,8 +621,8 @@
  {
   "Id": 83,
   "Producto": "tornillo punta mecha 1\/2",
-  "PrecioUnidadxBulto": 9.93,
-  "PrecioTotalBulto": 1986,
+  "PrecioUnidadxBulto": 11.7,
+  "PrecioTotalBulto": 2340,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "puntaMecha.jpg"
@@ -630,8 +630,8 @@
  {
   "Id": 84,
   "Producto": "tornillo punta mecha 3\/4",
-  "PrecioUnidadxBulto": 13.7,
-  "PrecioTotalBulto": 2740,
+  "PrecioUnidadxBulto": 15.32,
+  "PrecioTotalBulto": 3064,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "puntaMecha.jpg"
@@ -639,8 +639,8 @@
  {
   "Id": 85,
   "Producto": "tornillo punta mecha 1",
-  "PrecioUnidadxBulto": 16.63,
-  "PrecioTotalBulto": 3326,
+  "PrecioUnidadxBulto": 19.11,
+  "PrecioTotalBulto": 3822,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "puntaMecha.jpg"
@@ -648,8 +648,8 @@
  {
   "Id": 86,
   "Producto": "tornillo driwal 5\/8",
-  "PrecioUnidadxBulto": 7.01,
-  "PrecioTotalBulto": 2103,
+  "PrecioUnidadxBulto": 7.67,
+  "PrecioTotalBulto": 2301,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -657,8 +657,8 @@
  {
   "Id": 87,
   "Producto": "tornillo driwal 3\/4",
-  "PrecioUnidadxBulto": 7.19,
-  "PrecioTotalBulto": 2157,
+  "PrecioUnidadxBulto": 7.88,
+  "PrecioTotalBulto": 2364,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -666,8 +666,8 @@
  {
   "Id": 88,
   "Producto": "tornillo driwal 1",
-  "PrecioUnidadxBulto": 8.55,
-  "PrecioTotalBulto": 2565,
+  "PrecioUnidadxBulto": 9.37,
+  "PrecioTotalBulto": 2810.9999999999995,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -675,8 +675,8 @@
  {
   "Id": 89,
   "Producto": "tornillo driwal 1.1\/4",
-  "PrecioUnidadxBulto": 10.29,
-  "PrecioTotalBulto": 3086.9999999999995,
+  "PrecioUnidadxBulto": 11.28,
+  "PrecioTotalBulto": 3384,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -684,8 +684,8 @@
  {
   "Id": 90,
   "Producto": "tornillo driwal 1.1\/2",
-  "PrecioUnidadxBulto": 12.1,
-  "PrecioTotalBulto": 3630,
+  "PrecioUnidadxBulto": 13.27,
+  "PrecioTotalBulto": 3981,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -693,8 +693,8 @@
  {
   "Id": 91,
   "Producto": "tornillo driwal 2",
-  "PrecioUnidadxBulto": 15.36,
-  "PrecioTotalBulto": 4608,
+  "PrecioUnidadxBulto": 16.83,
+  "PrecioTotalBulto": 5048.999999999999,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "driwal.jpg"
@@ -702,8 +702,8 @@
  {
   "Id": 92,
   "Producto": "tornillo fix 4x35",
-  "PrecioUnidadxBulto": 12.97,
-  "PrecioTotalBulto": 2594,
+  "PrecioUnidadxBulto": 14.21,
+  "PrecioTotalBulto": 2842,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "fix.jpg"
@@ -711,8 +711,8 @@
  {
   "Id": 93,
   "Producto": "tornillo fix 5x50",
-  "PrecioUnidadxBulto": 27.81,
-  "PrecioTotalBulto": 5562,
+  "PrecioUnidadxBulto": 30.47,
+  "PrecioTotalBulto": 6094,
   "UnidadesPorBulto": 200,
   "Categoría": "BULONERA",
   "Img": "fix.jpg"
