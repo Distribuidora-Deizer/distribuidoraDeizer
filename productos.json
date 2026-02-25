@@ -309,7 +309,7 @@
  {
   "Id": 42,
   "Producto": "portalampara con chicote",
-  "Precio": 340,
+  "Precio": 405.16,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaLamparaChicote.jpg",
   "Descripción": "conexión antillama y protector plástico antiquiebre"
@@ -325,7 +325,7 @@
  {
   "Id": 44,
   "Producto": "porta bastidor exterior",
-  "Precio": 587,
+  "Precio": 651.95,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaBastidor.jpg"
  },
@@ -879,7 +879,7 @@
  {
   "Id": 113,
   "Producto": "fratacho pino 30cm",
-  "Precio": 1533,
+  "Precio": 1673.06,
   "PrecioUnidadxBulto": "SIN STOCK",
   "Categoría": "FERRETERIA",
   "Img": "fratacho.jpg"
@@ -2329,7 +2329,7 @@
  {
   "Id": 290,
   "Producto": "DESTAPA PILETAS 3MTS",
-  "Precio": 1532.7,
+  "Precio": 1655.94,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
@@ -2337,7 +2337,7 @@
  {
   "Id": 291,
   "Producto": "DESTAPA PILETAS 5MTS",
-  "Precio": 1982.18,
+  "Precio": 2101.19,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
@@ -2565,7 +2565,7 @@
  {
   "Id": 322,
   "Producto": "porta bastidor exterior premium",
-  "Precio": 982.66,
+  "Precio": 1090.14,
   "Categoría": "ELECTRICIDAD",
   "Img": "portabastidorpr.png"
  },
@@ -2621,7 +2621,7 @@
  {
   "Id": 330,
   "Producto": "CAÑO RIGIDO SEMI PESADO 20MM",
-  "Precio": 1499.81,
+  "Precio": 1553.38,
   "Categoría": "ELECTRICIDAD",
   "Img": "cañorigido.jpg"
  },
@@ -2638,28 +2638,28 @@
  {
   "Id": 332,
   "Producto": "CURVA 20MM ELEC",
-  "Precio": 328.76,
+  "Precio": 340.51,
   "Categoría": "ELECTRICIDAD",
   "Img": "curva.jpeg"
  },
  {
   "Id": 333,
   "Producto": "CONECTOR 20MM ELEC",
-  "Precio": 147.23,
+  "Precio": 152.5,
   "Categoría": "ELECTRICIDAD",
   "Img": "conector20mm.jpg"
  },
  {
   "Id": 334,
   "Producto": "GRAMPA 20MM  ELEC",
-  "Precio": 148.52,
+  "Precio": 153.83,
   "Categoría": "ELECTRICIDAD",
   "Img": "grampa.jpeg"
  },
  {
   "Id": 335,
   "Producto": "UNION 20MM ELEC ",
-  "Precio": 109.71,
+  "Precio": 113.63,
   "Categoría": "ELECTRICIDAD",
   "Img": "union20mm.jpg"
  },
