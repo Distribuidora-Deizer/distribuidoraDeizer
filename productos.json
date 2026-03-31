@@ -180,8 +180,8 @@
  {
   "Id": 25,
   "Producto": "fieltro goma espuma 20cm",
-  "Precio": 631.25,
-  "PrecioConDescuento": 606,
+  "Precio": 636,
+  "PrecioConDescuento": 662.5,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -189,8 +189,8 @@
  {
   "Id": 26,
   "Producto": "fieltro goma espuma 25cm",
-  "Precio": 700,
-  "PrecioConDescuento": 672,
+  "Precio": 705.6,
+  "PrecioConDescuento": 735,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "fieltro.jpg"
@@ -281,7 +281,7 @@
  {
   "Id": 38,
   "Producto": "caño corrugado de 3\/4 naranja",
-  "Precio": 3035,
+  "Precio": 3070,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloNaranja.jpg"
  },
@@ -302,7 +302,7 @@
  {
   "Id": 41,
   "Producto": "caño corrugado de 7\/8 blanco",
-  "Precio": 4567,
+  "Precio": 4889,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloBlanco.jpg"
  },
@@ -325,7 +325,7 @@
  {
   "Id": 44,
   "Producto": "porta bastidor exterior",
-  "Precio": 651.95,
+  "Precio": 685,
   "Categoría": "ELECTRICIDAD",
   "Img": "portaBastidor.jpg"
  },
@@ -547,14 +547,14 @@
  {
   "Id": 73,
   "Producto": "rodillo simil lana 22",
-  "Precio": 2250,
+  "Precio": 2499,
   "Categoría": "PINTURERIA",
   "Img": "rodilloSimilLana.jpg"
  },
  {
   "Id": 74,
   "Producto": "rodillo lana larga 22",
-  "Precio": 4320,
+  "Precio": 4500,
   "Categoría": "PINTURERIA",
   "Img": "rodilloLana.jpg"
  },
@@ -918,7 +918,7 @@
  {
   "Id": 118,
   "Producto": "balde de albañil 12 unidades",
-  "Precio": 1340,
+  "Precio": 1429,
   "Categoría": "FERRETERIA",
   "Notas": "consultar precio partir de 60 docenas",
   "Img": "baldeAlbañil.jpg"
@@ -926,7 +926,7 @@
  {
   "Id": 119,
   "Producto": "balde de albañil 36 unidades",
-  "Precio": 1299,
+  "Precio": 1380,
   "Categoría": "FERRETERIA",
   "Notas": "consultar precio partir de 60 docenas",
   "Img": "baldeAlbañil.jpg"
@@ -1017,56 +1017,56 @@
  {
   "Id": 130,
   "Producto": "GRASA DE LITIO 100G",
-  "Precio": 1348.23,
+  "Precio": 1446.86,
   "Categoría": "FERRETERIA",
   "Img": "GRASA100GLITIO.jpg"
  },
  {
   "Id": 131,
   "Producto": "GRASA DE LITIO 250G",
-  "Precio": 3007.43,
+  "Precio": 3202.25,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIO250G.jpg"
  },
  {
   "Id": 132,
   "Producto": "GRASA DE LITIO 500G",
-  "Precio": 5693.86,
+  "Precio": 6041.11,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIO500.jpg"
  },
  {
   "Id": 133,
   "Producto": "GRASA DE LITIO 1K",
-  "Precio": 10625.43,
+  "Precio": 11300.69,
   "Categoría": "FERRETERIA",
   "Img": "GRASALITIO1KG.jpg"
  },
  {
   "Id": 134,
   "Producto": "GRASA GRAFITADA 100G",
-  "Precio": 1284.86,
+  "Precio": 1379.51,
   "Categoría": "FERRETERIA",
   "Img": "GRASAGRAFITADA100.jpg"
  },
  {
   "Id": 135,
   "Producto": "GRASA GRAFITADA 250G",
-  "Precio": 2854.28,
+  "Precio": 3039.47,
   "Categoría": "FERRETERIA",
   "Img": "GRASAGRAFITADA250.jpg"
  },
  {
   "Id": 136,
   "Producto": "GRASA AMARILLA 100G",
-  "Precio": 1127.98,
+  "Precio": 1379.51,
   "Categoría": "FERRETERIA",
   "Img": "GRASAAMARILLA100G.jpg"
  },
  {
   "Id": 137,
   "Producto": "ACEITERA 100CM",
-  "Precio": 383.12,
+  "Precio": 502.54,
   "Categoría": "FERRETERIA",
   "Img": "ACEITEDE100cm.jpg"
  },
@@ -1080,42 +1080,42 @@
  {
   "Id": 139,
   "Producto": "LUBRICANTE 250CC",
-  "Precio": 2630.38,
+  "Precio": 2739.68,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE250.jpg"
  },
  {
   "Id": 140,
   "Producto": "LUBRICANTE 440CC",
-  "Precio": 3123.97,
+  "Precio": 3274,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE440.jpg"
  },
  {
   "Id": 141,
   "Producto": "PULVERIZADOR 500G",
-  "Precio": 1162.75,
+  "Precio": 1773.95,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
  {
   "Id": 142,
   "Producto": "PULVERIZADOR 1000G",
-  "Precio": 1421.45,
+  "Precio": 2090.48,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
  {
   "Id": 143,
   "Producto": "CONEXIÓN BONOMINI 50-40 BLANCO",
-  "Precio": 861,
+  "Precio": 947.56,
   "Categoría": "SANITARIO",
   "Img": "conexionBlanco.jpg"
  },
  {
   "Id": 144,
   "Producto": "CONEXION BONOMINI 50-40 PLATA",
-  "Precio": 1106,
+  "Precio": 1217.12,
   "Categoría": "SANITARIO",
   "Img": "conexionNegro.jpg"
  },
@@ -2155,7 +2155,7 @@
  {
   "Id": 270,
   "Producto": "AGUARRAS 1LTS",
-  "Precio": 2067,
+  "Precio": 2171,
   "PrecioUnidadxBulto": 1987.5,
   "PrecioTotalBulto": 23850,
   "UnidadesPorBulto": 12,
@@ -2165,7 +2165,7 @@
  {
   "Id": 271,
   "Producto": "THINNER ESTANDAR  1LT",
-  "Precio": 2912,
+  "Precio": 3055,
   "PrecioUnidadxBulto": 2800,
   "PrecioTotalBulto": 33600,
   "UnidadesPorBulto": 12,
@@ -2175,7 +2175,7 @@
  {
   "Id": 272,
   "Producto": "KEROSENE 1LTS",
-  "Precio": 2769,
+  "Precio": 2964,
   "PrecioUnidadxBulto": 2662.5,
   "PrecioTotalBulto": 31950,
   "UnidadesPorBulto": 12,
@@ -2193,7 +2193,7 @@
  {
   "Id": 274,
   "Producto": "ACIDO 1LTS",
-  "Precio": 1508,
+  "Precio": 1586,
   "PrecioUnidadxBulto": 1450,
   "PrecioTotalBulto": 17400,
   "UnidadesPorBulto": 12,
@@ -2536,7 +2536,7 @@
  {
   "Id": 318,
   "Producto": "SAPITO REGADOR PLASTICO PARA MANGUERA DE 1\/2 Y 3\/4",
-  "Precio": 422,
+  "Precio": 464.54,
   "Categoría": "JARDIN",
   "Img": "sapito.jpg"
  },
