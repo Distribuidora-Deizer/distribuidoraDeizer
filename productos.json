@@ -2,14 +2,14 @@
  {
   "Id": 1,
   "Producto": "Cinta Aisladora Tacsa 10m",
-  "Precio": 644.31,
+  "Precio": 680.5,
   "Categoría": "Cintas",
   "Img": "cinta.jpeg"
  },
  {
   "Id": 2,
   "Producto": "Cinta Aisladora Tacsa 20m",
-  "Precio": 1125.28,
+  "Precio": 1190.88,
   "Categoría": "Cintas",
   "Img": "cinta.jpeg"
  },
@@ -180,7 +180,7 @@
  {
   "Id": 25,
   "Producto": "fieltro goma espuma 20cm",
-  "Precio": 636,
+  "Precio": 722.5,
   "PrecioConDescuento": 662.5,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -189,7 +189,7 @@
  {
   "Id": 26,
   "Producto": "fieltro goma espuma 25cm",
-  "Precio": 705.6,
+  "Precio": 800,
   "PrecioConDescuento": 735,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
@@ -872,7 +872,7 @@
  {
   "Id": 112,
   "Producto": "zaranda 50x35cm",
-  "Precio": 4250,
+  "Precio": 4480,
   "Categoría": "FERRETERIA",
   "Img": "zaranda.jpg"
  },
@@ -894,7 +894,7 @@
  {
   "Id": 115,
   "Producto": "fratacho de piedra fino",
-  "Precio": 1700,
+  "Precio": 1937.5,
   "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -902,7 +902,7 @@
  {
   "Id": 116,
   "Producto": "fratacho de piedra mediano",
-  "Precio": 1700,
+  "Precio": 1937.5,
   "Categoría": "FERRETERIA ",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -910,7 +910,7 @@
  {
   "Id": 117,
   "Producto": "fratacho de piedra grueso",
-  "Precio": 1700,
+  "Precio": 1937.5,
   "Categoría": "FERRETERIA",
   "Img": "fratachoPlastico.jpg",
   "Descripción": "A PARTIR DE 12 UNIDADES SURTIDAS 1.560"
@@ -1250,7 +1250,7 @@
  {
   "Id": 163,
   "Producto": "REGULADOR 2MTS",
-  "Precio": 6847,
+  "Precio": 7190,
   "Categoría": "GAS",
   "Img": "regulador.jpg"
  },
