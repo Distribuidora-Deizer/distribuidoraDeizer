@@ -89,7 +89,6 @@
  {
   "Id": 12,
   "Producto": "SELLA ROSCAS AGUA 25cc",
-  "Precio": 1062,
   "PrecioConDescuento": 2906,
   "Categoría": "Ferreteria",
   "Img": "sellaRoscasAgua.jpeg"
@@ -129,21 +128,21 @@
  {
   "Id": 18,
   "Producto": "CANILLA ESFERICA  1\/2",
-  "Precio": 1200,
+  "Precio": 1277.65,
   "Categoría": "SANITARIO",
   "Img": "canillaEsfericaMedio.jpeg"
  },
  {
   "Id": 19,
   "Producto": "CANILLA ESFERICA 3\/4",
-  "Precio": 1113,
+  "Precio": 3949.85,
   "Categoría": "SANITARIO",
   "Img": "canillaEsfericaTrescuartos.jpg"
  },
  {
   "Id": 20,
   "Producto": "LLAVE ESFERICA 1\/2",
-  "Precio": 1137,
+  "Precio": 1738.63,
   "Categoría": "SANITARIO",
   "Img": "LlaveEsfericaMedio.jpg"
  },
@@ -157,7 +156,7 @@
  {
   "Id": 22,
   "Producto": "CANILLA PARA LAVARROPAS",
-  "Precio": 2046,
+  "Precio": 2951.19,
   "Categoría": "SANITARIO",
   "Img": "canillaLavarropas.jpeg"
  },
@@ -332,14 +331,14 @@
  {
   "Id": 45,
   "Producto": "acople rapido 1\/2",
-  "Precio": 999,
+  "Precio": 1527.84,
   "Categoría": "SANITARIO",
   "Img": "acopleRapido.jpg"
  },
  {
   "Id": 46,
   "Producto": "acople rapido 3\/4",
-  "Precio": 1217,
+  "Precio": 1860.29,
   "Categoría": "SANITARIO",
   "Img": "acopleRapido.jpg"
  },
@@ -496,7 +495,7 @@
  {
   "Id": 67,
   "Producto": "rodillo con funda 5",
-  "Precio": 455,
+  "Precio": 520,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "RODILLOCONFUNDA5CM.jpg",
@@ -505,7 +504,7 @@
  {
   "Id": 68,
   "Producto": "rodillo con funda 8",
-  "Precio": 487,
+  "Precio": 578.5,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "RODILLODE8CM.jpg",
@@ -514,7 +513,7 @@
  {
   "Id": 69,
   "Producto": "rodillo con funda 11",
-  "Precio": 533,
+  "Precio": 650,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "RODILLODE11CM.jpg",
@@ -523,7 +522,7 @@
  {
   "Id": 70,
   "Producto": "rodillo epoxi 5",
-  "Precio": 468,
+  "Precio": 565.5,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "EPOXIDE5CM.jpg"
@@ -531,7 +530,7 @@
  {
   "Id": 71,
   "Producto": "rodillo epoxi 8",
-  "Precio": 520,
+  "Precio": 663,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "EPOXIDE8CM.jpg"
@@ -539,7 +538,7 @@
  {
   "Id": 72,
   "Producto": "rodillo epoxi 11",
-  "Precio": 572,
+  "Precio": 734.5,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "EPOXIDE11CM.jpg"
@@ -728,8 +727,8 @@
  {
   "Id": 95,
   "Producto": "tarugo estandar 6mm",
-  "PrecioUnidadxBulto": 6.03,
-  "PrecioTotalBulto": 1809,
+  "PrecioUnidadxBulto": 7.6,
+  "PrecioTotalBulto": 2280,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEstandar.jpg"
@@ -737,8 +736,8 @@
  {
   "Id": 96,
   "Producto": "tarugo estandar 8mm",
-  "PrecioUnidadxBulto": 10.72,
-  "PrecioTotalBulto": 3216,
+  "PrecioUnidadxBulto": 13.31,
+  "PrecioTotalBulto": 3993,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEstandar.jpg"
@@ -746,8 +745,8 @@
  {
   "Id": 97,
   "Producto": "tarugo estandar 10mm",
-  "PrecioUnidadxBulto": 22.76,
-  "PrecioTotalBulto": 6828.000000000001,
+  "PrecioUnidadxBulto": 28.13,
+  "PrecioTotalBulto": 8439,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEstandar.jpg"
@@ -755,8 +754,8 @@
  {
   "Id": 98,
   "Producto": "tarugo con tope 6mm",
-  "PrecioUnidadxBulto": 7.11,
-  "PrecioTotalBulto": 2133,
+  "PrecioUnidadxBulto": 8.79,
+  "PrecioTotalBulto": 2636.9999999999995,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoTope.jpg"
@@ -764,8 +763,8 @@
  {
   "Id": 99,
   "Producto": "tarugo con tope 8mm",
-  "PrecioUnidadxBulto": 12.13,
-  "PrecioTotalBulto": 3639.0000000000005,
+  "PrecioUnidadxBulto": 15,
+  "PrecioTotalBulto": 4500,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoTope.jpg"
@@ -773,8 +772,8 @@
  {
   "Id": 100,
   "Producto": "tarugo con tope 10mm",
-  "PrecioUnidadxBulto": 23.96,
-  "PrecioTotalBulto": 7188,
+  "PrecioUnidadxBulto": 29.62,
+  "PrecioTotalBulto": 8886,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoTope.jpg"
@@ -782,8 +781,8 @@
  {
   "Id": 101,
   "Producto": "tarugo espiga 6mm",
-  "PrecioUnidadxBulto": 11.03,
-  "PrecioTotalBulto": 3309,
+  "PrecioUnidadxBulto": 13.63,
+  "PrecioTotalBulto": 4089.0000000000005,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEspiga.jpg"
@@ -791,8 +790,8 @@
  {
   "Id": 102,
   "Producto": "tarugo espiga 8mm",
-  "PrecioUnidadxBulto": 21.33,
-  "PrecioTotalBulto": 6398.999999999999,
+  "PrecioUnidadxBulto": 26.36,
+  "PrecioTotalBulto": 7908,
   "UnidadesPorBulto": 300,
   "Categoría": "BULONERA",
   "Img": "tarugoEspiga.jpg"
@@ -800,8 +799,8 @@
  {
   "Id": 103,
   "Producto": "tarugo espiga 10mm",
-  "PrecioUnidadxBulto": 44.74,
-  "PrecioTotalBulto": 11185,
+  "PrecioUnidadxBulto": 55.29,
+  "PrecioTotalBulto": 13822.5,
   "UnidadesPorBulto": 250,
   "Categoría": "BULONERA",
   "Img": "tarugoEspiga.jpg"
@@ -1129,7 +1128,7 @@
  {
   "Id": 146,
   "Producto": "ASIENTO DE INODORO PLASTICO BAHCO",
-  "Precio": 5108,
+  "Precio": 9799,
   "Categoría": "SANITARIO",
   "Img": "tapaInodoro.jpg"
  },
@@ -1339,7 +1338,7 @@
  {
   "Id": 175,
   "Producto": "YESO TIPO PARIS 1K",
-  "Precio": 966.03,
+  "Precio": 1004.67,
   "PrecioUnidadxBulto": 928.88,
   "PrecioTotalBulto": 5573.28,
   "UnidadesPorBulto": 6,
@@ -1349,7 +1348,7 @@
  {
   "Id": 176,
   "Producto": "YESO TIPO PARIS 2K",
-  "Precio": 1893.05,
+  "Precio": 1968.77,
   "PrecioUnidadxBulto": 1820.24,
   "PrecioTotalBulto": 10921.44,
   "UnidadesPorBulto": 6,
@@ -1359,7 +1358,7 @@
  {
   "Id": 177,
   "Producto": "YESO TIPO PARIS 5K",
-  "Precio": 4597.73,
+  "Precio": 4781.64,
   "PrecioUnidadxBulto": 4420.9,
   "PrecioTotalBulto": 17683.6,
   "UnidadesPorBulto": 4,
@@ -1369,7 +1368,7 @@
  {
   "Id": 178,
   "Producto": "YESO TIPO PARIS 10K",
-  "Precio": 9048.82,
+  "Precio": 9410.78,
   "PrecioUnidadxBulto": 8700.79,
   "PrecioTotalBulto": 34803.16,
   "UnidadesPorBulto": 4,
@@ -1379,7 +1378,7 @@
  {
   "Id": 179,
   "Producto": "CEMENTO PORLAND 1K",
-  "Precio": 877.23,
+  "Precio": 894.78,
   "PrecioUnidadxBulto": 843.49,
   "PrecioTotalBulto": 5060.9400000000005,
   "UnidadesPorBulto": 6,
@@ -1389,7 +1388,7 @@
  {
   "Id": 180,
   "Producto": "CEMENTO PORLAND 2K",
-  "Precio": 1684.79,
+  "Precio": 1748.48,
   "PrecioUnidadxBulto": 1619.99,
   "PrecioTotalBulto": 9719.94,
   "UnidadesPorBulto": 6,
@@ -1399,7 +1398,7 @@
  {
   "Id": 181,
   "Producto": "CEMENTO PORLAND 5K",
-  "Precio": 4141.39,
+  "Precio": 4224.22,
   "PrecioUnidadxBulto": 3982.11,
   "PrecioTotalBulto": 15928.44,
   "UnidadesPorBulto": 4,
@@ -1409,7 +1408,7 @@
  {
   "Id": 182,
   "Producto": "CEMENTO PORLAND 10K",
-  "Precio": 7336.13,
+  "Precio": 7482.87,
   "PrecioUnidadxBulto": 7053.98,
   "PrecioTotalBulto": 28215.92,
   "UnidadesPorBulto": 4,
@@ -1419,7 +1418,7 @@
  {
   "Id": 183,
   "Producto": "REVOQUE REF 2,5K",
-  "Precio": 886.46,
+  "Precio": 921.92,
   "PrecioUnidadxBulto": 852.37,
   "PrecioTotalBulto": 5114.22,
   "UnidadesPorBulto": 6,
@@ -1429,7 +1428,7 @@
  {
   "Id": 184,
   "Producto": "REVOQUE REF 5K",
-  "Precio": 1579.02,
+  "Precio": 1642.17,
   "PrecioUnidadxBulto": 1518.29,
   "PrecioTotalBulto": 9109.74,
   "UnidadesPorBulto": 6,
@@ -1439,7 +1438,7 @@
  {
   "Id": 185,
   "Producto": "REVOQUE REF 10K",
-  "Precio": 2982.92,
+  "Precio": 3102.23,
   "PrecioUnidadxBulto": 2868.19,
   "PrecioTotalBulto": 11472.76,
   "UnidadesPorBulto": 4,
@@ -1449,7 +1448,7 @@
  {
   "Id": 186,
   "Producto": "REVOQUE REF 30K",
-  "Precio": 8436.4,
+  "Precio": 8773.85,
   "PrecioUnidadxBulto": 8111.92,
   "PrecioTotalBulto": 32447.68,
   "UnidadesPorBulto": 4,
@@ -1459,7 +1458,7 @@
  {
   "Id": 187,
   "Producto": "MEZCLA ADHESIVA 2,5K",
-  "Precio": 1647.69,
+  "Precio": 1680.64,
   "PrecioUnidadxBulto": 1584.31,
   "PrecioTotalBulto": 9505.86,
   "UnidadesPorBulto": 6,
@@ -1469,7 +1468,7 @@
  {
   "Id": 188,
   "Producto": "MEZCLA ADHESIVA 5K",
-  "Precio": 3118.51,
+  "Precio": 3180.89,
   "PrecioUnidadxBulto": 2998.57,
   "PrecioTotalBulto": 17991.420000000002,
   "UnidadesPorBulto": 6,
@@ -1479,7 +1478,7 @@
  {
   "Id": 189,
   "Producto": "MEZCLA ADHESIVA 10K",
-  "Precio": 6000.49,
+  "Precio": 6120.5,
   "PrecioUnidadxBulto": 5769.7,
   "PrecioTotalBulto": 23078.8,
   "UnidadesPorBulto": 4,
@@ -1489,7 +1488,7 @@
  {
   "Id": 190,
   "Producto": "MEZCLA ADHESIVA 30K",
-  "Precio": 12245.46,
+  "Precio": 12490.37,
   "PrecioUnidadxBulto": 11774.48,
   "PrecioTotalBulto": 47097.92,
   "UnidadesPorBulto": 4,
@@ -1499,7 +1498,7 @@
  {
   "Id": 191,
   "Producto": "CEMENTO BLANCO 1K",
-  "Precio": 1620.02,
+  "Precio": 1765.82,
   "PrecioUnidadxBulto": 1557.71,
   "PrecioTotalBulto": 9346.26,
   "UnidadesPorBulto": 6,
@@ -1509,7 +1508,7 @@
  {
   "Id": 192,
   "Producto": "CEMENTO BLANCO 2K",
-  "Precio": 3170.36,
+  "Precio": 3455.68,
   "PrecioUnidadxBulto": 308.42,
   "PrecioTotalBulto": 1850.52,
   "UnidadesPorBulto": 6,
@@ -1519,7 +1518,7 @@
  {
   "Id": 193,
   "Producto": "CEMENTO BLANCO 5K",
-  "Precio": 7604.48,
+  "Precio": 8288.89,
   "PrecioUnidadxBulto": 7312,
   "PrecioTotalBulto": 29248,
   "UnidadesPorBulto": 4,
@@ -1529,7 +1528,7 @@
  {
   "Id": 194,
   "Producto": "CEMENTO BLANCO 10K",
-  "Precio": 15023.41,
+  "Precio": 16375.53,
   "PrecioUnidadxBulto": 14445.59,
   "PrecioTotalBulto": 57782.36,
   "UnidadesPorBulto": 4,
@@ -1539,7 +1538,7 @@
  {
   "Id": 195,
   "Producto": "CEMENTO RAPIDO GRIS 1K",
-  "Precio": 928.1,
+  "Precio": 955.95,
   "PrecioUnidadxBulto": 892.4,
   "PrecioTotalBulto": 5354.4,
   "UnidadesPorBulto": 6,
@@ -1549,7 +1548,7 @@
  {
   "Id": 196,
   "Producto": "CEMENTO RAPIDO GRIS 2K",
-  "Precio": 1726.6,
+  "Precio": 1778.4,
   "PrecioUnidadxBulto": 1660.19,
   "PrecioTotalBulto": 9961.14,
   "UnidadesPorBulto": 6,
@@ -1559,7 +1558,7 @@
  {
   "Id": 197,
   "Producto": "CEMENTO RAPIDO GRIS 5K",
-  "Precio": 4009.59,
+  "Precio": 4129.87,
   "PrecioUnidadxBulto": 3855.37,
   "PrecioTotalBulto": 15421.48,
   "UnidadesPorBulto": 4,
@@ -1569,7 +1568,7 @@
  {
   "Id": 198,
   "Producto": "CEMENTO RAPIDO GRIS 10K",
-  "Precio": 7948.5,
+  "Precio": 8186.96,
   "PrecioUnidadxBulto": 7642.79,
   "PrecioTotalBulto": 30571.16,
   "UnidadesPorBulto": 4,
@@ -1579,7 +1578,7 @@
  {
   "Id": 199,
   "Producto": "CEMENTO RAPIDO BLANCO 1K",
-  "Precio": 1854.42,
+  "Precio": 1891.5,
   "PrecioUnidadxBulto": 1783.09,
   "PrecioTotalBulto": 10698.539999999999,
   "UnidadesPorBulto": 6,
@@ -1589,7 +1588,7 @@
  {
   "Id": 200,
   "Producto": "CEMENTO RAPIDO BLANCO 2K",
-  "Precio": 3458.14,
+  "Precio": 3527.3,
   "PrecioUnidadxBulto": 3325.14,
   "PrecioTotalBulto": 19950.84,
   "UnidadesPorBulto": 6,
@@ -1599,7 +1598,7 @@
  {
   "Id": 201,
   "Producto": "CEMENTO RAPIDO BLANCO 5K",
-  "Precio": 8138.86,
+  "Precio": 8301.64,
   "PrecioUnidadxBulto": 7825.83,
   "PrecioTotalBulto": 31303.32,
   "UnidadesPorBulto": 4,
@@ -1609,7 +1608,7 @@
  {
   "Id": 202,
   "Producto": "CEMENTO RAPIDO BLANCO 10K",
-  "Precio": 16178.96,
+  "Precio": 16502.54,
   "PrecioUnidadxBulto": 15556.7,
   "PrecioTotalBulto": 62226.8,
   "UnidadesPorBulto": 4,
@@ -1619,7 +1618,7 @@
  {
   "Id": 203,
   "Producto": "FINO A LA CAL 5K",
-  "Precio": 1650.43,
+  "Precio": 1716.45,
   "PrecioUnidadxBulto": 1586.95,
   "PrecioTotalBulto": 9521.7,
   "UnidadesPorBulto": 6,
@@ -1629,7 +1628,7 @@
  {
   "Id": 204,
   "Producto": "FINO A LA CAL 10K",
-  "Precio": 2982.43,
+  "Precio": 3101.73,
   "PrecioUnidadxBulto": 2867.72,
   "PrecioTotalBulto": 17206.32,
   "UnidadesPorBulto": 6,
@@ -1639,7 +1638,7 @@
  {
   "Id": 205,
   "Producto": "FINO A LA CAL 30K",
-  "Precio": 8420.33,
+  "Precio": 8757.14,
   "PrecioUnidadxBulto": 8096.47,
   "PrecioTotalBulto": 32385.88,
   "UnidadesPorBulto": 4,
@@ -1649,7 +1648,7 @@
  {
   "Id": 206,
   "Producto": "MIX INTERIOR 0,75K",
-  "Precio": 3377.67,
+  "Precio": 3512.77,
   "PrecioUnidadxBulto": 3247.76,
   "PrecioTotalBulto": 19486.56,
   "UnidadesPorBulto": 6,
@@ -1659,7 +1658,7 @@
  {
   "Id": 207,
   "Producto": "MIX INTERIOR 2K",
-  "Precio": 6682.25,
+  "Precio": 6949.54,
   "PrecioUnidadxBulto": 6425.24,
   "PrecioTotalBulto": 38551.44,
   "UnidadesPorBulto": 6,
@@ -1669,7 +1668,7 @@
  {
   "Id": 208,
   "Producto": "MIX INTERIOR 5K",
-  "Precio": 14112.82,
+  "Precio": 14677.33,
   "PrecioUnidadxBulto": 13570.02,
   "PrecioTotalBulto": 54280.08,
   "UnidadesPorBulto": 4,
@@ -1679,7 +1678,7 @@
  {
   "Id": 209,
   "Producto": "MIX EXTERIOR 0,75K",
-  "Precio": 3377.67,
+  "Precio": 3512.77,
   "PrecioUnidadxBulto": 3247.76,
   "PrecioTotalBulto": 19486.56,
   "UnidadesPorBulto": 6,
@@ -1689,7 +1688,7 @@
  {
   "Id": 210,
   "Producto": "MIX EXTERIOR 2K",
-  "Precio": 6682.25,
+  "Precio": 6949.54,
   "PrecioUnidadxBulto": 6425.24,
   "PrecioTotalBulto": 38551.44,
   "UnidadesPorBulto": 6,
@@ -1699,7 +1698,7 @@
  {
   "Id": 211,
   "Producto": "MIX EXTERIOR 5K",
-  "Precio": 14112.82,
+  "Precio": 14677.33,
   "PrecioUnidadxBulto": 13570.02,
   "PrecioTotalBulto": 54280.08,
   "UnidadesPorBulto": 4,
@@ -1709,7 +1708,7 @@
  {
   "Id": 212,
   "Producto": "CONCRETO",
-  "Precio": 1754.21,
+  "Precio": 1824.37,
   "PrecioUnidadxBulto": 1686.74,
   "UnidadesPorBulto": "x",
   "Categoría": "POLVOS",
@@ -1718,7 +1717,7 @@
  {
   "Id": 213,
   "Producto": "CONCRETO",
-  "Precio": 3281.33,
+  "Precio": 3412.59,
   "PrecioUnidadxBulto": 3155.13,
   "UnidadesPorBulto": "x",
   "Categoría": "POLVOS",
@@ -1747,7 +1746,7 @@
  {
   "Id": 216,
   "Producto": "FERRITE ROJO 0,5K",
-  "Precio": 1532.9,
+  "Precio": 1624.87,
   "PrecioUnidadxBulto": 1473.96,
   "PrecioTotalBulto": 8843.76,
   "UnidadesPorBulto": 6,
@@ -1757,7 +1756,7 @@
  {
   "Id": 217,
   "Producto": "FERRITE ROJO 1K",
-  "Precio": 2803.15,
+  "Precio": 2971.33,
   "PrecioUnidadxBulto": 2695.34,
   "PrecioTotalBulto": 16172.04,
   "UnidadesPorBulto": 6,
@@ -1767,7 +1766,7 @@
  {
   "Id": 218,
   "Producto": "FERRITE AMARILLO 0,5K",
-  "Precio": 1802.76,
+  "Precio": 1910.92,
   "PrecioUnidadxBulto": 1733.42,
   "PrecioTotalBulto": 10400.52,
   "UnidadesPorBulto": 6,
@@ -1777,7 +1776,7 @@
  {
   "Id": 219,
   "Producto": "FERRITE AMARILLO 1K",
-  "Precio": 3315.61,
+  "Precio": 3514.54,
   "PrecioUnidadxBulto": 3188.09,
   "PrecioTotalBulto": 19128.54,
   "UnidadesPorBulto": 6,
@@ -1787,7 +1786,7 @@
  {
   "Id": 220,
   "Producto": "FERRITE AZUL 0,5K",
-  "Precio": 2930.49,
+  "Precio": 3194.22,
   "PrecioUnidadxBulto": 2817.78,
   "PrecioTotalBulto": 16906.68,
   "UnidadesPorBulto": 6,
@@ -1797,7 +1796,7 @@
  {
   "Id": 221,
   "Producto": "FERRITE AZUL 1K",
-  "Precio": 5302.27,
+  "Precio": 5779.47,
   "PrecioUnidadxBulto": 5098.33,
   "PrecioTotalBulto": 30589.98,
   "UnidadesPorBulto": 6,
@@ -1807,7 +1806,7 @@
  {
   "Id": 222,
   "Producto": "FERRITE VERDE 0,5K",
-  "Precio": 3044.29,
+  "Precio": 3318.28,
   "PrecioUnidadxBulto": 2927.2,
   "PrecioTotalBulto": 17563.199999999997,
   "UnidadesPorBulto": 6,
@@ -1817,7 +1816,7 @@
  {
   "Id": 223,
   "Producto": "FERRITE VERDE 1K",
-  "Precio": 5508.17,
+  "Precio": 6003.91,
   "PrecioUnidadxBulto": 5296.31,
   "PrecioTotalBulto": 31777.86,
   "UnidadesPorBulto": 6,
@@ -1910,7 +1909,7 @@
  {
   "Id": 235,
   "Producto": "cupla fusion 20",
-  "Precio": 126.63,
+  "Precio": 120.44,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA 20.jpg"
  },
@@ -2572,28 +2571,28 @@
  {
   "Id": 323,
   "Producto": "TAPA JELUZ ",
-  "Precio": 301.05,
+  "Precio": 349.86,
   "Categoría": "ELECTRICIDAD",
   "Img": "tapajeluz.jpg"
  },
  {
   "Id": 324,
   "Producto": "BASTIDOR JELUZ ",
-  "Precio": 291.71,
+  "Precio": 339.01,
   "Categoría": "ELECTRICIDAD",
   "Img": "bastidorjeluz.jpg"
  },
  {
   "Id": 325,
   "Producto": "TOMA BINOR JELUZ ",
-  "Precio": 596.55,
+  "Precio": 693.29,
   "Categoría": "ELECTRICIDAD",
   "Img": "tomajeluz.jpg"
  },
  {
   "Id": 326,
   "Producto": "TAPON JELUZ ",
-  "Precio": 67.68,
+  "Precio": 78.65,
   "Categoría": "ELECTRICIDAD",
   "Img": "taponjeluz.jpg"
  },
@@ -2607,7 +2606,7 @@
  {
   "Id": 328,
   "Producto": "PULSADOR JELUZ ",
-  "Precio": 668.25,
+  "Precio": 776.61,
   "Categoría": "ELECTRICIDAD",
   "Img": "pulsador.jpeg"
  },
@@ -2638,21 +2637,21 @@
  {
   "Id": 332,
   "Producto": "CURVA 20MM ELEC",
-  "Precio": 340.51,
+  "Precio": 346.5,
   "Categoría": "ELECTRICIDAD",
   "Img": "curva.jpeg"
  },
  {
   "Id": 333,
   "Producto": "CONECTOR 20MM ELEC",
-  "Precio": 152.5,
+  "Precio": 155.17,
   "Categoría": "ELECTRICIDAD",
   "Img": "conector20mm.jpg"
  },
  {
   "Id": 334,
   "Producto": "GRAMPA 20MM  ELEC",
-  "Precio": 153.83,
+  "Precio": 156.53,
   "Categoría": "ELECTRICIDAD",
   "Img": "grampa.jpeg"
  },
