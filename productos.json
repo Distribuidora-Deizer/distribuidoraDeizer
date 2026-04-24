@@ -16,7 +16,7 @@
  {
   "Id": 3,
   "Producto": "CINTA DE\nEMBALAR SIGMA 48X40",
-  "Precio": 694.56,
+  "Precio": 754,
   "Categoría": "Cintas",
   "Img": "cintaSigma.jpeg"
  },
@@ -279,28 +279,28 @@
  {
   "Id": 38,
   "Producto": "caño corrugado de 3\/4 naranja",
-  "Precio": 3070,
+  "Precio": 3327,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloNaranja.jpg"
  },
  {
   "Id": 39,
   "Producto": "caño corrugado de 7\/8 naranja",
-  "Precio": 4730,
+  "Precio": 4659,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloNaranja.jpg"
  },
  {
   "Id": 40,
   "Producto": "caño corrugado de 3\/4 blanco",
-  "Precio": 3828,
+  "Precio": 3665,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloBlanco.jpg"
  },
  {
   "Id": 41,
   "Producto": "caño corrugado de 7\/8 blanco",
-  "Precio": 4889,
+  "Precio": 5119,
   "Categoría": "ELECTRICIDAD",
   "Img": "rolloBlanco.jpg"
  },
@@ -380,7 +380,7 @@
  {
   "Id": 52,
   "Producto": "enduido 1lt x 6 unid",
-  "Precio": 3004,
+  "Precio": 2690,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "enduido1lt.png"
@@ -388,7 +388,7 @@
  {
   "Id": 53,
   "Producto": "enduido 1lt x 12unid",
-  "Precio": 2900,
+  "Precio": 2522,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "enduido1lt.png"
@@ -396,7 +396,7 @@
  {
   "Id": 54,
   "Producto": "enduido 1lt x 24unid",
-  "Precio": 2693,
+  "Precio": 2354,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "enduido1lt.png"
@@ -404,7 +404,7 @@
  {
   "Id": 55,
   "Producto": "enduido 4lt",
-  "Precio": 7567,
+  "Precio": 7599,
   "Categoría": "PINTURERIA",
   "Img": "enduido.jpg"
  },
@@ -439,14 +439,14 @@
  {
   "Id": 60,
   "Producto": "fijador 1lt",
-  "Precio": 2952,
+  "Precio": 2398,
   "Categoría": "PINTURERIA",
   "Img": "fijador.jpg"
  },
  {
   "Id": 61,
   "Producto": "pincel 7",
-  "Precio": 583.42,
+  "Precio": 706.32,
   "Categoría": "PINTURERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "pincel.jpg"
@@ -1015,49 +1015,49 @@
  {
   "Id": 130,
   "Producto": "GRASA DE LITIO 100G",
-  "Precio": 1446.86,
+  "Precio": 1555.77,
   "Categoría": "FERRETERIA",
   "Img": "GRASA100GLITIO.jpg"
  },
  {
   "Id": 131,
   "Producto": "GRASA DE LITIO 250G",
-  "Precio": 3202.25,
+  "Precio": 3407.62,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIO250G.jpg"
  },
  {
   "Id": 132,
   "Producto": "GRASA DE LITIO 500G",
-  "Precio": 6041.11,
+  "Precio": 6413.38,
   "Categoría": "FERRETERIA",
   "Img": "GRASADELITIO500.jpg"
  },
  {
   "Id": 133,
   "Producto": "GRASA DE LITIO 1K",
-  "Precio": 11300.69,
+  "Precio": 11928.37,
   "Categoría": "FERRETERIA",
   "Img": "GRASALITIO1KG.jpg"
  },
  {
   "Id": 134,
   "Producto": "GRASA GRAFITADA 100G",
-  "Precio": 1379.51,
+  "Precio": 1485.86,
   "Categoría": "FERRETERIA",
   "Img": "GRASAGRAFITADA100.jpg"
  },
  {
   "Id": 135,
   "Producto": "GRASA GRAFITADA 250G",
-  "Precio": 3039.47,
+  "Precio": 3238.67,
   "Categoría": "FERRETERIA",
   "Img": "GRASAGRAFITADA250.jpg"
  },
  {
   "Id": 136,
   "Producto": "GRASA AMARILLA 100G",
-  "Precio": 1379.51,
+  "Precio": 1319.26,
   "Categoría": "FERRETERIA",
   "Img": "GRASAAMARILLA100G.jpg"
  },
@@ -1078,28 +1078,28 @@
  {
   "Id": 139,
   "Producto": "LUBRICANTE 250CC",
-  "Precio": 2739.68,
+  "Precio": 2888.13,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE250.jpg"
  },
  {
   "Id": 140,
   "Producto": "LUBRICANTE 440CC",
-  "Precio": 3274,
+  "Precio": 3495.03,
   "Categoría": "FERRETERIA",
   "Img": "LUBRICANTE440.jpg"
  },
  {
   "Id": 141,
   "Producto": "PULVERIZADOR 500G",
-  "Precio": 1773.95,
+  "Precio": 1935.77,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
  {
   "Id": 142,
   "Producto": "PULVERIZADOR 1000G",
-  "Precio": 2090.48,
+  "Precio": 2922.24,
   "Categoría": "FERRETERIA",
   "Img": "PULVERIZADOR500GY1LTS.jpg"
  },
@@ -1227,14 +1227,14 @@
  {
   "Id": 160,
   "Producto": "CAJA DE HIERRO 10X5",
-  "Precio": 311.85,
+  "Precio": 335.24,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaHierro.jpg"
  },
  {
   "Id": 161,
   "Producto": "CAJA DE HIERRO OCTOGONAL 10X5",
-  "Precio": 311.85,
+  "Precio": 335.24,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaOctogonal.jpg"
  },
@@ -1309,21 +1309,21 @@
  {
   "Id": 171,
   "Producto": "CAJA PARA TERMICA 1-2",
-  "Precio": 833,
+  "Precio": 951.15,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaTermica1-2.jpg"
  },
  {
   "Id": 172,
   "Producto": "CAJA PARA TERMICA 2-4",
-  "Precio": 1407,
+  "Precio": 1605.5,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaTermica2-4.jpg"
  },
  {
   "Id": 173,
   "Producto": "CAJA PARA TERMICA 4-8",
-  "Precio": 2707,
+  "Precio": 3090.1,
   "Categoría": "ELECTRICIDAD",
   "Img": "cajaTermica4-8.jpg"
  },
@@ -2327,7 +2327,7 @@
  {
   "Id": 290,
   "Producto": "DESTAPA PILETAS 3MTS",
-  "Precio": 1655.94,
+  "Precio": 1738.1,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
@@ -2335,7 +2335,7 @@
  {
   "Id": 291,
   "Producto": "DESTAPA PILETAS 5MTS",
-  "Precio": 2101.19,
+  "Precio": 2206.1,
   "Categoría": "FERRETERIA",
   "Notas": "Ideal para destapar bañaderas, piletas, rejillas, etc.",
   "Img": "destapaPiletas.jpg"
