@@ -566,7 +566,7 @@
  {
   "Id": 76,
   "Producto": "bandeja jr plana",
-  "Precio": 368,
+  "Precio": 429,
   "Categoría": "PINTURERIA",
   "Img": "BANDEJAPLANAJUNIORS.jpg"
  },
@@ -580,7 +580,7 @@
  {
   "Id": 78,
   "Producto": "bandeja de colgar",
-  "Precio": 870,
+  "Precio": 999,
   "Categoría": "PINTURERIA",
   "Img": "bandejaColgar.jpg"
  },
@@ -932,7 +932,7 @@
  {
   "Id": 120,
   "Producto": "llana dentada 6mm",
-  "Precio": 3107,
+  "Precio": 3357.45,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "llanaDentada.jpg",
@@ -941,7 +941,7 @@
  {
   "Id": 121,
   "Producto": "llana dentada 8mm",
-  "Precio": 3107,
+  "Precio": 3357.45,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "llanaDentada.jpg",
@@ -950,7 +950,7 @@
  {
   "Id": 122,
   "Producto": "llana dentada 10mm",
-  "Precio": 3107,
+  "Precio": 3357.45,
   "Categoría": "FERRETERIA",
   "Notas": "DSTO EXTRA SOLO APLICABLE EN PRONTO PAGO Y CTA AL DIA",
   "Img": "llanaDentada.jpg",
@@ -1171,56 +1171,56 @@
  {
   "Id": 152,
   "Producto": "GRAMPA MEDIA OMEGA 5\/8",
-  "Precio": 51.57,
+  "Precio": 77.28,
   "Categoría": "ELECTRICIDAD",
   "Img": "mediaOmega.jpg"
  },
  {
   "Id": 153,
   "Producto": "GRAMPA MEDIA OMEGA 3\/4",
-  "Precio": 56.12,
+  "Precio": 86.94,
   "Categoría": "ELECTRICIDAD",
   "Img": "mediaOmega.jpg"
  },
  {
   "Id": 154,
   "Producto": "GRAMPA MEDIA OMEGA 7\/8",
-  "Precio": 85.79,
+  "Precio": 130.4,
   "Categoría": "ELECTRICIDAD",
   "Img": "mediaOmega.jpg"
  },
  {
   "Id": 155,
   "Producto": "GRAMPA MEDIA OMEGA 1''",
-  "Precio": 101.93,
+  "Precio": 156.48,
   "Categoría": "ELECTRICIDAD",
   "Img": "mediaOmega.jpg"
  },
  {
   "Id": 156,
   "Producto": "GRAMPA OMEGA 5\/8",
-  "Precio": 46.16,
+  "Precio": 58.65,
   "Categoría": "ELECTRICIDAD",
   "Img": "omega.jpg"
  },
  {
   "Id": 157,
   "Producto": "GRAMPA OMEGA 3\/4",
-  "Precio": 49.11,
+  "Precio": 69.55,
   "Categoría": "ELECTRICIDAD",
   "Img": "omega.jpg"
  },
  {
   "Id": 158,
   "Producto": "GRAMPA OMEGA 7\/8",
-  "Precio": 71.46,
+  "Precio": 108.66,
   "Categoría": "ELECTRICIDAD",
   "Img": "omega.jpg"
  },
  {
   "Id": 159,
   "Producto": "GRAMPA OMEGA 1''",
-  "Precio": 85.03,
+  "Precio": 130.4,
   "Categoría": "ELECTRICIDAD",
   "Img": "omega.jpg"
  },
@@ -1337,7 +1337,7 @@
  {
   "Id": 175,
   "Producto": "YESO TIPO PARIS 1K",
-  "Precio": 1004.67,
+  "Precio": 1064.95,
   "PrecioUnidadxBulto": 928.88,
   "PrecioTotalBulto": 5573.28,
   "UnidadesPorBulto": 6,
@@ -1347,7 +1347,7 @@
  {
   "Id": 176,
   "Producto": "YESO TIPO PARIS 2K",
-  "Precio": 1968.77,
+  "Precio": 2086.9,
   "PrecioUnidadxBulto": 1820.24,
   "PrecioTotalBulto": 10921.44,
   "UnidadesPorBulto": 6,
@@ -1357,7 +1357,7 @@
  {
   "Id": 177,
   "Producto": "YESO TIPO PARIS 5K",
-  "Precio": 4781.64,
+  "Precio": 5068.54,
   "PrecioUnidadxBulto": 4420.9,
   "PrecioTotalBulto": 17683.6,
   "UnidadesPorBulto": 4,
@@ -1367,7 +1367,7 @@
  {
   "Id": 178,
   "Producto": "YESO TIPO PARIS 10K",
-  "Precio": 9410.78,
+  "Precio": 9975.24,
   "PrecioUnidadxBulto": 8700.79,
   "PrecioTotalBulto": 34803.16,
   "UnidadesPorBulto": 4,
@@ -1377,7 +1377,7 @@
  {
   "Id": 179,
   "Producto": "CEMENTO PORLAND 1K",
-  "Precio": 894.78,
+  "Precio": 930.57,
   "PrecioUnidadxBulto": 843.49,
   "PrecioTotalBulto": 5060.9400000000005,
   "UnidadesPorBulto": 6,
@@ -1387,7 +1387,7 @@
  {
   "Id": 180,
   "Producto": "CEMENTO PORLAND 2K",
-  "Precio": 1748.48,
+  "Precio": 1787.22,
   "PrecioUnidadxBulto": 1619.99,
   "PrecioTotalBulto": 9719.94,
   "UnidadesPorBulto": 6,
@@ -1397,7 +1397,7 @@
  {
   "Id": 181,
   "Producto": "CEMENTO PORLAND 5K",
-  "Precio": 4224.22,
+  "Precio": 4393.19,
   "PrecioUnidadxBulto": 3982.11,
   "PrecioTotalBulto": 15928.44,
   "UnidadesPorBulto": 4,
@@ -1407,7 +1407,7 @@
  {
   "Id": 182,
   "Producto": "CEMENTO PORLAND 10K",
-  "Precio": 7482.87,
+  "Precio": 7782.18,
   "PrecioUnidadxBulto": 7053.98,
   "PrecioTotalBulto": 28215.92,
   "UnidadesPorBulto": 4,
@@ -1417,7 +1417,7 @@
  {
   "Id": 183,
   "Producto": "REVOQUE REF 2,5K",
-  "Precio": 921.92,
+  "Precio": 949.58,
   "PrecioUnidadxBulto": 852.37,
   "PrecioTotalBulto": 5114.22,
   "UnidadesPorBulto": 6,
@@ -1427,7 +1427,7 @@
  {
   "Id": 184,
   "Producto": "REVOQUE REF 5K",
-  "Precio": 1642.17,
+  "Precio": 1691.44,
   "PrecioUnidadxBulto": 1518.29,
   "PrecioTotalBulto": 9109.74,
   "UnidadesPorBulto": 6,
@@ -1437,7 +1437,7 @@
  {
   "Id": 185,
   "Producto": "REVOQUE REF 10K",
-  "Precio": 3102.23,
+  "Precio": 3195.31,
   "PrecioUnidadxBulto": 2868.19,
   "PrecioTotalBulto": 11472.76,
   "UnidadesPorBulto": 4,
@@ -1447,7 +1447,7 @@
  {
   "Id": 186,
   "Producto": "REVOQUE REF 30K",
-  "Precio": 8773.85,
+  "Precio": 9037.08,
   "PrecioUnidadxBulto": 8111.92,
   "PrecioTotalBulto": 32447.68,
   "UnidadesPorBulto": 4,
@@ -1457,7 +1457,7 @@
  {
   "Id": 187,
   "Producto": "MEZCLA ADHESIVA 2,5K",
-  "Precio": 1680.64,
+  "Precio": 1731.06,
   "PrecioUnidadxBulto": 1584.31,
   "PrecioTotalBulto": 9505.86,
   "UnidadesPorBulto": 6,
@@ -1467,7 +1467,7 @@
  {
   "Id": 188,
   "Producto": "MEZCLA ADHESIVA 5K",
-  "Precio": 3180.89,
+  "Precio": 3276.31,
   "PrecioUnidadxBulto": 2998.57,
   "PrecioTotalBulto": 17991.420000000002,
   "UnidadesPorBulto": 6,
@@ -1477,7 +1477,7 @@
  {
   "Id": 189,
   "Producto": "MEZCLA ADHESIVA 10K",
-  "Precio": 6120.5,
+  "Precio": 6304.11,
   "PrecioUnidadxBulto": 5769.7,
   "PrecioTotalBulto": 23078.8,
   "UnidadesPorBulto": 4,
@@ -1487,7 +1487,7 @@
  {
   "Id": 190,
   "Producto": "MEZCLA ADHESIVA 30K",
-  "Precio": 12490.37,
+  "Precio": 12865.08,
   "PrecioUnidadxBulto": 11774.48,
   "PrecioTotalBulto": 47097.92,
   "UnidadesPorBulto": 4,
@@ -1497,7 +1497,7 @@
  {
   "Id": 191,
   "Producto": "CEMENTO BLANCO 1K",
-  "Precio": 1765.82,
+  "Precio": 1695.18,
   "PrecioUnidadxBulto": 1557.71,
   "PrecioTotalBulto": 9346.26,
   "UnidadesPorBulto": 6,
@@ -1507,7 +1507,7 @@
  {
   "Id": 192,
   "Producto": "CEMENTO BLANCO 2K",
-  "Precio": 3455.68,
+  "Precio": 3317.46,
   "PrecioUnidadxBulto": 308.42,
   "PrecioTotalBulto": 1850.52,
   "UnidadesPorBulto": 6,
@@ -1517,7 +1517,7 @@
  {
   "Id": 193,
   "Producto": "CEMENTO BLANCO 5K",
-  "Precio": 8288.89,
+  "Precio": 7957.34,
   "PrecioUnidadxBulto": 7312,
   "PrecioTotalBulto": 29248,
   "UnidadesPorBulto": 4,
@@ -1527,7 +1527,7 @@
  {
   "Id": 194,
   "Producto": "CEMENTO BLANCO 10K",
-  "Precio": 16375.53,
+  "Precio": 15720.51,
   "PrecioUnidadxBulto": 14445.59,
   "PrecioTotalBulto": 57782.36,
   "UnidadesPorBulto": 4,
@@ -1537,7 +1537,7 @@
  {
   "Id": 195,
   "Producto": "CEMENTO RAPIDO GRIS 1K",
-  "Precio": 955.95,
+  "Precio": 1003.74,
   "PrecioUnidadxBulto": 892.4,
   "PrecioTotalBulto": 5354.4,
   "UnidadesPorBulto": 6,
@@ -1547,7 +1547,7 @@
  {
   "Id": 196,
   "Producto": "CEMENTO RAPIDO GRIS 2K",
-  "Precio": 1778.4,
+  "Precio": 1867.32,
   "PrecioUnidadxBulto": 1660.19,
   "PrecioTotalBulto": 9961.14,
   "UnidadesPorBulto": 6,
@@ -1557,7 +1557,7 @@
  {
   "Id": 197,
   "Producto": "CEMENTO RAPIDO GRIS 5K",
-  "Precio": 4129.87,
+  "Precio": 4336.37,
   "PrecioUnidadxBulto": 3855.37,
   "PrecioTotalBulto": 15421.48,
   "UnidadesPorBulto": 4,
@@ -1567,7 +1567,7 @@
  {
   "Id": 198,
   "Producto": "CEMENTO RAPIDO GRIS 10K",
-  "Precio": 8186.96,
+  "Precio": 8596.3,
   "PrecioUnidadxBulto": 7642.79,
   "PrecioTotalBulto": 30571.16,
   "UnidadesPorBulto": 4,
@@ -1577,7 +1577,7 @@
  {
   "Id": 199,
   "Producto": "CEMENTO RAPIDO BLANCO 1K",
-  "Precio": 1891.5,
+  "Precio": 1815.84,
   "PrecioUnidadxBulto": 1783.09,
   "PrecioTotalBulto": 10698.539999999999,
   "UnidadesPorBulto": 6,
@@ -1587,7 +1587,7 @@
  {
   "Id": 200,
   "Producto": "CEMENTO RAPIDO BLANCO 2K",
-  "Precio": 3527.3,
+  "Precio": 3386.21,
   "PrecioUnidadxBulto": 3325.14,
   "PrecioTotalBulto": 19950.84,
   "UnidadesPorBulto": 6,
@@ -1597,7 +1597,7 @@
  {
   "Id": 201,
   "Producto": "CEMENTO RAPIDO BLANCO 5K",
-  "Precio": 8301.64,
+  "Precio": 7969.57,
   "PrecioUnidadxBulto": 7825.83,
   "PrecioTotalBulto": 31303.32,
   "UnidadesPorBulto": 4,
@@ -1607,7 +1607,7 @@
  {
   "Id": 202,
   "Producto": "CEMENTO RAPIDO BLANCO 10K",
-  "Precio": 16502.54,
+  "Precio": 15842.44,
   "PrecioUnidadxBulto": 15556.7,
   "PrecioTotalBulto": 62226.8,
   "UnidadesPorBulto": 4,
@@ -1617,7 +1617,7 @@
  {
   "Id": 203,
   "Producto": "FINO A LA CAL 5K",
-  "Precio": 1716.45,
+  "Precio": 1767.94,
   "PrecioUnidadxBulto": 1586.95,
   "PrecioTotalBulto": 9521.7,
   "UnidadesPorBulto": 6,
@@ -1627,7 +1627,7 @@
  {
   "Id": 204,
   "Producto": "FINO A LA CAL 10K",
-  "Precio": 3101.73,
+  "Precio": 3194.77,
   "PrecioUnidadxBulto": 2867.72,
   "PrecioTotalBulto": 17206.32,
   "UnidadesPorBulto": 6,
@@ -1637,7 +1637,7 @@
  {
   "Id": 205,
   "Producto": "FINO A LA CAL 30K",
-  "Precio": 8757.14,
+  "Precio": 9019.86,
   "PrecioUnidadxBulto": 8096.47,
   "PrecioTotalBulto": 32385.88,
   "UnidadesPorBulto": 4,
@@ -1647,7 +1647,7 @@
  {
   "Id": 206,
   "Producto": "MIX INTERIOR 0,75K",
-  "Precio": 3512.77,
+  "Precio": 3618.15,
   "PrecioUnidadxBulto": 3247.76,
   "PrecioTotalBulto": 19486.56,
   "UnidadesPorBulto": 6,
@@ -1657,7 +1657,7 @@
  {
   "Id": 207,
   "Producto": "MIX INTERIOR 2K",
-  "Precio": 6949.54,
+  "Precio": 7158.03,
   "PrecioUnidadxBulto": 6425.24,
   "PrecioTotalBulto": 38551.44,
   "UnidadesPorBulto": 6,
@@ -1667,7 +1667,7 @@
  {
   "Id": 208,
   "Producto": "MIX INTERIOR 5K",
-  "Precio": 14677.33,
+  "Precio": 15117.65,
   "PrecioUnidadxBulto": 13570.02,
   "PrecioTotalBulto": 54280.08,
   "UnidadesPorBulto": 4,
@@ -1677,7 +1677,7 @@
  {
   "Id": 209,
   "Producto": "MIX EXTERIOR 0,75K",
-  "Precio": 3512.77,
+  "Precio": 3618.15,
   "PrecioUnidadxBulto": 3247.76,
   "PrecioTotalBulto": 19486.56,
   "UnidadesPorBulto": 6,
@@ -1687,7 +1687,7 @@
  {
   "Id": 210,
   "Producto": "MIX EXTERIOR 2K",
-  "Precio": 6949.54,
+  "Precio": 7158.03,
   "PrecioUnidadxBulto": 6425.24,
   "PrecioTotalBulto": 38551.44,
   "UnidadesPorBulto": 6,
@@ -1697,7 +1697,7 @@
  {
   "Id": 211,
   "Producto": "MIX EXTERIOR 5K",
-  "Precio": 14677.33,
+  "Precio": 15117.65,
   "PrecioUnidadxBulto": 13570.02,
   "PrecioTotalBulto": 54280.08,
   "UnidadesPorBulto": 4,
@@ -1707,7 +1707,7 @@
  {
   "Id": 212,
   "Producto": "CONCRETO",
-  "Precio": 1824.37,
+  "Precio": 1879.1,
   "PrecioUnidadxBulto": 1686.74,
   "UnidadesPorBulto": "x",
   "Categoría": "POLVOS",
@@ -1716,7 +1716,7 @@
  {
   "Id": 213,
   "Producto": "CONCRETO",
-  "Precio": 3412.59,
+  "Precio": 3514.97,
   "PrecioUnidadxBulto": 3155.13,
   "UnidadesPorBulto": "x",
   "Categoría": "POLVOS",
@@ -1825,7 +1825,7 @@
  {
   "Id": 224,
   "Producto": "PASTINA BLANCA 1K",
-  "Precio": 1553.39,
+  "Precio": 1625.47,
   "PrecioUnidadxBulto": 1493.64,
   "PrecioTotalBulto": 8961.84,
   "UnidadesPorBulto": 6,
@@ -1835,7 +1835,7 @@
  {
   "Id": 225,
   "Producto": "PASTINA BLANCA 2K",
-  "Precio": 3051.25,
+  "Precio": 3192.83,
   "PrecioUnidadxBulto": 2933.89,
   "PrecioTotalBulto": 17603.34,
   "UnidadesPorBulto": 6,
@@ -1845,252 +1845,252 @@
  {
   "Id": 226,
   "Producto": "CODO FUSION 20",
-  "Precio": 160.4,
+  "Precio": 207.37,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO 20.jpg"
  },
  {
   "Id": 227,
   "Producto": "CODO FUSION 20-45",
-  "Precio": 160.4,
+  "Precio": 283.54,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO20A45.jpg"
  },
  {
   "Id": 228,
   "Producto": "CODO FUSION 25",
-  "Precio": 270.14,
+  "Precio": 290.74,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO 20.jpg"
  },
  {
   "Id": 229,
   "Producto": "CODO FUSION 25-45",
-  "Precio": 270.14,
+  "Precio": 342.05,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO25A45.jpg"
  },
  {
   "Id": 230,
   "Producto": "CODO FUSION 32",
-  "Precio": 481.19,
+  "Precio": 489.75,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO 20.jpg"
  },
  {
   "Id": 231,
   "Producto": "CODO FUSION 32-45",
-  "Precio": 531.85,
+  "Precio": 369.26,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO32A45.jpg"
  },
  {
   "Id": 232,
   "Producto": "CODO FUSION IRH 20X1\/2",
-  "Precio": 1173.44,
+  "Precio": 2409.21,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO25HEMBRA.jpg"
  },
  {
   "Id": 233,
   "Producto": "CODO FUSION IRH 25x3\/4",
-  "Precio": 1899.45,
+  "Precio": 3613.98,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO25HEMBRA.jpg"
  },
  {
   "Id": 234,
   "Producto": "CODO FUSION IRM 20x1\/2",
-  "Precio": 1468.91,
+  "Precio": 2799.85,
   "Categoría": "FUSION",
   "Img": "fusion\/CODO MACHO 20.jpg"
  },
  {
   "Id": 235,
   "Producto": "cupla fusion 20",
-  "Precio": 120.44,
+  "Precio": 153.92,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA 20.jpg"
  },
  {
   "Id": 236,
   "Producto": "cupla fusion 25",
-  "Precio": 185.72,
+  "Precio": 226.61,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA 20.jpg"
  },
  {
   "Id": 237,
   "Producto": "cupla fusion 32",
-  "Precio": 295.47,
+  "Precio": 273.64,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA 20.jpg"
  },
  {
   "Id": 238,
   "Producto": "cupla fusion IRH 20x1\/2",
-  "Precio": 1139.67,
+  "Precio": 2174.45,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA HEMBRA 20.jpg"
  },
  {
   "Id": 239,
   "Producto": "cupla fusion IRH 25x3\/4",
-  "Precio": 1688.4,
+  "Precio": 2955.41,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA HEMBRA 20.jpg"
  },
  {
   "Id": 240,
   "Producto": "cupla fusion IRM 20x1\/2",
-  "Precio": 1502.68,
+  "Precio": 2810.8,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA MACHO 25.jpg"
  },
  {
   "Id": 241,
   "Producto": "cupla fusion IRM 25x3\/4",
-  "Precio": 1891.01,
+  "Precio": 3499.86,
   "Categoría": "FUSION",
   "Img": "fusion\/CUPLA MACHO 25.jpg"
  },
  {
   "Id": 242,
   "Producto": "curva sobrepaso corto 20",
-  "Precio": 590.94,
+  "Precio": 549.41,
   "Categoría": "FUSION",
   "Img": "fusion\/CURVA SOBRE PASO 20.jpg"
  },
  {
   "Id": 243,
   "Producto": "curva sobrepaso corto 25",
-  "Precio": 818.87,
+  "Precio": 633.56,
   "Categoría": "FUSION",
   "Img": "fusion\/CURVA SOBRE PASO 20.jpg"
  },
  {
   "Id": 244,
   "Producto": "tapa fusion 20mm",
-  "Precio": 118.19,
+  "Precio": 210.1,
   "Categoría": "FUSION",
   "Img": "fusion\/TAPA 20.jpg"
  },
  {
   "Id": 245,
   "Producto": "tapa fusion 25mm",
-  "Precio": 185.72,
+  "Precio": 256.54,
   "Categoría": "FUSION",
   "Img": "fusion\/TAPA 20.jpg"
  },
  {
   "Id": 246,
   "Producto": "tapa fusion 32mm",
-  "Precio": 236.38,
+  "Precio": 287.63,
   "Categoría": "FUSION",
   "Img": "fusion\/TAPA 20.jpg"
  },
  {
   "Id": 247,
   "Producto": "tee fusion 20mm",
-  "Precio": 236.38,
+  "Precio": 279.86,
   "Categoría": "FUSION",
   "Img": "fusion\/TEE 20.png"
  },
  {
   "Id": 248,
   "Producto": "tee fusion 25mm",
-  "Precio": 363.01,
+  "Precio": 287.63,
   "Categoría": "FUSION",
   "Img": "fusion\/TEE 20.png"
  },
  {
   "Id": 249,
   "Producto": "union doble 20mm",
-  "Precio": 658.48,
+  "Precio": 1205.96,
   "Categoría": "FUSION",
   "Img": "fusion\/UNION DOBLE 20.jpg"
  },
  {
   "Id": 250,
   "Producto": "union doble 25mm",
-  "Precio": 920.18,
+  "Precio": 1494.51,
   "Categoría": "FUSION",
   "Img": "fusion\/UNION DOBLE 20.jpg"
  },
  {
   "Id": 251,
   "Producto": "buje fusion 25x20mm",
-  "Precio": 270.68,
+  "Precio": 250.12,
   "Categoría": "FUSION",
   "Img": "fusion\/BUJE20A25.jpg"
  },
  {
   "Id": 252,
   "Producto": "buje fusion 32x25mm",
-  "Precio": 410,
+  "Precio": 267.23,
   "Categoría": "FUSION",
   "Img": "fusion\/BUJE20A25.jpg"
  },
  {
   "Id": 253,
   "Producto": "espiga ½ rosca hembra a 3\/4",
-  "Precio": 219.52,
+  "Precio": 194,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
  },
  {
   "Id": 254,
   "Producto": "espiga ½ rosca macho ",
-  "Precio": 67.46,
+  "Precio": 105,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
  },
  {
   "Id": 255,
   "Producto": "espiga ½ rosca hembra ",
-  "Precio": 170.17,
+  "Precio": 146,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
  },
  {
   "Id": 256,
   "Producto": "espiga ½ rosca macho a 3\/4",
-  "Precio": 141.8,
+  "Precio": 121,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
  },
  {
   "Id": 257,
   "Producto": "espiga ¾ rosca hembra",
-  "Precio": 178.94,
+  "Precio": 174,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAHEMBRA.JPG"
  },
  {
   "Id": 258,
   "Producto": "espiga ¾ rosca macho",
-  "Precio": 99.36,
+  "Precio": 176,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGA1-2ROSCAMACHO.jpg"
  },
  {
   "Id": 259,
   "Producto": "espiga codo ½ rca hembra",
-  "Precio": 178.1,
+  "Precio": 231,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODOHEMBRA1-2.jpg"
  },
  {
   "Id": 260,
   "Producto": "espiga codo ½ R\/macho",
-  "Precio": 211.92,
+  "Precio": 254,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
  },
  {
   "Id": 261,
   "Producto": "espiga codo 3\/4 R\/macho",
-  "Precio": 342.03,
+  "Precio": 357,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODOMACHO1-2.jpg"
  },
@@ -2104,56 +2104,56 @@
  {
   "Id": 263,
   "Producto": "espiga doble de 1\/2",
-  "Precio": 74.14,
+  "Precio": 105,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
  },
  {
   "Id": 264,
   "Producto": "espiga doble de 3\/4",
-  "Precio": 107.17,
+  "Precio": 178,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGADOBLE1-2.jpg"
  },
  {
   "Id": 265,
   "Producto": "espiga doble de 3\/4 x 1\/2",
-  "Precio": 141.8,
+  "Precio": 144,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGADOBLE1-2A3-4.jpg"
  },
  {
   "Id": 266,
   "Producto": "espiga doble codo 1\/2",
-  "Precio": 143.49,
+  "Precio": 204,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODODE1-2.jpg"
  },
  {
   "Id": 267,
   "Producto": "espiga doble codo 3\/4",
-  "Precio": 211.27,
+  "Precio": 154,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/ESPIGACODODE1-2.jpg"
  },
  {
   "Id": 268,
   "Producto": "espiga tee triple 1\/2",
-  "Precio": 250.24,
+  "Precio": 310,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/TEEESPIGA1-2.jpg"
  },
  {
   "Id": 269,
   "Producto": "espiga tee triple 3\/4",
-  "Precio": 339.65,
+  "Precio": 417,
   "Categoría": "POLIETILENO",
   "Img": "polietileno\/TEEESPIGA3-4.jpg"
  },
  {
   "Id": 270,
   "Producto": "AGUARRAS 1LTS",
-  "Precio": 2171,
+  "Precio": 2323.1,
   "PrecioUnidadxBulto": 1987.5,
   "PrecioTotalBulto": 23850,
   "UnidadesPorBulto": 12,
