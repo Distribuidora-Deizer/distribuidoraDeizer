@@ -2636,42 +2636,42 @@
  {
   "Id": 332,
   "Producto": "CURVA 20MM ELEC",
-  "Precio": 346.5,
+  "Precio": 360.94,
   "Categoría": "ELECTRICIDAD",
   "Img": "curva.jpeg"
  },
  {
   "Id": 333,
   "Producto": "CONECTOR 20MM ELEC",
-  "Precio": 155.17,
+  "Precio": 161.64,
   "Categoría": "ELECTRICIDAD",
   "Img": "conector20mm.jpg"
  },
  {
   "Id": 334,
   "Producto": "GRAMPA 20MM  ELEC",
-  "Precio": 156.53,
+  "Precio": 163.05,
   "Categoría": "ELECTRICIDAD",
   "Img": "grampa.jpeg"
  },
  {
   "Id": 335,
   "Producto": "UNION 20MM ELEC ",
-  "Precio": 113.63,
+  "Precio": 120.44,
   "Categoría": "ELECTRICIDAD",
   "Img": "union20mm.jpg"
  },
  {
   "Id": 336,
   "Producto": "FICHA HEMBRA",
-  "Precio": 410,
+  "Precio": 474.71,
   "Categoría": "ELECTRICIDAD",
   "Img": "fichahembra.jpeg"
  },
  {
   "Id": 337,
   "Producto": "FICHA MACHO",
-  "Precio": 410,
+  "Precio": 450.44,
   "Categoría": "ELECTRICIDAD",
   "Img": "fichamacho.jpeg"
  },
